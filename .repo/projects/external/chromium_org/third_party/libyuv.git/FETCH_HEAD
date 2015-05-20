@@ -1,0 +1,33 @@
+cc4715174d8b03ce395daa8ef6535f3c42f21e5a		branch 'idea133-weekly-release' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+866b9f96c27bcc0fc989ea1c303dab374fd7ec88		branch 'l-preview' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+866b9f96c27bcc0fc989ea1c303dab374fd7ec88		branch 'lollipop-dev' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+7fa661e85bd21e7a2be01bea88c971a0dd7c60fb		branch 'lollipop-mr1-dev' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+4a38e49f572127cfe59378fbd320a2ae0531d597		branch 'lollipop-mr1-release' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+866b9f96c27bcc0fc989ea1c303dab374fd7ec88		branch 'lollipop-release' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+866b9f96c27bcc0fc989ea1c303dab374fd7ec88		branch 'lollipop-wear-release' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+f0390410b84e23f0fc1d1f0e99072eb38d9ff5b5		branch 'master' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+f0390410b84e23f0fc1d1f0e99072eb38d9ff5b5		branch 'master-soong' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+e2a7c3c438c2cb87f179d2b1fcd78faa00f5ec45		branch 'ub-webview-m40-release' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+69434eb655fcebd19598f5de7a78e3f06d4637c6	not-for-merge	tag 'android-5.0.0_r1' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+a9edf737ecf78a90d5c0638d59691993e46428fd	not-for-merge	tag 'android-5.0.0_r2' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+fc05aa11aa5b9f43eb573a0496e382a4d252ebfd	not-for-merge	tag 'android-5.0.0_r3' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+f4d750d69613eb1914a67a887da213273c895ae4	not-for-merge	tag 'android-5.0.0_r4' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+8d7784a165dc9adacf1fb88b03b6f4c9217540b0	not-for-merge	tag 'android-5.0.0_r5' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+03a09456844817197c447c526182ac1ef2f0a981	not-for-merge	tag 'android-5.0.0_r5.1' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+80e4cb05d6ab0acb19816130979f8d816cccd138	not-for-merge	tag 'android-5.0.0_r6' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+eeafc8ef06972fe414e6d8f02f479474cc53a94c	not-for-merge	tag 'android-5.0.0_r7' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+aae0c081fc977610ad0f81596de2df39367b90ed	not-for-merge	tag 'android-5.0.1_r1' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+126b363584d7fce7a67187f85b96404e67d7e3b6	not-for-merge	tag 'android-5.0.2_r1' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+a233a302b7b100556182a3979867b10224d18ccf	not-for-merge	tag 'android-5.0.2_r3' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+c63c43e9a74f503733212fee866d206b40adef0e	not-for-merge	tag 'android-5.1.0_r1' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+0a08445b3ecbd30601141102e80a0fe87771c5be	not-for-merge	tag 'android-5.1.0_r3' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+ef3540f574d34f536b5d2a14af2ffbcac39c9f50	not-for-merge	tag 'android-5.1.0_r5' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+fb94d618d9cb8c1810b317eb5ba1a8828c6601c6	not-for-merge	tag 'android-5.1.1_r1' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+6493af0222697ba0f05721dfe93e015670cae463	not-for-merge	tag 'android-5.1.1_r2' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+9c621d28316dda3b715c4ad45bd4f040c01af4f1	not-for-merge	tag 'android-cts-5.1_r1' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+a10ff40e30fab13f5d68f3b158979ec75bb95fd3	not-for-merge	tag 'android-l-preview_r2' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+e1d1d847cb0007ce7665e61dcdd260b422906b31	not-for-merge	tag 'android-wear-5.0.0_r1' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+9886dd9d89472654d0d3d2429aefc7fa836292e2	not-for-merge	tag 'webview-m40_r1' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+32d650830e8321b3307400f6a4bc3a2cf5255fc4	not-for-merge	tag 'webview-m40_r2' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+960b292af59299062369b2315729d1ed723d182d	not-for-merge	tag 'webview-m40_r3' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv
+5edcbed14a62d8403918b9d587de388f0fbdc9ea	not-for-merge	tag 'webview-m40_r4' of https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv

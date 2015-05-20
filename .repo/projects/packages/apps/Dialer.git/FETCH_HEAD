@@ -1,0 +1,81 @@
+60ab95138ea9ae5d891f40c238f5bbb0bc71f6ac		branch 'idea133' of https://android.googlesource.com/platform/packages/apps/Dialer
+dc372cc7464e7869e6ca0caed6a81bd53e43a6e1		branch 'idea133-weekly-release' of https://android.googlesource.com/platform/packages/apps/Dialer
+1dd46a5c676325d20b7a042d0d0d3c7d9365d0bd		branch 'jb-mr2-dev' of https://android.googlesource.com/platform/packages/apps/Dialer
+1dfd01546403df1d1db4576ddef43be05e8283ae		branch 'jb-mr2-release' of https://android.googlesource.com/platform/packages/apps/Dialer
+1dd46a5c676325d20b7a042d0d0d3c7d9365d0bd		branch 'jb-mr2.0-release' of https://android.googlesource.com/platform/packages/apps/Dialer
+1dd46a5c676325d20b7a042d0d0d3c7d9365d0bd		branch 'jb-mr2.0.0-release' of https://android.googlesource.com/platform/packages/apps/Dialer
+f65b3dfbdc74eaa283462cfda963e5287f21c6f9		branch 'kitkat-cts-dev' of https://android.googlesource.com/platform/packages/apps/Dialer
+8c30c2ce74427677a0d1b83f686da4c7f0fe9f46		branch 'kitkat-dev' of https://android.googlesource.com/platform/packages/apps/Dialer
+6f9a86b2d0a3977f196831333dd7b8fede8b7b0d		branch 'kitkat-mr1-release' of https://android.googlesource.com/platform/packages/apps/Dialer
+6f9a86b2d0a3977f196831333dd7b8fede8b7b0d		branch 'kitkat-mr1.1-release' of https://android.googlesource.com/platform/packages/apps/Dialer
+97794b6c991a71d9bd1b490a17f7f199f06c5a1f		branch 'kitkat-mr2-release' of https://android.googlesource.com/platform/packages/apps/Dialer
+97794b6c991a71d9bd1b490a17f7f199f06c5a1f		branch 'kitkat-mr2.1-release' of https://android.googlesource.com/platform/packages/apps/Dialer
+97794b6c991a71d9bd1b490a17f7f199f06c5a1f		branch 'kitkat-mr2.2-release' of https://android.googlesource.com/platform/packages/apps/Dialer
+f8a70beb19f92b00e0ea17cf6279a2fb191f4d2a		branch 'kitkat-release' of https://android.googlesource.com/platform/packages/apps/Dialer
+97794b6c991a71d9bd1b490a17f7f199f06c5a1f		branch 'kitkat-wear' of https://android.googlesource.com/platform/packages/apps/Dialer
+5cb300ef50e9942eef746319dd1b1b6e7c2c05e2		branch 'l-preview' of https://android.googlesource.com/platform/packages/apps/Dialer
+0dffb21114a5025a5d484b389d0ba797d8639577		branch 'lollipop-dev' of https://android.googlesource.com/platform/packages/apps/Dialer
+06d7d08ecac60bca1472b5e380db7ce6fad0ea43		branch 'lollipop-mr1-dev' of https://android.googlesource.com/platform/packages/apps/Dialer
+17c2f110847c21bcc923f7b3312b06203aa79798		branch 'lollipop-mr1-release' of https://android.googlesource.com/platform/packages/apps/Dialer
+140247da793bcf4b06d66b0bc191f1a05807d116		branch 'lollipop-release' of https://android.googlesource.com/platform/packages/apps/Dialer
+68b0ee54c1f77b9884c100ad6b21887b1b9d37e8		branch 'lollipop-wear-release' of https://android.googlesource.com/platform/packages/apps/Dialer
+f2c37bf718df8360e9a91c58d8f639991680266b		branch 'master' of https://android.googlesource.com/platform/packages/apps/Dialer
+5173e266dd0cc500d8d7e066ea603330d0d49830		branch 'master-soong' of https://android.googlesource.com/platform/packages/apps/Dialer
+2035fc54a53c541e00c1ca7357401950469fc458		branch 'tools_r22.2' of https://android.googlesource.com/platform/packages/apps/Dialer
+04eeb3a8415a499dacc2cf2a01e6ede1de2eb14c	not-for-merge	tag 'android-4.3.1_r1' of https://android.googlesource.com/platform/packages/apps/Dialer
+1e4d885cc388903eadfcfa8c6751d6d1836bc9e6	not-for-merge	tag 'android-4.3_r0.9' of https://android.googlesource.com/platform/packages/apps/Dialer
+0ec83b8b101aff9c98e47ba890bb54ea13f72ce3	not-for-merge	tag 'android-4.3_r0.9.1' of https://android.googlesource.com/platform/packages/apps/Dialer
+70c10b2160e741f1645ffc2e5508ecbf261172ab	not-for-merge	tag 'android-4.3_r1' of https://android.googlesource.com/platform/packages/apps/Dialer
+f879b5236e257b0833fecb4485139bdadad96ce9	not-for-merge	tag 'android-4.3_r1.1' of https://android.googlesource.com/platform/packages/apps/Dialer
+747b8c89d81de97c95cc2f090e468f2f0fdb0d97	not-for-merge	tag 'android-4.3_r2' of https://android.googlesource.com/platform/packages/apps/Dialer
+e45cd9d14c9e8baa46da92f01b664ba32e2ef806	not-for-merge	tag 'android-4.3_r2.1' of https://android.googlesource.com/platform/packages/apps/Dialer
+e2476d1ca28d1b7a7743a9a2ba46cbcdf7cce8c6	not-for-merge	tag 'android-4.3_r2.2' of https://android.googlesource.com/platform/packages/apps/Dialer
+ecb8e1d155a07d4bec81efbe092b9b7fae4b80f6	not-for-merge	tag 'android-4.3_r2.3' of https://android.googlesource.com/platform/packages/apps/Dialer
+c675cb621ebad72085ac9651c24371d66615eebc	not-for-merge	tag 'android-4.3_r3' of https://android.googlesource.com/platform/packages/apps/Dialer
+0b584de02af2fe5da793dcd4d5fdd54f6418abb2	not-for-merge	tag 'android-4.3_r3.1' of https://android.googlesource.com/platform/packages/apps/Dialer
+fe3d072ffbf24e70955d9dfb3c0961baabe3d4d4	not-for-merge	tag 'android-4.4.1_r1' of https://android.googlesource.com/platform/packages/apps/Dialer
+92e0df324ce7a6857bba12c2f1452283ece00efc	not-for-merge	tag 'android-4.4.1_r1.0.1' of https://android.googlesource.com/platform/packages/apps/Dialer
+f100d0a2b527ca2d6538bfa8a83a5c7552d1060e	not-for-merge	tag 'android-4.4.2_r1' of https://android.googlesource.com/platform/packages/apps/Dialer
+3676f30954e9f9535ef481bd1b2d4bd5d2b474ef	not-for-merge	tag 'android-4.4.2_r1.0.1' of https://android.googlesource.com/platform/packages/apps/Dialer
+1a1c5b52450defcaed239bf683f56d077af4013d	not-for-merge	tag 'android-4.4.2_r2' of https://android.googlesource.com/platform/packages/apps/Dialer
+16a3a9c0075cc966145218503bdd5614d77c979e	not-for-merge	tag 'android-4.4.2_r2.0.1' of https://android.googlesource.com/platform/packages/apps/Dialer
+2ad340c6e8813c61e3fb0b110ad092c3d707e29c	not-for-merge	tag 'android-4.4.3_r1' of https://android.googlesource.com/platform/packages/apps/Dialer
+5b5264dd942126ce1ca61723abed65cd2694cf42	not-for-merge	tag 'android-4.4.3_r1.0.1' of https://android.googlesource.com/platform/packages/apps/Dialer
+922cde3bb24c2992099d79814f66cd6c495dbde4	not-for-merge	tag 'android-4.4.3_r1.1' of https://android.googlesource.com/platform/packages/apps/Dialer
+7363d95692a1b61ffbd9750e94cce72541bf127c	not-for-merge	tag 'android-4.4.3_r1.1.0.1' of https://android.googlesource.com/platform/packages/apps/Dialer
+0cd655baec36fa1bc0d214fd1a86e405cfd6f14c	not-for-merge	tag 'android-4.4.4_r1' of https://android.googlesource.com/platform/packages/apps/Dialer
+5de5121bf6f6d8a6d5b66676ca85d07a9844c933	not-for-merge	tag 'android-4.4.4_r1.0.1' of https://android.googlesource.com/platform/packages/apps/Dialer
+824944b2aace971e9b6c763439240f093e00cfe8	not-for-merge	tag 'android-4.4.4_r2' of https://android.googlesource.com/platform/packages/apps/Dialer
+72c299abdfb476a9028429cd0792d4da66bc798e	not-for-merge	tag 'android-4.4.4_r2.0.1' of https://android.googlesource.com/platform/packages/apps/Dialer
+34c22f98c2bd73e037354a9791a3733a01dc440c	not-for-merge	tag 'android-4.4_r0.7' of https://android.googlesource.com/platform/packages/apps/Dialer
+f8ee34df68538552d6f165b88d721def1d806c4c	not-for-merge	tag 'android-4.4_r0.8' of https://android.googlesource.com/platform/packages/apps/Dialer
+11de2244bef60f26a9f19313f9cc281a969128fd	not-for-merge	tag 'android-4.4_r0.9' of https://android.googlesource.com/platform/packages/apps/Dialer
+61c6ef85cdab33a4e704a96097a6911bbcc9a5da	not-for-merge	tag 'android-4.4_r1' of https://android.googlesource.com/platform/packages/apps/Dialer
+558a82083125f62598563885124358b6afb4c625	not-for-merge	tag 'android-4.4_r1.0.1' of https://android.googlesource.com/platform/packages/apps/Dialer
+393e38b795f6ff3d379e9287cefa85a23be0d153	not-for-merge	tag 'android-4.4_r1.1' of https://android.googlesource.com/platform/packages/apps/Dialer
+5d63d77c0da1f1ecdc24b1e9e690b727d4ce711a	not-for-merge	tag 'android-4.4_r1.1.0.1' of https://android.googlesource.com/platform/packages/apps/Dialer
+438bb347cba686130c013e07cac1f5a05c682f25	not-for-merge	tag 'android-4.4_r1.2' of https://android.googlesource.com/platform/packages/apps/Dialer
+3f9f375fb7a9f0bfc5d94119cc8beb4be1dab65b	not-for-merge	tag 'android-4.4_r1.2.0.1' of https://android.googlesource.com/platform/packages/apps/Dialer
+fa5de7c2a0eb1a223092762d6cdd1ac5b3b934cc	not-for-merge	tag 'android-4.4w_r1' of https://android.googlesource.com/platform/packages/apps/Dialer
+f38ad4adc2aa2222ef7672b4ca49ba32e420c2b8	not-for-merge	tag 'android-5.0.0_r1' of https://android.googlesource.com/platform/packages/apps/Dialer
+10102100a6eef555273aac52f4260c704cf91c8d	not-for-merge	tag 'android-5.0.0_r2' of https://android.googlesource.com/platform/packages/apps/Dialer
+35f2253fa3c4912bbcc802677b255c43e558b252	not-for-merge	tag 'android-5.0.0_r3' of https://android.googlesource.com/platform/packages/apps/Dialer
+3c18758f957e7dd0384e8617b90b4ce8809c1bd5	not-for-merge	tag 'android-5.0.0_r4' of https://android.googlesource.com/platform/packages/apps/Dialer
+c2f953a1a36cbd63235217ffad1c4f17cc5742d5	not-for-merge	tag 'android-5.0.0_r5' of https://android.googlesource.com/platform/packages/apps/Dialer
+33babc8573b2f18bc7ce6547bffb7a4ae7a5df97	not-for-merge	tag 'android-5.0.0_r5.1' of https://android.googlesource.com/platform/packages/apps/Dialer
+4a7bf16b0c859e36f310bb43120a5a40d32edd49	not-for-merge	tag 'android-5.0.0_r6' of https://android.googlesource.com/platform/packages/apps/Dialer
+e49081dbbe596f914f873b3f4ca68eb69c634ba5	not-for-merge	tag 'android-5.0.0_r7' of https://android.googlesource.com/platform/packages/apps/Dialer
+2483a092ce17e273465786affc353df2bd856041	not-for-merge	tag 'android-5.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Dialer
+a4bfccb5b52a5cceccaae6fe23ef7f093e03cf71	not-for-merge	tag 'android-5.0.2_r1' of https://android.googlesource.com/platform/packages/apps/Dialer
+fc1d4d90b881073e08d8d94d045111fd6d262722	not-for-merge	tag 'android-5.0.2_r3' of https://android.googlesource.com/platform/packages/apps/Dialer
+cbd7dc04bfd082b885b61954612081eb882e4555	not-for-merge	tag 'android-5.1.0_r1' of https://android.googlesource.com/platform/packages/apps/Dialer
+759e7d808b504681fb062e628d66f63f29a45267	not-for-merge	tag 'android-5.1.0_r3' of https://android.googlesource.com/platform/packages/apps/Dialer
+04821436e22ec1319d030c74cac6b40d79742f69	not-for-merge	tag 'android-5.1.0_r5' of https://android.googlesource.com/platform/packages/apps/Dialer
+f746df4bf50eda9d5deb0db8a53cc76f01608cd4	not-for-merge	tag 'android-5.1.1_r1' of https://android.googlesource.com/platform/packages/apps/Dialer
+c1c8f68b12d76f42eb350861627fc0456e964904	not-for-merge	tag 'android-5.1.1_r2' of https://android.googlesource.com/platform/packages/apps/Dialer
+47132f4ea64e4d9df4eed1c294ead679cde08b8c	not-for-merge	tag 'android-cts-4.4_r1' of https://android.googlesource.com/platform/packages/apps/Dialer
+f1ebea04c620f610d566fd6d020f769daf94f0b3	not-for-merge	tag 'android-cts-5.1_r1' of https://android.googlesource.com/platform/packages/apps/Dialer
+17fa44d086ab299511e8782e1fb0fed2c4f05946	not-for-merge	tag 'android-l-preview_r2' of https://android.googlesource.com/platform/packages/apps/Dialer
+ff5eaabb870438878928ddbdf6bcd08a18c41ee6	not-for-merge	tag 'android-sdk-4.4.2_r1' of https://android.googlesource.com/platform/packages/apps/Dialer
+722a1116b6572e3fdf538461fea01712f0f3de5e	not-for-merge	tag 'android-sdk-4.4.2_r1.0.1' of https://android.googlesource.com/platform/packages/apps/Dialer
+36e36a7a4b4841900cc0a300923176de68d4aaf5	not-for-merge	tag 'android-wear-5.0.0_r1' of https://android.googlesource.com/platform/packages/apps/Dialer

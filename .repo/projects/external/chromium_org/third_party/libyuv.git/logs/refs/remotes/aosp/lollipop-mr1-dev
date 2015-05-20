@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 7fa661e85bd21e7a2be01bea88c971a0dd7c60fb andrei <andrei@N915F-selnx-perm.(none)> 1432030083 +0300	fetch --progress /home/andrei/edge/kernel/.repo/projects/external/chromium_org/third_party/libyuv.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head

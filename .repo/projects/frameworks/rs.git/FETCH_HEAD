@@ -1,0 +1,116 @@
+356a02a07ba174e290bd61e2d1b0287c990acc72		branch 'idea133' of https://android.googlesource.com/platform/frameworks/rs
+a5b0367f8875425596f4f7a3e939f9bc03209162		branch 'idea133-weekly-release' of https://android.googlesource.com/platform/frameworks/rs
+9d6b2b359c43a388090aa34b3a558c262214192b		branch 'jb-dev' of https://android.googlesource.com/platform/frameworks/rs
+9d6b2b359c43a388090aa34b3a558c262214192b		branch 'jb-mr0-release' of https://android.googlesource.com/platform/frameworks/rs
+97d35e81f1a2a9469be3fa82c78666058b4f7800		branch 'jb-mr1-dev' of https://android.googlesource.com/platform/frameworks/rs
+902868b7c94f0c16b53e28ee1dd68c4e4a24f964		branch 'jb-mr1-dev-plus-aosp' of https://android.googlesource.com/platform/frameworks/rs
+f5cf4a541655eccb902925f38607dbcb0687ca13		branch 'jb-mr1-release' of https://android.googlesource.com/platform/frameworks/rs
+8a12a658d4f9889a6bfe7807248c65537db8eec1		branch 'jb-mr1.1-dev' of https://android.googlesource.com/platform/frameworks/rs
+1f80b2c8b2b52c836c4039f716f702f96f213b0d		branch 'jb-mr1.1-dev-plus-aosp' of https://android.googlesource.com/platform/frameworks/rs
+36f07d854de88949d632f77bffab322ffa826bcc		branch 'jb-mr1.1-release' of https://android.googlesource.com/platform/frameworks/rs
+b0934b67b95cc27e2358c2aa4db5f7c1067c8f9b		branch 'jb-mr2-dev' of https://android.googlesource.com/platform/frameworks/rs
+c09485a09c29f1dbc47f96c6bf36d047c293abed		branch 'jb-mr2-release' of https://android.googlesource.com/platform/frameworks/rs
+b0934b67b95cc27e2358c2aa4db5f7c1067c8f9b		branch 'jb-mr2.0-release' of https://android.googlesource.com/platform/frameworks/rs
+1033b5974b02238c2413119963408a1ad65d5c93		branch 'jb-mr2.0.0-release' of https://android.googlesource.com/platform/frameworks/rs
+9d6b2b359c43a388090aa34b3a558c262214192b		branch 'jb-release' of https://android.googlesource.com/platform/frameworks/rs
+47be3b30b679504c8d9d4d474b7de290c68ec6ca		branch 'kitkat-cts-dev' of https://android.googlesource.com/platform/frameworks/rs
+7d2a6e85c570e574457d1862c9e16025094d09e7		branch 'kitkat-dev' of https://android.googlesource.com/platform/frameworks/rs
+af79a59353ae59be186d849b5a7b6865d1241d4c		branch 'kitkat-mr1-release' of https://android.googlesource.com/platform/frameworks/rs
+af79a59353ae59be186d849b5a7b6865d1241d4c		branch 'kitkat-mr1.1-release' of https://android.googlesource.com/platform/frameworks/rs
+7d2a6e85c570e574457d1862c9e16025094d09e7		branch 'kitkat-mr2-release' of https://android.googlesource.com/platform/frameworks/rs
+7d2a6e85c570e574457d1862c9e16025094d09e7		branch 'kitkat-mr2.1-release' of https://android.googlesource.com/platform/frameworks/rs
+7d2a6e85c570e574457d1862c9e16025094d09e7		branch 'kitkat-mr2.2-release' of https://android.googlesource.com/platform/frameworks/rs
+7846e4adb51314371713d83d4d1819a154f19654		branch 'kitkat-release' of https://android.googlesource.com/platform/frameworks/rs
+7d2a6e85c570e574457d1862c9e16025094d09e7		branch 'kitkat-wear' of https://android.googlesource.com/platform/frameworks/rs
+7d38b3a9b0fcad32cbac6f6431d7d73f552dabac		branch 'l-preview' of https://android.googlesource.com/platform/frameworks/rs
+d430d72fea1b1d4165198d481863899ab261cf12		branch 'lollipop-dev' of https://android.googlesource.com/platform/frameworks/rs
+39070667cd21952d90e929a9c12f11cb9d4f2ab3		branch 'lollipop-mr1-dev' of https://android.googlesource.com/platform/frameworks/rs
+ad410d91de8f32e02f824c40b58db638dcafc1b4		branch 'lollipop-mr1-release' of https://android.googlesource.com/platform/frameworks/rs
+b0a4a7f403287d16ade9451722a50b4cb00723f1		branch 'lollipop-release' of https://android.googlesource.com/platform/frameworks/rs
+79d1df9063189cb2cad3643f78423dbf8f99bbe7		branch 'lollipop-wear-release' of https://android.googlesource.com/platform/frameworks/rs
+902077a7b2db5b34560289e28fed0fab36ef4e6c		branch 'master' of https://android.googlesource.com/platform/frameworks/rs
+21f5a0696f92351ea19963989504acd17c516fff		branch 'master-soong' of https://android.googlesource.com/platform/frameworks/rs
+5359ef6790bad7a36b3aad97f5c859d4635bd926		branch 'tools_r21' of https://android.googlesource.com/platform/frameworks/rs
+1f80b2c8b2b52c836c4039f716f702f96f213b0d		branch 'tools_r22' of https://android.googlesource.com/platform/frameworks/rs
+dda5e89800e781ff373bad575e3f2a4af68ec03b		branch 'tools_r22.2' of https://android.googlesource.com/platform/frameworks/rs
+6e5c6b73eeb266c8a4ce0dd377a8d736d4a66db1	not-for-merge	tag 'android-4.1.1_r1' of https://android.googlesource.com/platform/frameworks/rs
+1a69556d99b71c3cc51bb51358a27c4ef480c02e	not-for-merge	tag 'android-4.1.1_r1.1' of https://android.googlesource.com/platform/frameworks/rs
+3f58723967afd5e8081a6b67b52ed5aebc2a010c	not-for-merge	tag 'android-4.1.1_r2' of https://android.googlesource.com/platform/frameworks/rs
+ab0c604d3663f659d1416cb05e3581ef79d1b6ca	not-for-merge	tag 'android-4.1.1_r3' of https://android.googlesource.com/platform/frameworks/rs
+603d78dc32e0de2c996cc04d298de7a3adf2424d	not-for-merge	tag 'android-4.1.1_r4' of https://android.googlesource.com/platform/frameworks/rs
+21785857c5fdf1db8993dc00ce637ff5ceffd130	not-for-merge	tag 'android-4.1.1_r5' of https://android.googlesource.com/platform/frameworks/rs
+fd15726cb299d326e9c9826463ed42cf013f389a	not-for-merge	tag 'android-4.1.1_r6' of https://android.googlesource.com/platform/frameworks/rs
+a763eab9af677b24aa1ec6020ccb52241d217e65	not-for-merge	tag 'android-4.1.1_r6.1' of https://android.googlesource.com/platform/frameworks/rs
+6ffc7d607f86ed16584bbb28ed2f9e6b84969996	not-for-merge	tag 'android-4.1.2_r1' of https://android.googlesource.com/platform/frameworks/rs
+0658fda1424a3269150b040caf97552e2d3f2b8c	not-for-merge	tag 'android-4.1.2_r2' of https://android.googlesource.com/platform/frameworks/rs
+49e0408f309188783f979b060e3d2841ebe1c5df	not-for-merge	tag 'android-4.1.2_r2.1' of https://android.googlesource.com/platform/frameworks/rs
+fd048b2d52fe0b3d83e90cd627124ad2a7a9c281	not-for-merge	tag 'android-4.2.1_r1' of https://android.googlesource.com/platform/frameworks/rs
+683798d7c8207b0eeb314b2d1a82265527bda082	not-for-merge	tag 'android-4.2.1_r1.1' of https://android.googlesource.com/platform/frameworks/rs
+71fd7baf0af1c609038497d6923898f3d7cfe7f8	not-for-merge	tag 'android-4.2.1_r1.2' of https://android.googlesource.com/platform/frameworks/rs
+8869c6adfd95dcd926b69ca60fb33ae258edf462	not-for-merge	tag 'android-4.2.2_r1' of https://android.googlesource.com/platform/frameworks/rs
+39476d092c7cce849016c3d18c32170796562f53	not-for-merge	tag 'android-4.2.2_r1.1' of https://android.googlesource.com/platform/frameworks/rs
+5239f7ba5b68760afaaed9bd2180fb74fbcd6c5d	not-for-merge	tag 'android-4.2.2_r1.2' of https://android.googlesource.com/platform/frameworks/rs
+94c124767b019fb7ae378cd500fc1c2e2096deb9	not-for-merge	tag 'android-4.2_r1' of https://android.googlesource.com/platform/frameworks/rs
+287f46746ee17a8cc8efc6e4a5f1a966733f98ae	not-for-merge	tag 'android-4.3.1_r1' of https://android.googlesource.com/platform/frameworks/rs
+04db321e7cf2061ed19f3aaac46f9fbc55767a3a	not-for-merge	tag 'android-4.3_r0.9' of https://android.googlesource.com/platform/frameworks/rs
+4ee64362044d12ef9e01a888e58da9ee2dab5c2f	not-for-merge	tag 'android-4.3_r0.9.1' of https://android.googlesource.com/platform/frameworks/rs
+9b0e54383cdc9b7499a6ddc56a84d5b40a17d871	not-for-merge	tag 'android-4.3_r1' of https://android.googlesource.com/platform/frameworks/rs
+c628ff8468008620032e457ec1dca27cbeea0208	not-for-merge	tag 'android-4.3_r1.1' of https://android.googlesource.com/platform/frameworks/rs
+6aaa4afc03875dd086b91d1fccd76e5dab16b76e	not-for-merge	tag 'android-4.3_r2' of https://android.googlesource.com/platform/frameworks/rs
+220e7e8692aa47658819288f4c811cf280b97fe0	not-for-merge	tag 'android-4.3_r2.1' of https://android.googlesource.com/platform/frameworks/rs
+60d6534d0f84013310ca12b11faee5d174cf20a1	not-for-merge	tag 'android-4.3_r2.2' of https://android.googlesource.com/platform/frameworks/rs
+3dc9a68e3d191c66ff5d298a8e72ed3ab38dddb0	not-for-merge	tag 'android-4.3_r2.3' of https://android.googlesource.com/platform/frameworks/rs
+a52635b6b14dfd2d607f97583ebf7cb683f81295	not-for-merge	tag 'android-4.3_r3' of https://android.googlesource.com/platform/frameworks/rs
+aec71d0c3fdd26ca51b19d0bc86c6046035cdc25	not-for-merge	tag 'android-4.3_r3.1' of https://android.googlesource.com/platform/frameworks/rs
+ec64773b993e17a8fc1d2f2683222fbbf278d8e9	not-for-merge	tag 'android-4.4.1_r1' of https://android.googlesource.com/platform/frameworks/rs
+c507086d1cde4f9d301a57b731def6ff148cdc22	not-for-merge	tag 'android-4.4.1_r1.0.1' of https://android.googlesource.com/platform/frameworks/rs
+358b31efeace61eef8bfa88a58ad4229ceb441b7	not-for-merge	tag 'android-4.4.2_r1' of https://android.googlesource.com/platform/frameworks/rs
+fe3d87dc56465ddbc2bf311c65d10b8cf1d09bbc	not-for-merge	tag 'android-4.4.2_r1.0.1' of https://android.googlesource.com/platform/frameworks/rs
+17095a36981ba4a4a44546c19fd56163ff53fb2d	not-for-merge	tag 'android-4.4.2_r2' of https://android.googlesource.com/platform/frameworks/rs
+b414eb09bcc716904ae57e58ce993a12ac77c268	not-for-merge	tag 'android-4.4.2_r2.0.1' of https://android.googlesource.com/platform/frameworks/rs
+5e7e0442b9517b8c3d83b40d8b4c55835198f8d3	not-for-merge	tag 'android-4.4.3_r1' of https://android.googlesource.com/platform/frameworks/rs
+2babf0cb2241b38f405e1b7b2d6981fc14a9835a	not-for-merge	tag 'android-4.4.3_r1.0.1' of https://android.googlesource.com/platform/frameworks/rs
+b0175f1e2a40a46090f5f249d71e44f496aab789	not-for-merge	tag 'android-4.4.3_r1.1' of https://android.googlesource.com/platform/frameworks/rs
+280053df442f57e4968585b23134616260a6e80f	not-for-merge	tag 'android-4.4.3_r1.1.0.1' of https://android.googlesource.com/platform/frameworks/rs
+d9edb298a53c85bea797aafc75a1e8fb58eb0484	not-for-merge	tag 'android-4.4.4_r1' of https://android.googlesource.com/platform/frameworks/rs
+315bc5a4cf402ef25022336feabfacfaca534f10	not-for-merge	tag 'android-4.4.4_r1.0.1' of https://android.googlesource.com/platform/frameworks/rs
+bb50a849f3fde280d66ec52b3f95992a1d916364	not-for-merge	tag 'android-4.4.4_r2' of https://android.googlesource.com/platform/frameworks/rs
+02bfc1c91b02df2c7c7caf4f87c4497fe6cacf9e	not-for-merge	tag 'android-4.4.4_r2.0.1' of https://android.googlesource.com/platform/frameworks/rs
+91bc1f3d96a30b285990348138b1eb2c1b23a294	not-for-merge	tag 'android-4.4_r0.7' of https://android.googlesource.com/platform/frameworks/rs
+165947a4ad63c4bf65784f35b7ba331c18196a99	not-for-merge	tag 'android-4.4_r0.8' of https://android.googlesource.com/platform/frameworks/rs
+ea69739a8ca913bc6e0c157d65942bf5a93e1aa1	not-for-merge	tag 'android-4.4_r0.9' of https://android.googlesource.com/platform/frameworks/rs
+3b549ead9fbdc51ca51c3e548732cf64b6ce453b	not-for-merge	tag 'android-4.4_r1' of https://android.googlesource.com/platform/frameworks/rs
+a0997378aa601b6e4a158967b331f8a5e0eb4955	not-for-merge	tag 'android-4.4_r1.0.1' of https://android.googlesource.com/platform/frameworks/rs
+6bdd88999ac991f7e50a60783bc275582e8e229f	not-for-merge	tag 'android-4.4_r1.1' of https://android.googlesource.com/platform/frameworks/rs
+9c8781d2c1d0471b822a7353980b65c912a9a181	not-for-merge	tag 'android-4.4_r1.1.0.1' of https://android.googlesource.com/platform/frameworks/rs
+20b4d29ca035d0f00503aff68453ffe5a79fef5f	not-for-merge	tag 'android-4.4_r1.2' of https://android.googlesource.com/platform/frameworks/rs
+ba788aedf2b98cc05ff0c1d29315b3ddf7377b5c	not-for-merge	tag 'android-4.4_r1.2.0.1' of https://android.googlesource.com/platform/frameworks/rs
+fc4e47f3c22f26bbc3a067a5af5e3d4068b6b115	not-for-merge	tag 'android-4.4w_r1' of https://android.googlesource.com/platform/frameworks/rs
+6589f57c6abc76d2608d40affff7cab88e636f97	not-for-merge	tag 'android-5.0.0_r1' of https://android.googlesource.com/platform/frameworks/rs
+91b296704a8e683ddeb8617334129e4ab6680c93	not-for-merge	tag 'android-5.0.0_r2' of https://android.googlesource.com/platform/frameworks/rs
+c0a0149e8ebdef13ed68abdc36676012ce8f5417	not-for-merge	tag 'android-5.0.0_r3' of https://android.googlesource.com/platform/frameworks/rs
+73cd5332eafd534ee91e1c7f58ba36e630ecb9bd	not-for-merge	tag 'android-5.0.0_r4' of https://android.googlesource.com/platform/frameworks/rs
+b0a7bb751d06feddd3231feb98ff122a09f112bd	not-for-merge	tag 'android-5.0.0_r5' of https://android.googlesource.com/platform/frameworks/rs
+c02fb19f0d3918d3b8c842fdf723a942220d8057	not-for-merge	tag 'android-5.0.0_r5.1' of https://android.googlesource.com/platform/frameworks/rs
+660b9fa99e63245789d78852fcd071b21b2ea37f	not-for-merge	tag 'android-5.0.0_r6' of https://android.googlesource.com/platform/frameworks/rs
+29c56d49c55b85cad53cbbf85586a2ef7ff16bc4	not-for-merge	tag 'android-5.0.0_r7' of https://android.googlesource.com/platform/frameworks/rs
+b2285add60a13c80eff28baf796ed75fe9df3d73	not-for-merge	tag 'android-5.0.1_r1' of https://android.googlesource.com/platform/frameworks/rs
+adbf271456ffba0653ca4108e56ac2eca1c85bd9	not-for-merge	tag 'android-5.0.2_r1' of https://android.googlesource.com/platform/frameworks/rs
+21f5bfbc342b5a6d75a5256b07954ec29e0bb235	not-for-merge	tag 'android-5.0.2_r3' of https://android.googlesource.com/platform/frameworks/rs
+51cd12b25cba25ad510b2c4110c54f68670059bc	not-for-merge	tag 'android-5.1.0_r1' of https://android.googlesource.com/platform/frameworks/rs
+2607ef108aeb122e8043d67386cd58f6e1f5a4de	not-for-merge	tag 'android-5.1.0_r3' of https://android.googlesource.com/platform/frameworks/rs
+401aebf827ccb6ded9fcacabe1b09712fabf252b	not-for-merge	tag 'android-5.1.0_r5' of https://android.googlesource.com/platform/frameworks/rs
+7db26177e8e9687d327571f9351967c1260d3d15	not-for-merge	tag 'android-5.1.1_r1' of https://android.googlesource.com/platform/frameworks/rs
+822c4637ff777533a6e750c2408ad2513b411135	not-for-merge	tag 'android-5.1.1_r2' of https://android.googlesource.com/platform/frameworks/rs
+c1dbcdeea42ecf338992fd3a47ce3fb89d2642b9	not-for-merge	tag 'android-cts-4.1_r1' of https://android.googlesource.com/platform/frameworks/rs
+e62e0edede66b0ea2689d2fa85b0f945f1e4cb36	not-for-merge	tag 'android-cts-4.1_r2' of https://android.googlesource.com/platform/frameworks/rs
+d2d3d7895dcdb017c1cccc303562cda073da236f	not-for-merge	tag 'android-cts-4.1_r4' of https://android.googlesource.com/platform/frameworks/rs
+e5b820684b1e434e5cf149ca57bf6850ac358d3b	not-for-merge	tag 'android-cts-4.2_r1' of https://android.googlesource.com/platform/frameworks/rs
+ee0f5f04f430369d37fb9afb8c49cdc107ca5995	not-for-merge	tag 'android-cts-4.2_r2' of https://android.googlesource.com/platform/frameworks/rs
+c9f7810adacc382b3b0d4af5dd3623028c557884	not-for-merge	tag 'android-cts-4.4_r1' of https://android.googlesource.com/platform/frameworks/rs
+b1235d4aab8d4afaaf7c2569246d17c8b702136d	not-for-merge	tag 'android-cts-5.1_r1' of https://android.googlesource.com/platform/frameworks/rs
+c51fd7c749c4734b65742b3feb7333e8b41898a5	not-for-merge	tag 'android-l-preview_r2' of https://android.googlesource.com/platform/frameworks/rs
+ba4dafec5187fc7daa1fcc4a30fdc074ebb4433d	not-for-merge	tag 'android-sdk-4.4.2_r1' of https://android.googlesource.com/platform/frameworks/rs
+0612909622e0ca98f4e1536a3280c2484ecaf092	not-for-merge	tag 'android-sdk-4.4.2_r1.0.1' of https://android.googlesource.com/platform/frameworks/rs
+9c2cf8371b849442f48ba1b7dcc4520f4015aa5d	not-for-merge	tag 'android-sdk-support_r11' of https://android.googlesource.com/platform/frameworks/rs
+7dacb55b4317898f68a89185e475385763e0f077	not-for-merge	tag 'android-wear-5.0.0_r1' of https://android.googlesource.com/platform/frameworks/rs

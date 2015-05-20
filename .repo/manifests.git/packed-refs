@@ -1,0 +1,629 @@
+# pack-refs with: peeled fully-peeled 
+4a1934d48f06a422476a5a3677ddef711190646c refs/remotes/origin/adt_23.0.3
+3dbf7a37083842030d67082219af4b6a09f1a12b refs/remotes/origin/android-1.6_r1
+93b16e4d13acd3f583308f31f8466eba89ffe594 refs/remotes/origin/android-1.6_r1.1
+4ebf0995de5da07dbb105a430029266c87836f28 refs/remotes/origin/android-1.6_r1.2
+7e4a737d419c7874abf75978848dcbde67633b83 refs/remotes/origin/android-1.6_r1.3
+b5eb050e6605878f85a42be65668b814f9fd6c1b refs/remotes/origin/android-1.6_r1.4
+fa00a4fe93112ee373426202e0691df9001ac76f refs/remotes/origin/android-1.6_r1.5
+9179092912387fbdc719448892e5087ab3efeb01 refs/remotes/origin/android-1.6_r2
+b59f5cb0659c0b1b18c1161358eaf31e8f46f403 refs/remotes/origin/android-2.0.1_r1
+03b0d238eb30f9cb54a6fb7ffa56f7a547882629 refs/remotes/origin/android-2.0_r1
+36cd862c1b44a6dee835497ebe216ff81464c2d6 refs/remotes/origin/android-2.1_r1
+8d2cf2b079e4d2ee3099946b388c9ad9f8e4a94f refs/remotes/origin/android-2.1_r2
+fd32a8aaf3ec9c11a873727a323c93e785df2503 refs/remotes/origin/android-2.1_r2.1p
+68cafac426e38330b065111e68ce4febd250bcff refs/remotes/origin/android-2.1_r2.1p2
+578bd4e4fdb22b67058cccbac78d795ccba46b84 refs/remotes/origin/android-2.1_r2.1s
+9d48e5594b58a5bda2f5cf826b8d7cd391dd9986 refs/remotes/origin/android-2.2.1_r1
+d4e3584ec13d0cedac34182c9a024d2f3f3a59c1 refs/remotes/origin/android-2.2.1_r2
+320229cd98b6f101488b9f20872db99f135da901 refs/remotes/origin/android-2.2.2_r1
+eac28a94fcf9fbb4fec8ac2a119a65b73094b391 refs/remotes/origin/android-2.2.3_r1
+950bc00c84cb46d72916e8ff2f7aa0aa0edb9b27 refs/remotes/origin/android-2.2.3_r2
+750313d9ddb35959103d75ff8c450f4d7b6596d9 refs/remotes/origin/android-2.2.3_r2.1
+2b724973c2120e289caa6b6ead3ac1a48288abee refs/remotes/origin/android-2.2_r1
+980d5f9a81a719860c29a961e825fbc49b69f048 refs/remotes/origin/android-2.2_r1.1
+d3f1ea5bace72d3ea5ec20e2637fe8667920d7ec refs/remotes/origin/android-2.2_r1.2
+777660e33abc5e3c817181f5c9c0a24210228ae6 refs/remotes/origin/android-2.2_r1.3
+39371b2d2d1d998c86db3c3dacb9ec9f5d9e566d refs/remotes/origin/android-2.3.1_r1
+932585689dbe625b5d28cc4d7fb7524e7d1d3b18 refs/remotes/origin/android-2.3.2_r1
+fd4520be554998bd2220a4c4e059276f8ece87d0 refs/remotes/origin/android-2.3.3_r1
+de2b686b728881fe952857d5a6d9ec5d918fbc50 refs/remotes/origin/android-2.3.3_r1.1
+a28db5eb8920d60e8bf5d11cba8871720e7b354e refs/remotes/origin/android-2.3.4_r0.9
+c47192cc323e310df97b789df5a1fe6f92499e41 refs/remotes/origin/android-2.3.4_r1
+bf07547ab95cd41ef878c95bbfef62aed87cedfe refs/remotes/origin/android-2.3.5_r1
+7055752dd08078a6fb57b92c66f33f8a681ee65c refs/remotes/origin/android-2.3.6_r0.9
+7a08b14fb75fd94fa5688efddec04dbe1be48006 refs/remotes/origin/android-2.3.6_r1
+e0f06d722ae7908ae515043920cf2115874afec9 refs/remotes/origin/android-2.3.7_r1
+862b58a8a5cb7069eba33c9eb8588eeeb34e6397 refs/remotes/origin/android-2.3_r1
+c4e4db1a85b9bea00b9fe8c6a18f9d3357adab0c refs/remotes/origin/android-4.0.1_r1
+8bd7fa994eb796bf1a700f16858c56b44c22fc89 refs/remotes/origin/android-4.0.1_r1.1
+f7881bce28f585c6fd393bc8e0410e8d187dfc20 refs/remotes/origin/android-4.0.1_r1.2
+6699333dd8d7f95aa01463c918739fdb057da8ca refs/remotes/origin/android-4.0.2_r1
+f5e8bef9db4874e4243ec56dcf5498d31a9221d6 refs/remotes/origin/android-4.0.3_r1
+2cbe5d90881ce4d681d11e46d524385a8e4fe73a refs/remotes/origin/android-4.0.3_r1.1
+1358580a0e00e25a9f6b003ea9322d8ed5b5fc65 refs/remotes/origin/android-4.0.4_r1
+81ef818506602b7bba2caf754307f7f7382e8991 refs/remotes/origin/android-4.0.4_r1.1
+11a915181c2b8fc8d4402eb1a63c5931dfd4ae66 refs/remotes/origin/android-4.0.4_r1.2
+9cdf2369b6801dc09d993fd9bb99d53a7d2f291d refs/remotes/origin/android-4.0.4_r2
+b22f804b103755c4617d0b2cd603f216c3549050 refs/remotes/origin/android-4.0.4_r2.1
+0983a066184665e50bbf19cd165f288ab0842cd2 refs/remotes/origin/android-4.1.1_r1
+4c4b513351938145f3f68ccdda037e95e9a2fb9b refs/remotes/origin/android-4.1.1_r1.1
+5e9f6af252b5e69abe47f21b844fb2496f43995b refs/remotes/origin/android-4.1.1_r2
+9ae01ca9c4a87ce24161ac0b7f2391136e0d8d14 refs/remotes/origin/android-4.1.1_r3
+e5b19423d5df4cc2d60a3f675fe40cbdd115fa13 refs/remotes/origin/android-4.1.1_r4
+7ffd1f83d7df5d2381fee3e87d0a08c4331a7b7e refs/remotes/origin/android-4.1.1_r5
+a9e24b604c5e2c0bed1f9cd73eb1f2e8ab56b4b3 refs/remotes/origin/android-4.1.1_r6
+dab3b7eb00aeab8233dfb89166e1d0a3348b8724 refs/remotes/origin/android-4.1.1_r6.1
+7af362b848fba5f21ada2c2b9c39d396c9651190 refs/remotes/origin/android-4.1.2_r1
+5ee1dd1e977d9ff6753adfa5190a5a767ca9afc0 refs/remotes/origin/android-4.1.2_r2
+f2683b1c5c71e843e6b4096fbdc2585eeb81cecf refs/remotes/origin/android-4.1.2_r2.1
+947d721dd9999013b2983d89c3af96eb18780b4e refs/remotes/origin/android-4.2.1_r1
+28ad6cce9612600ce96f1211862c3798f74c4ffd refs/remotes/origin/android-4.2.1_r1.1
+4c2be345d6bfc25db87f23749912ae9d98d2ad62 refs/remotes/origin/android-4.2.1_r1.2
+b30bdb06b6d791bd8e77143a5c725b2a6774ed61 refs/remotes/origin/android-4.2.2_r1
+2772b9f2257a28b9796bb43742b04850285d3db7 refs/remotes/origin/android-4.2.2_r1.1
+02b974e41f8f3c04b24d3c83301eee55e7b2f8b2 refs/remotes/origin/android-4.2.2_r1.2
+60035c53fd5b17654a6bb13b60058147d4f9bcef refs/remotes/origin/android-4.2.2_r1.2b
+9398629a85421e82b770deb8271ae153c8dd0ce0 refs/remotes/origin/android-4.2_r1
+1f7a5a5890966bd7016ea319ff5ff03d723ec4f4 refs/remotes/origin/android-4.3.1_r1
+ecb446efef38e3139ef6109a3f0c6adde80a2683 refs/remotes/origin/android-4.3_r0.9
+0171f965d970c982187db8ad82fb205f5e753292 refs/remotes/origin/android-4.3_r0.9.1
+5ce98a6bdb0ab9ba71e3f39c03dcaf69d8c55168 refs/remotes/origin/android-4.3_r1
+4e227fde9d0039d8ba3ff76bc94f57e939f96975 refs/remotes/origin/android-4.3_r1.1
+36d2f932d955fd6d3a98f178dfbf1410fbe0eb34 refs/remotes/origin/android-4.3_r2
+63f84526ff3a143728a63540f9689002198ec14a refs/remotes/origin/android-4.3_r2.1
+9ca32f41b222f3cda4b8ce0aa2b3d852228555ad refs/remotes/origin/android-4.3_r2.2
+3a97888c13ec3cb33eaba4572d13429986a5b74c refs/remotes/origin/android-4.3_r2.2-cts
+bf287dd7b57731089c86377665691b84823ce4a6 refs/remotes/origin/android-4.3_r2.3
+6c7205b958c56a584e8a0112a684e87ccff53e81 refs/remotes/origin/android-4.3_r3
+5399a207d7397c72a1bffd0a4538f53527a37e10 refs/remotes/origin/android-4.3_r3.1
+35e3804432f53948e7af36a88b08b48445b72b0c refs/remotes/origin/android-4.4.1_r1
+87b502387f3bf9c00ffbe7358629f050eee0e631 refs/remotes/origin/android-4.4.1_r1.0.1
+d8be02b10186794b6e039afb441cecbdca3846d7 refs/remotes/origin/android-4.4.2_r1
+45245e45f53437770ecb9cefec27be1c275835d0 refs/remotes/origin/android-4.4.2_r1.0.1
+1a5a541bda691c1dbc7a439c2b1eeda1c89a6faa refs/remotes/origin/android-4.4.2_r2
+990848baf898288bc9c9ee515bce3f2ad7aaaa89 refs/remotes/origin/android-4.4.2_r2.0.1
+480eebd7a45cf26ccc15345f685aab2119ee0633 refs/remotes/origin/android-4.4.3_r1
+04901858b36b2941c3df6803139f29d03cd31ed8 refs/remotes/origin/android-4.4.3_r1.0.1
+28b973e2a19ccece410ef3507ee713fa8f4525dc refs/remotes/origin/android-4.4.3_r1.1
+e6bef31b5ba7a23dcbece71087d0a7ad300cf7e3 refs/remotes/origin/android-4.4.3_r1.1.0.1
+aef5618278488f985ecd1d8576c2c2b3e09dbfc4 refs/remotes/origin/android-4.4.4_r1
+eac4eec3081222866fe1e7f31e130fb5d1e51a5a refs/remotes/origin/android-4.4.4_r1.0.1
+ea9431c1f7f01eb7bba6d7017ab4d8474752c361 refs/remotes/origin/android-4.4.4_r2
+1167ed641bc6c3fc41d167160e305008d363956a refs/remotes/origin/android-4.4.4_r2.0.1
+d0e8901ec0096c72650588b18a33236ef1e2780c refs/remotes/origin/android-4.4_r1
+1b8c363d2d0805b1f245e142219ab8c111ea58ba refs/remotes/origin/android-4.4_r1.0.1
+75ef6e808d2ce0da6001355b0fea65e4abdb7688 refs/remotes/origin/android-4.4_r1.1
+9bc6e9233e3abb8b99f264fc0573c2f2b4f40bf9 refs/remotes/origin/android-4.4_r1.1.0.1
+d758e28d8a139ced83a9b91305dce20d4a5a7e81 refs/remotes/origin/android-4.4_r1.2
+e6f6a61b9f25b03d21fa22d10e5e0b75e9dd3dc0 refs/remotes/origin/android-4.4_r1.2.0.1
+cc023df49d9ba7fe0c2e17c4dd15fcd021327033 refs/remotes/origin/android-4.4w_r1
+76efe697afcfa58ce3a67618800871f42b5b84af refs/remotes/origin/android-5.0.0_r1
+cc60007b2cace0e9444083cfa6afc1194c63c05f refs/remotes/origin/android-5.0.0_r1.0.1
+8c53979c7718f491e32ea56cadcf3c45b46eb228 refs/remotes/origin/android-5.0.0_r2
+0a71a5dc6017a5b0eb853cbdcf06a6d35acfd675 refs/remotes/origin/android-5.0.0_r2.0.1
+c86c9ebd6f5d079116f2911d6a4b30c12c83578d refs/remotes/origin/android-5.0.0_r3
+3325c9421d2f8a2bea3acaa915db7d76743bdae0 refs/remotes/origin/android-5.0.0_r3.0.1
+34a0ebe33593bd2fdcd2f291aec2d48ffefcb01a refs/remotes/origin/android-5.0.0_r4
+cabfdd86cca563306a0c3b0d18c2db93a44425dd refs/remotes/origin/android-5.0.0_r4.0.1
+fa504513d042dbc3c737e92617133275a5ff10ad refs/remotes/origin/android-5.0.0_r5
+b4a43344bd22ce060d842dbe11b718c0b8fa68b3 refs/remotes/origin/android-5.0.0_r5.0.1
+186c06455cd1746707764cf3a58eb837afaabbd6 refs/remotes/origin/android-5.0.0_r5.1
+f1fa1d308c10ceb9d756801fc42a74b0334b0fe8 refs/remotes/origin/android-5.0.0_r5.1.0.1
+7b25458e1484e41c9934281db88d66dd6fcc7d0a refs/remotes/origin/android-5.0.0_r6
+ba4327fd0e7552ddc2bcf816fb34a8c4c9af8ad1 refs/remotes/origin/android-5.0.0_r6.0.1
+f0497a120309266b35370c3452e1e19360ef0e28 refs/remotes/origin/android-5.0.0_r7
+d453e42e24212d29a8556fe6100fb50b6f89ae96 refs/remotes/origin/android-5.0.0_r7.0.1
+71e502af0f0da0a6b5e09add6861f0d8d13d29e8 refs/remotes/origin/android-5.0.1_r1
+b697f8e54dea8b1e7ca92e4be68040cf2f88a68b refs/remotes/origin/android-5.0.2_r1
+ea5ff5a2c170f3a412e0ed879f91627efd8f93e9 refs/remotes/origin/android-5.0.2_r3
+205ab396f31e37d55e8a486e3801339d1d93a735 refs/remotes/origin/android-5.1.0_r1
+e0b7f99acbca087a5cee193c3d38e755cb245aba refs/remotes/origin/android-5.1.0_r3
+1d83363c310548063a45020112edf420c12712e7 refs/remotes/origin/android-5.1.0_r5
+7435961394e556275a6f13cca8fe4bf2839314f3 refs/remotes/origin/android-5.1.1_r1
+67e91857b706f7a4ae99d0b94e4a2505c44944e2 refs/remotes/origin/android-5.1.1_r2
+00b26cfb0c1f3cc6c3156677fa46c511b792c942 refs/remotes/origin/android-cts-2.2_r8
+eb2f6de29e41f19be633449a5afeaf5c9c350e39 refs/remotes/origin/android-cts-2.3_r10
+3d6c2b487396caccaf8439946f52af37f1247c31 refs/remotes/origin/android-cts-2.3_r11
+61c3152bf12fd28b8d19c35b1e08c4e71ee521f5 refs/remotes/origin/android-cts-2.3_r12
+341c66b58bb560f64e2dd3bf1d7ef9899915c66d refs/remotes/origin/android-cts-4.0.3_r1
+8772d687d0b3c6d7d480420c1e5204e5f1dabbb0 refs/remotes/origin/android-cts-4.0.3_r2
+b6f7347dfb8bcdfe0eea54068beb2aacf948cd0e refs/remotes/origin/android-cts-4.0_r1
+d0358439ba4905c6a9b33138f0f26c1a7a57d335 refs/remotes/origin/android-cts-4.1_r1
+f137be2ea2367ca6e0ded7d4c6ec19e52db9e97c refs/remotes/origin/android-cts-4.1_r2
+e0cee17226b0ba81364aa8f0b5bba7f88472b663 refs/remotes/origin/android-cts-4.1_r4
+344e3d6265a4e2533bdb53adc561f219498c6286 refs/remotes/origin/android-cts-4.2_r2
+0c3abeabbd153a0aa1713c9c98e06f2ae4d098cb refs/remotes/origin/android-cts-5.0_r2
+24bbe8c6c7eef96b731e50b996408f0f6b3d13b2 refs/remotes/origin/android-cts-5.1_r1
+de2cc1fe5c561bb671682370f7abc9d248ae212f refs/remotes/origin/android-cts-verifier-4.0.3_r1
+84e5092c025b43eda4786574b28cbfeb79488f14 refs/remotes/origin/android-cts-verifier-4.0_r1
+63e982275906d13aaec490c7d8d323656c4bc809 refs/remotes/origin/android-l-preview_r2
+037c0fa999ff50c8cf931e3db93a45e6e5db7f26 refs/remotes/origin/android-sdk-4.0.3-tools_r1
+3e044dfed5a13309f463ed85a4b86580642e91ff refs/remotes/origin/android-sdk-4.0.3_r1
+73d05c23bb00653987f4c40fdf783e09f02d8d3c refs/remotes/origin/android-sdk-4.4.2_r1
+91c43033ce4759684081c26cc2b081882334833b refs/remotes/origin/android-sdk-4.4.2_r1.0.1
+d37ffc3bb0bc5a7e023f6031fce12546d0ed16cf refs/remotes/origin/android-sdk-adt_r16.0.1
+f6546f0da2583bc98c28a860e5e9fc9b6a021a58 refs/remotes/origin/android-sdk-adt_r20
+416a590af8e338c9b3676d2ca0b1c7f13cec3553 refs/remotes/origin/android-sdk-support_r11
+6a375afa12a87f6a0af8516464b841ea99c3d261 refs/remotes/origin/android-support-test
+4de2f414592ccc16be9b10fcff5e59dbc586913f refs/remotes/origin/android-tsl-2.0
+c62e3bad11f574c35aeccb69379901a7f5db9cbe refs/remotes/origin/android-wear-5.0.0_r1
+44de82b41c33f6aa7f8440482bf3873fb3206540 refs/remotes/origin/chromium-dev
+a0851040aef31322082cca8ee7d020a6d2e5e455 refs/remotes/origin/droiddriver-dev
+71480329b4ff4ee7f07d756d139425676b09b7c9 refs/remotes/origin/froyo
+b48922c3d5a26141648f4f52e358db8e218f1cfc refs/remotes/origin/gingerbread
+12303f87b9f90c07bf4aec4c4353ba514ee70c8a refs/remotes/origin/gingerbread-release
+32c90be332b0a9d8706ef6b86d9f452703da4431 refs/remotes/origin/gradle-dev
+adf01aec0d64b537078277535b53300716b304a1 refs/remotes/origin/gradle_0.12.2
+0d10906946cce393147321bddd84b08936006d6e refs/remotes/origin/gradle_0.13.0
+775943a699867dcbdd061d07a6605f662a912421 refs/remotes/origin/gradle_0.13.1
+c482a8d733918fc45dc779780bcd3e559911782d refs/remotes/origin/gradle_0.13.2
+02d65a652bdd7cd47cb65dc7407b4c4de73cbd87 refs/remotes/origin/gradle_0.13.3
+232a4c8c667c563b79fe0ea58f761d2bc9cd5c26 refs/remotes/origin/gradle_0.14.0
+f34827072e96bc412135c427201fe802c2f1171b refs/remotes/origin/gradle_0.14.1
+9a2cf639948b9858cceafc350654f46aaeae4358 refs/remotes/origin/gradle_0.14.2
+6451a83c3e05ad92a2551f3d3adbaafbc44ca655 refs/remotes/origin/gradle_0.14.3
+1c776f4b08a7f6ee5a04dd14f28b59ff202c86f2 refs/remotes/origin/gradle_0.14.4
+d9d8b05fca8e4ffbf6484775eea3094126ee5e27 refs/remotes/origin/gradle_1.0.0
+d111f598d6ae2dc97e683afaaf6278f001a2731b refs/remotes/origin/gradle_1.0.0-rc1
+4ea88c9225eb291d797d8ffab87529dbcbbbf1f4 refs/remotes/origin/gradle_1.0.0-rc2
+f8167e51f8df1052a4baa618e662fe6f3dde3ea3 refs/remotes/origin/gradle_1.0.0-rc3
+35d2a0e607ce31be5d2b9e6748ecb6f7a67e4bde refs/remotes/origin/gradle_1.0.0-rc4
+81c90a8a2f92eeb542d4617abd65c8937f9c794c refs/remotes/origin/gradle_1.0.1
+85bdc761f29c27ea4c37c77b18294b935f3b2e29 refs/remotes/origin/gradle_1.1.0
+8c5c8a4416f303b5f5e1864f87938031a03016ef refs/remotes/origin/gradle_1.1.0-rc1
+3d2956ee3b40f5882e2c5520fb37ffea8fa64f52 refs/remotes/origin/gradle_1.1.0-rc2
+e94ee8788a4c0e795ccfb8b075c51afddc1401d5 refs/remotes/origin/gradle_1.1.0-rc3
+d17b6cab4e2377aca4b4cc08c79423d5d1d7c80f refs/remotes/origin/gradle_1.1.1
+1f7a070089d0aba8c2d192e565e74ec4c0f27099 refs/remotes/origin/gradle_1.1.2
+dd44fd720fc508e550f599ea1a41331fedbdbf79 refs/remotes/origin/gradle_1.1.3
+ff71577f80990e277e4d8548a1b6cdc50d70c7d2 refs/remotes/origin/gradle_1.2.0
+78f9791fc7df70b20b59d3e4d06c9fd0695a6a3d refs/remotes/origin/gradle_1.2.0-beta1
+628352233ec54d6314c7aa6611586a54d605401f refs/remotes/origin/gradle_1.2.0-rc1
+6a650b25b26787255c6092b28f7b66ffa261add7 refs/remotes/origin/gradle_1.2.1
+ff4f084c8bdd6c65685cd7f49d4bd1631fe139bb refs/remotes/origin/gradle_1.2.2
+cf2961e9a430d3766e0ca1de044f2d363db17f82 refs/remotes/origin/gradle_1.2.3
+fd0e4636850dd5b30b08ea8fe21188c98ad0838d refs/remotes/origin/ics-mr0
+69127699f9044b0fed3ff228ab035e32d054d425 refs/remotes/origin/ics-mr1
+39d65dfa756521bb6cd068739b986c562c8e902a refs/remotes/origin/ics-plus-aosp
+08320fb028a38e427383ee33c194cf1fdb21d979 refs/remotes/origin/idea133
+2c50758e5c4837008cbc1d7c0bd854fc8d12dd6e refs/remotes/origin/idea133-weekly-release
+6b9cc5af8a9ceb6a6ee76b106a8240e4235b2684 refs/remotes/origin/jb-dev
+e54ff56da13d3fb919b5df20b90f3f3930c98947 refs/remotes/origin/jb-mr1-dev
+67f05c6230ce2837c0960a54cb2bd94d9ffebc15 refs/remotes/origin/jb-mr1-dev-plus-aosp
+84e45730b438163cbe94134174a7ccd3b455cae7 refs/remotes/origin/jb-mr1.1-dev
+79809d5ef09055953251985888d64af60aa5527c refs/remotes/origin/jb-mr1.1-dev-plus-aosp
+a3ae5c9156bacd5201e40a725ccf51a49cf25c6c refs/remotes/origin/jb-mr2-dev
+8ad5ecb650b95cbfe513635dadceadac2a9f7de8 refs/remotes/origin/jumper-stable
+3eb32e764a7c6133043b0cb4ff23eb157dde4e11 refs/remotes/origin/kitkat-cts-dev
+5378026a72c2bbad121e68d4a5ca96ad54b52a06 refs/remotes/origin/kitkat-dev
+603a53a8defb5569b2f885a3460057ee97cd0f11 refs/remotes/origin/l-preview
+9319e8155bed69382d613d001ccc59e384bd097d refs/remotes/origin/lollipop-cts-dev
+6409d5b1f2204d2c3ed75c528ca243a04460f94c refs/remotes/origin/lollipop-dev
+9add2350f6a2dd55c3360ac5d928a09c3fa7c5e8 refs/remotes/origin/lollipop-mr1-cts-dev
+be6e02ae06ab519e38380d2b0d4f64c0683864a9 refs/remotes/origin/lollipop-mr1-dev
+184c029d911e7da159f3dbfb898099686b10eaa0 refs/remotes/origin/master
+e7fbd242a23a7beb1ca4003d6aec49b9cb014154 refs/remotes/origin/master-art
+9669540f4f1e73d5a753e488469a6ba1b9644c1d refs/remotes/origin/master-art-host
+b0ff0cc0da2d27e6f87cdc48250d015ea1b795c8 refs/remotes/origin/master-dalvik
+7b52a74b787ea5f1dd669a48190f2d222ccad21d refs/remotes/origin/master-dalvik-host
+219296fb55595693419790e874fa0a10a2ff7b24 refs/remotes/origin/master-soong
+71d306d2cfb37bedc037b12d20f2a44642ca0ec9 refs/remotes/origin/ref/for/master
+eb32f5f47cb77778d2057a98a9f42faf5aa6f394 refs/remotes/origin/studio-1.0-dev
+b0544e27ab0efa43855445d3aede4200ec727001 refs/remotes/origin/studio-1.0-release
+b6220d6b6a687295e75d7611eb1d19645bc34703 refs/remotes/origin/studio-1.1-dev
+62ce1304c43900015a96bc8a4acf4b4cdaebffb2 refs/remotes/origin/studio-1.1-release
+06e5a719cfdebfc34d85a9d0b2fc00e668ac5fe3 refs/remotes/origin/studio-1.2-dev
+1a8a34adea420214edbf0f57896beaff0f8fdc2d refs/remotes/origin/studio-1.2-release
+dbe289f852e8f078d197eb773d8a3a096111924b refs/remotes/origin/studio-1.3-dev
+906f0e6a28649bb88ba49d77e4565fc7c4582824 refs/remotes/origin/studio-1.3-release
+71036ad8b96a86e304f51cba6ff40dfb65ac44c0 refs/remotes/origin/studio-master-dev
+205bf16862a4751d09cec5cb2f8de72d992c242f refs/remotes/origin/studio-master-release
+110cd494f777170cb790e2a4f9d13b20d0e63c2d refs/remotes/origin/studio_0.8.6
+080ef7ed6ab6707a04494d01749ff9be8a32a528 refs/remotes/origin/studio_1.0.0
+a53420598456e71cc85c7b3415f01c6b65b33efc refs/remotes/origin/studio_1.0.1
+ae14bf4b553bdb6052acd01788a7e67f406fff12 refs/remotes/origin/tools-canary-release
+05d4d9186956bd0d98364e08d356a9ce3a96e8fe refs/remotes/origin/tools_ndk_r9d
+3d2a7ec921049021b51a152376e45dbe606ef10f refs/remotes/origin/tools_r20
+cd8bb6e2bebff0cc49a3eed28fb72f2ff2f13255 refs/remotes/origin/tools_r21
+55bfdc7297180840237fde6f84726a46ccf37f34 refs/remotes/origin/tools_r21.1
+25f3ee8bc4d87404983fc545270b0e9a80a84061 refs/remotes/origin/tools_r22
+bf68c0ab3f5b4d518031254f001d530a1b7dcea0 refs/remotes/origin/tools_r22.2
+1710c88b162bb16b7ff48aae1eb61b341b791c81 refs/remotes/origin/tools_r22.6
+e84fe83e60a12f6edaa5cdbf0d5151b0ccf30839 refs/remotes/origin/tradefed
+8aee4bfc0b38b84f4277120d4329768968d8f1cf refs/remotes/origin/ub-emulator-master
+8c12db1b7281697ed30dacc58d34a4197dcbf2f0 refs/remotes/origin/ub-jack
+1b18d9ad4ff457a113cd557e77e7e9c914373591 refs/remotes/origin/ub-jack-arzon
+55d029875a1a562aae7c9107e2e7f047d9c9958c refs/remotes/origin/ub-jack-arzon-mr2
+3763f3255e687d3e6dc54e07ac1ee184d943c76c refs/remotes/origin/ub-jack-brest
+0322cb690f0e0830cfbe50fadbbb35fdd4354fa9 refs/remotes/origin/ub-jack-lang-dev
+248e895db5d3bf3e770e80276b15bdcce28f5227 refs/remotes/origin/ub-tools-idea133
+75a338a6cb7aba3eb6b736bdc74be43f459eb4bf refs/remotes/origin/ub-tools-idea133-milestone
+5d161eb6d1b77634fccb1929501628944df0d801 refs/remotes/origin/ub-tools-idea133-release
+941c953655e8c2cabb8b4ceac7844d7c1af610a7 refs/remotes/origin/ub-tools-master
+676f0550a8aac3c336724dca2bae743af23208ae refs/remotes/origin/ub-webview-m40-release
+aef0473aa87c61aaf12beb4c10b3fe8847b2472b refs/remotes/origin/upstream-mirror-lldb
+c2d0fda4d5ef41f812ada4672d4dc9ec6fb07c2d refs/remotes/origin/webview-m40_r1
+fe606f6d9b490daadaa5d72c779195249c70d428 refs/remotes/origin/webview-m40_r2
+4de6683e27025cca5cdd63a4d19f5b0f6d78ff82 refs/remotes/origin/webview-m40_r3
+ae6d4878d7edcb0e444e789104d3c739f275b24a refs/remotes/origin/webview-m40_r4
+46f8827791ab0a56684ab784765cba5c6b852288 refs/tags/adt_23.0.3
+^4a1934d48f06a422476a5a3677ddef711190646c
+94a37a478df450531a31d3cc8529c58a798066e2 refs/tags/android-1.6_r1.1_
+^93b16e4d13acd3f583308f31f8466eba89ffe594
+eec41f7882e58ad7a8ef9838d8c117bbb90bf1e5 refs/tags/android-1.6_r1.2_
+^4ebf0995de5da07dbb105a430029266c87836f28
+dce27bdebd334a49c025e80e21d5868789ca030d refs/tags/android-1.6_r1.3_
+^7e4a737d419c7874abf75978848dcbde67633b83
+f20ff2c599cdffbf3afe1d3d270c6f15073c5cd0 refs/tags/android-1.6_r1.4_
+^b5eb050e6605878f85a42be65668b814f9fd6c1b
+c3ab3d3e9caa3041c432f06258bb649a5d5ac267 refs/tags/android-1.6_r1.5_
+^fa00a4fe93112ee373426202e0691df9001ac76f
+f76ace7a62989996d7383fdaa5d7713c8afa45ea refs/tags/android-1.6_r1_
+^3dbf7a37083842030d67082219af4b6a09f1a12b
+ec9f78f5a182fe1b3e3f3b5efe1ed3993ce162c6 refs/tags/android-1.6_r2_
+^9179092912387fbdc719448892e5087ab3efeb01
+1f5b6ba5daacc5fa60f2562a9d81881536ca0036 refs/tags/android-2.0.1_r1_
+^b59f5cb0659c0b1b18c1161358eaf31e8f46f403
+65e1e066e6f4e76491b44fbc49ba584e48d5a772 refs/tags/android-2.0_r1_
+^03b0d238eb30f9cb54a6fb7ffa56f7a547882629
+0b9fd29003d05cef76cbbd54dc8bb2885da25034 refs/tags/android-2.1_r1_
+^36cd862c1b44a6dee835497ebe216ff81464c2d6
+801fb954c881c278557306077eb30eb936bc7ffc refs/tags/android-2.1_r2.1p2_
+^68cafac426e38330b065111e68ce4febd250bcff
+ab4d5386fcaa90b277177bf8cf8ae5b6bd6ee582 refs/tags/android-2.1_r2.1p_
+^fd32a8aaf3ec9c11a873727a323c93e785df2503
+afa9cb5f019b505535165fe3715ed519582f0fde refs/tags/android-2.1_r2.1s_
+^578bd4e4fdb22b67058cccbac78d795ccba46b84
+68e122d144be556c34748c15440fdb08ba385643 refs/tags/android-2.1_r2_
+^8d2cf2b079e4d2ee3099946b388c9ad9f8e4a94f
+a6d50aa25f03cd3bebac45f3f7f5c330baa00eaf refs/tags/android-2.2.1_r1_
+^9d48e5594b58a5bda2f5cf826b8d7cd391dd9986
+46adce614527220eaf21788b1276480c450683f7 refs/tags/android-2.2.1_r2_
+^d4e3584ec13d0cedac34182c9a024d2f3f3a59c1
+bc477595942920afc1bf69b0e12ae8e7e8826f41 refs/tags/android-2.2.2_r1_
+^320229cd98b6f101488b9f20872db99f135da901
+aa2532a072100c78b60724cc05373b5019df97e0 refs/tags/android-2.2.3_r1
+^eac28a94fcf9fbb4fec8ac2a119a65b73094b391
+ce90a70e982c4056d1cf3527c7bfbedc2ca0f4a7 refs/tags/android-2.2.3_r2
+^950bc00c84cb46d72916e8ff2f7aa0aa0edb9b27
+94616ad85f7a2ecc8d588e1adda1b538c2952def refs/tags/android-2.2.3_r2.1
+^750313d9ddb35959103d75ff8c450f4d7b6596d9
+052e854b2175157fc115b7dce7b871c6711324c4 refs/tags/android-2.2_r1.1_
+^980d5f9a81a719860c29a961e825fbc49b69f048
+e0e97374331093d3fd459633b656f8e0c79360e4 refs/tags/android-2.2_r1.2_
+^d3f1ea5bace72d3ea5ec20e2637fe8667920d7ec
+51d152e95ec68d511509b4bda3e399209c7d6f0c refs/tags/android-2.2_r1.3_
+^777660e33abc5e3c817181f5c9c0a24210228ae6
+91027678c91224977380f56aa3ce38a56daceed7 refs/tags/android-2.2_r1_
+^2b724973c2120e289caa6b6ead3ac1a48288abee
+0fbf977409ee169f9185762758f79c0fd374a824 refs/tags/android-2.3.1_r1_
+^39371b2d2d1d998c86db3c3dacb9ec9f5d9e566d
+f0779b562a1ee8a0bd2a186e064f57c1936cf4f3 refs/tags/android-2.3.2_r1_
+^932585689dbe625b5d28cc4d7fb7524e7d1d3b18
+702f28664063998a8f0731f3e3d3095dced6137a refs/tags/android-2.3.3_r1.1_
+^de2b686b728881fe952857d5a6d9ec5d918fbc50
+86fa13418c1dbf460bcf4326577759c9f1d12889 refs/tags/android-2.3.3_r1_
+^fd4520be554998bd2220a4c4e059276f8ece87d0
+96f79072ff2e5d390a564c6ae4d16bed0da546b5 refs/tags/android-2.3.4_r0.9_
+^a28db5eb8920d60e8bf5d11cba8871720e7b354e
+e2d5769f9c3f0ad9a644a26b5a9bdf90059fd2f4 refs/tags/android-2.3.4_r1_
+^c47192cc323e310df97b789df5a1fe6f92499e41
+7487061e457819c8a67560074d0c72d0b0398b0b refs/tags/android-2.3.5_r1_
+^bf07547ab95cd41ef878c95bbfef62aed87cedfe
+373e9db0442fcc1a47a672dbfade53b1dbc5f253 refs/tags/android-2.3.6_r0.9
+^7055752dd08078a6fb57b92c66f33f8a681ee65c
+96cf3212cc1b308f3679ab980b8daa7ce2f1a7e4 refs/tags/android-2.3.6_r1
+^7a08b14fb75fd94fa5688efddec04dbe1be48006
+1db98b3dedca5ab8b6eeefc5a7a98720e73fefdf refs/tags/android-2.3.7_r1
+^e0f06d722ae7908ae515043920cf2115874afec9
+8f48d340e2fc5dc5f52ad3828f4f640b6e468823 refs/tags/android-2.3_r1_
+^862b58a8a5cb7069eba33c9eb8588eeeb34e6397
+d030ac49cfeae06e2414933f6a72187cb18881b2 refs/tags/android-4.0.1_r1
+^c4e4db1a85b9bea00b9fe8c6a18f9d3357adab0c
+91cf7659606ca78a9218500b7e3f79344519e77c refs/tags/android-4.0.1_r1.1
+^8bd7fa994eb796bf1a700f16858c56b44c22fc89
+c55c84c3871b12e14fe2e28cfcb1257eddcc1cf9 refs/tags/android-4.0.1_r1.2
+^f7881bce28f585c6fd393bc8e0410e8d187dfc20
+2abc1c4c377d85ffd7344e9fff78be693ab057fa refs/tags/android-4.0.2_r1
+^6699333dd8d7f95aa01463c918739fdb057da8ca
+500aaaa87f49fddc1c7ca5066eebb2e03fdd14ac refs/tags/android-4.0.3_r1
+^f5e8bef9db4874e4243ec56dcf5498d31a9221d6
+8431a67c28f25704926cd344821b4586d391ad76 refs/tags/android-4.0.3_r1.1
+^2cbe5d90881ce4d681d11e46d524385a8e4fe73a
+a2b8908b15a565cde5e2936a57833c1c8ffd452b refs/tags/android-4.0.4_r1
+^1358580a0e00e25a9f6b003ea9322d8ed5b5fc65
+cb1e381e49f274ca01e30bfea146073f969e4f59 refs/tags/android-4.0.4_r1.1
+^81ef818506602b7bba2caf754307f7f7382e8991
+8895fbdd3e2de52169281da9e7942fb21bfd7372 refs/tags/android-4.0.4_r1.2
+^11a915181c2b8fc8d4402eb1a63c5931dfd4ae66
+e209ba99e5cb97b2a20e61c325ffdb2999f2a90d refs/tags/android-4.0.4_r2
+^9cdf2369b6801dc09d993fd9bb99d53a7d2f291d
+4b0dd15ccaf78b9c0d22abfe33b4d8a26ef6eef0 refs/tags/android-4.0.4_r2.1
+^b22f804b103755c4617d0b2cd603f216c3549050
+a064a6f38b06c7ca6dfc26477ff7fe07f86d1441 refs/tags/android-4.1.1_r1
+^360bf3a055be780677a7af0e0dec8a5d7c01a7e1
+0c6f0aa60c3c39066aec53d088517f890e9875b5 refs/tags/android-4.1.1_r1.1
+^4c4b513351938145f3f68ccdda037e95e9a2fb9b
+cf84692271635e7c99f2cbed53f22b79d19ad0d1 refs/tags/android-4.1.1_r1_
+^0983a066184665e50bbf19cd165f288ab0842cd2
+da557383de18631ef7eed24cce9eb0bee2e6ddbf refs/tags/android-4.1.1_r2
+^5e9f6af252b5e69abe47f21b844fb2496f43995b
+a669bcefe964d9e90ecb3389765bb08eee1eb919 refs/tags/android-4.1.1_r3
+^9ae01ca9c4a87ce24161ac0b7f2391136e0d8d14
+9959f23acc699f2283157e8525cf9e9f173d844f refs/tags/android-4.1.1_r4
+^e5b19423d5df4cc2d60a3f675fe40cbdd115fa13
+2971689e4b83f0419c238bcf290f1ee250a080a7 refs/tags/android-4.1.1_r5
+^7ffd1f83d7df5d2381fee3e87d0a08c4331a7b7e
+c0c5bbd1175177735f1d19ed9183f8cbe8a53411 refs/tags/android-4.1.1_r6
+^a9e24b604c5e2c0bed1f9cd73eb1f2e8ab56b4b3
+2be1c3f881aee200d8ea84ef32fa3270220cfb9b refs/tags/android-4.1.1_r6.1
+^dab3b7eb00aeab8233dfb89166e1d0a3348b8724
+7ca7cce0527b278afce0a3f3c9480075217e7162 refs/tags/android-4.1.2_r1
+^7af362b848fba5f21ada2c2b9c39d396c9651190
+69bfb0daeeb546b076d918c82ebe852e7e776528 refs/tags/android-4.1.2_r2
+^5ee1dd1e977d9ff6753adfa5190a5a767ca9afc0
+d6ceddab13c71eea3c629ba20fe3ba177ad374ca refs/tags/android-4.1.2_r2.1
+^f2683b1c5c71e843e6b4096fbdc2585eeb81cecf
+fc2ea7cf18ce4e5d40fc38fba0a86979dc605f70 refs/tags/android-4.2.1_r1.1
+^28ad6cce9612600ce96f1211862c3798f74c4ffd
+1d21f7c546cd7470f050fa00d7459645707f2947 refs/tags/android-4.2.1_r1.2
+^4c2be345d6bfc25db87f23749912ae9d98d2ad62
+cb9d0ac9ef9af559cce324baa692cda749995db1 refs/tags/android-4.2.1_r1__
+^947d721dd9999013b2983d89c3af96eb18780b4e
+5b2644bda859fdbf511c53630130cada586ec34d refs/tags/android-4.2.2_r1.1
+^2772b9f2257a28b9796bb43742b04850285d3db7
+09db9681241c2c8c60e68e45aec60509905ae4cf refs/tags/android-4.2.2_r1.2
+^02b974e41f8f3c04b24d3c83301eee55e7b2f8b2
+f65324f00860fbb65dc125ada653b19f0da10d8b refs/tags/android-4.2.2_r1_
+^b30bdb06b6d791bd8e77143a5c725b2a6774ed61
+01d29b1d49e27b59d9a8b06ff30b3bf796bd0270 refs/tags/android-4.2_r1___
+^9398629a85421e82b770deb8271ae153c8dd0ce0
+66fdc3202632d360aa0733be0ead90ec3ee38dd2 refs/tags/android-4.3.1_r1
+^1f7a5a5890966bd7016ea319ff5ff03d723ec4f4
+e8e88e5b0fd9afe632ff4b3cb4ee36d4ac0396fb refs/tags/android-4.3_r0.9
+^061132d49385db165916cc18cfc87a52220aacca
+8bd069fdb3c76b38defe05a50bb4ddb52f5b19b1 refs/tags/android-4.3_r0.9.1
+^ca35e1a6d72505e2e3cbbe4bf583df3ed0dcf64b
+8ed5f069df29139bed5011b36e9c96c7f7e614e2 refs/tags/android-4.3_r0.9.1_
+^0171f965d970c982187db8ad82fb205f5e753292
+6184506f90bb7aa4b3cf591dfdadbc4b0a9c70e6 refs/tags/android-4.3_r0.9_
+^ecb446efef38e3139ef6109a3f0c6adde80a2683
+86f0eaf652f58dbe390487a9aa0fa19e924c16d3 refs/tags/android-4.3_r1
+^a1017b36e96e35e86871932355dc75792ad613ca
+ae5cef4564bb062474e26a19cb228dec84d1489e refs/tags/android-4.3_r1.1
+^4e227fde9d0039d8ba3ff76bc94f57e939f96975
+6ebfeb8231bf23a16fa791f9a0d8a4932ee86702 refs/tags/android-4.3_r1_
+^5ce98a6bdb0ab9ba71e3f39c03dcaf69d8c55168
+4890547a77651aa742eba5662cf8121b8736dbd6 refs/tags/android-4.3_r2
+^1739966098070b149cd9ccfd74e7c1bcb05d39c6
+7328efe04ec5723337e24d25332368d4ec2d928b refs/tags/android-4.3_r2.1_
+^95b5cdd352aad3146056bc43d6254cf96596c31a
+9e783359170697487ec13904cd2bccc4da2b5712 refs/tags/android-4.3_r2.1__
+^63f84526ff3a143728a63540f9689002198ec14a
+69f6d8f35a115bc0b50b8fbf4d36a6c4bfee68fd refs/tags/android-4.3_r2.2
+^9ca32f41b222f3cda4b8ce0aa2b3d852228555ad
+c9db83951b1ac76716b0bf371b95e7f366bf90d9 refs/tags/android-4.3_r2.3
+^bf287dd7b57731089c86377665691b84823ce4a6
+4016219209ebc5e5068ae74656cd551439517aae refs/tags/android-4.3_r2_
+^36d2f932d955fd6d3a98f178dfbf1410fbe0eb34
+ffc6b816e2c0f5a07df1647ef2ed8cee976cb702 refs/tags/android-4.3_r3
+^3bed0c769d63ad7e48d5daaac0bcd411c7b71380
+3f31877e16cc16be30ba0a517b9c197895a49d6b refs/tags/android-4.3_r3.1
+^5399a207d7397c72a1bffd0a4538f53527a37e10
+029f284cc4a39c9517042fadf962bac5b068c9cf refs/tags/android-4.4.1_r1
+^35e3804432f53948e7af36a88b08b48445b72b0c
+23e4b3c10d733bce59d42f2962ffd4932d524efd refs/tags/android-4.4.1_r1.0.1
+^87b502387f3bf9c00ffbe7358629f050eee0e631
+559adaaddd1560ba54bae99c535e7d38bbbf6450 refs/tags/android-4.4.2_r1
+^9561eb17bdd1c4fa88b9bc487d9d7a87b983067e
+ad4272da283732a6fba5630d6c0dcb9311fdabed refs/tags/android-4.4.2_r1.0.1
+^45245e45f53437770ecb9cefec27be1c275835d0
+f8033baf38bf2cf870bbadb951234eae10fee164 refs/tags/android-4.4.2_r2
+^1a5a541bda691c1dbc7a439c2b1eeda1c89a6faa
+c67dd8723d898ce3e8ca715f9413bd7e812d6959 refs/tags/android-4.4.2_r2.0.1
+^990848baf898288bc9c9ee515bce3f2ad7aaaa89
+34c0ad5e8e40d91ed2008223e6957f9764427d09 refs/tags/android-4.4.3_r1
+^480eebd7a45cf26ccc15345f685aab2119ee0633
+2eaad4eb4c0a3475394565d9cbd81a90b99ad69c refs/tags/android-4.4.3_r1.0.1
+^04901858b36b2941c3df6803139f29d03cd31ed8
+8b7c51d273f710886a9c2dd3c41235274037afa0 refs/tags/android-4.4.3_r1.1
+^28b973e2a19ccece410ef3507ee713fa8f4525dc
+a5c053a2384ddd5291179aa748593f8fa209d5fa refs/tags/android-4.4.3_r1.1.0.1
+^e6bef31b5ba7a23dcbece71087d0a7ad300cf7e3
+6f772fa2e1d2779fd2d8db315827371dfd7d3f48 refs/tags/android-4.4.4_r1
+^aef5618278488f985ecd1d8576c2c2b3e09dbfc4
+95c044384294b515fbd58624d93d340236e24053 refs/tags/android-4.4.4_r1.0.1
+^eac4eec3081222866fe1e7f31e130fb5d1e51a5a
+64f4f353b72203e5225b03fd3432f0825345f6bb refs/tags/android-4.4.4_r2
+^ea9431c1f7f01eb7bba6d7017ab4d8474752c361
+5cb08146ffd049390f0204058b296fd3e464d78f refs/tags/android-4.4.4_r2.0.1
+^1167ed641bc6c3fc41d167160e305008d363956a
+74ba65e684e0b6d7000746e681d35bd94dd1e717 refs/tags/android-4.4_r1
+^d0e8901ec0096c72650588b18a33236ef1e2780c
+fa463c818f53146e28ae5ef3e7ed37f27634401b refs/tags/android-4.4_r1.0.1
+^1b8c363d2d0805b1f245e142219ab8c111ea58ba
+58a4de92ab60f195e75ad5de7f5ebd1c19199d15 refs/tags/android-4.4_r1.1
+^75ef6e808d2ce0da6001355b0fea65e4abdb7688
+9f2176108dd48e4af62b9643bb4d0c43c1e338ea refs/tags/android-4.4_r1.1.0.1
+^9bc6e9233e3abb8b99f264fc0573c2f2b4f40bf9
+a8ce02203ed62d4a9a6edd3804f335b5eadd05cd refs/tags/android-4.4_r1.2
+^d758e28d8a139ced83a9b91305dce20d4a5a7e81
+3461aaae4f057b2731a33bb675df55ddd78e8de4 refs/tags/android-4.4_r1.2.0.1
+^e6f6a61b9f25b03d21fa22d10e5e0b75e9dd3dc0
+2ed2b22318fdc26df048d43ce27917a61a4bb09f refs/tags/android-4.4w_r1
+^cc023df49d9ba7fe0c2e17c4dd15fcd021327033
+ab4613c203d7a19439d4a3fed11b80c6220f0213 refs/tags/android-5.0.0_r1
+^76efe697afcfa58ce3a67618800871f42b5b84af
+be4078600876702b46431f66bb685404ad8f95a0 refs/tags/android-5.0.0_r1.0.1
+^cc60007b2cace0e9444083cfa6afc1194c63c05f
+0930bd6ddd4e3633ef4d68caceb18dbd8b7b6333 refs/tags/android-5.0.0_r2
+^8c53979c7718f491e32ea56cadcf3c45b46eb228
+d771168b02775eab6e14c54b0092294cc213a636 refs/tags/android-5.0.0_r2.0.1
+^0a71a5dc6017a5b0eb853cbdcf06a6d35acfd675
+e9f14b0ad30fa5ceaa9c3b7250297183da8a98dc refs/tags/android-5.0.0_r3
+^c86c9ebd6f5d079116f2911d6a4b30c12c83578d
+5aabfe5aaf3ffd350d34d4a62c330c4f38b4507c refs/tags/android-5.0.0_r3.0.1
+^3325c9421d2f8a2bea3acaa915db7d76743bdae0
+214750db1dde4991bad60146a1fdf9ec6bf49eb5 refs/tags/android-5.0.0_r4
+^34a0ebe33593bd2fdcd2f291aec2d48ffefcb01a
+f1d86746ad14a89e0713cd99e4ba4dc04f030fdf refs/tags/android-5.0.0_r4.0.1
+^cabfdd86cca563306a0c3b0d18c2db93a44425dd
+61e4a47e17972c276c7e5651623c678ddb3e310f refs/tags/android-5.0.0_r5
+^fa504513d042dbc3c737e92617133275a5ff10ad
+b09da80f276e2be94a033932e31bcdddfd3e9c06 refs/tags/android-5.0.0_r5.0.1
+^b4a43344bd22ce060d842dbe11b718c0b8fa68b3
+cef8e7728d3594513c4bdc7cc54d72758f60d028 refs/tags/android-5.0.0_r5.1
+^186c06455cd1746707764cf3a58eb837afaabbd6
+7296a41b96c84b9edbacb72d78bf65e84fb572a6 refs/tags/android-5.0.0_r5.1.0.1
+^f1fa1d308c10ceb9d756801fc42a74b0334b0fe8
+57b2d5105df7751caed7a5f82111405d3f77b68e refs/tags/android-5.0.0_r6
+^7b25458e1484e41c9934281db88d66dd6fcc7d0a
+ac2babce460ea8328450111961663ff48ab5ff6d refs/tags/android-5.0.0_r6.0.1
+^ba4327fd0e7552ddc2bcf816fb34a8c4c9af8ad1
+eba293e1d408235484df0ad7d8d1cd2e00a4a477 refs/tags/android-5.0.0_r7
+^f0497a120309266b35370c3452e1e19360ef0e28
+5519d666e08bf13eceb6640c9f4f8089a23ba143 refs/tags/android-5.0.0_r7.0.1
+^d453e42e24212d29a8556fe6100fb50b6f89ae96
+40c0ac29a33df9345b9fab83eceb5e2062ac8b0d refs/tags/android-5.0.1_r1
+^71e502af0f0da0a6b5e09add6861f0d8d13d29e8
+b939ea3921baab96dedd384763016e15934393e5 refs/tags/android-5.0.2_r1
+^b697f8e54dea8b1e7ca92e4be68040cf2f88a68b
+f287cdaa54e40ec1723adcde2fd389c9628f1d55 refs/tags/android-5.0.2_r3
+^ea5ff5a2c170f3a412e0ed879f91627efd8f93e9
+33e0c28a2217d793c3e9b03ceec1b877b78a07c7 refs/tags/android-5.1.0_r1
+^205ab396f31e37d55e8a486e3801339d1d93a735
+452428da4c3ef122d92e43ffbc904e9f9e19c1d8 refs/tags/android-5.1.0_r3
+^e0b7f99acbca087a5cee193c3d38e755cb245aba
+08aef9ce647b999b1ea54b2591f20a89641fa17d refs/tags/android-5.1.0_r5
+^1d83363c310548063a45020112edf420c12712e7
+6918e044598f12ad990e768dbb5725de295d3d79 refs/tags/android-5.1.1_r1
+^7435961394e556275a6f13cca8fe4bf2839314f3
+8e58c9710e7721a0a2a3b623cbc4417c465d06ec refs/tags/android-5.1.1_r2
+^67e91857b706f7a4ae99d0b94e4a2505c44944e2
+835a0562ca4581fb7556cc790d076ef1c0dda707 refs/tags/android-cts-2.2_r8
+^00b26cfb0c1f3cc6c3156677fa46c511b792c942
+2df887a3c784bb28a4f942f3f20d82b53a8870a6 refs/tags/android-cts-2.3_r10
+^eb2f6de29e41f19be633449a5afeaf5c9c350e39
+89a33e5fd9f523979339b1709277ceb7861bc7c3 refs/tags/android-cts-2.3_r11
+^3d6c2b487396caccaf8439946f52af37f1247c31
+a03a33aa8859d88112619d059320466c7d83985c refs/tags/android-cts-2.3_r12
+^61c3152bf12fd28b8d19c35b1e08c4e71ee521f5
+d6390b3b0ea57d76a1912f85eaf7af9b52137f3b refs/tags/android-cts-4.0.3_r1
+^341c66b58bb560f64e2dd3bf1d7ef9899915c66d
+7a87f411cc4a2cefbfcc30edad37423ed717c152 refs/tags/android-cts-4.0.3_r2
+^8772d687d0b3c6d7d480420c1e5204e5f1dabbb0
+d1ff655155a18ff65c3669070e8835c96d667d79 refs/tags/android-cts-4.0_r1
+^b6f7347dfb8bcdfe0eea54068beb2aacf948cd0e
+313044bb7c7774febf0cac4da2f75d4192812ff9 refs/tags/android-cts-4.1_r1
+^d0358439ba4905c6a9b33138f0f26c1a7a57d335
+11e55cf8694e61e9926945de5ff5e78c3c29c1d2 refs/tags/android-cts-4.1_r2
+^f137be2ea2367ca6e0ded7d4c6ec19e52db9e97c
+e26e54967907dbde35990bd7aa6768a497300402 refs/tags/android-cts-4.1_r4
+^e0cee17226b0ba81364aa8f0b5bba7f88472b663
+7b4f0a4382b4ed1d524707c204834218791c949d refs/tags/android-cts-4.2_r2
+^344e3d6265a4e2533bdb53adc561f219498c6286
+83f5cc099e6448c1d9791334e5a0c1c99428ce19 refs/tags/android-cts-4.4_r1
+^3eb32e764a7c6133043b0cb4ff23eb157dde4e11
+eb9fa52c16ba356ccb476eab50281b9051854d07 refs/tags/android-cts-5.0_r2
+^0c3abeabbd153a0aa1713c9c98e06f2ae4d098cb
+a118f9bc0f80664269a2732f672246b744ab1110 refs/tags/android-cts-5.1_r1
+^24bbe8c6c7eef96b731e50b996408f0f6b3d13b2
+c775ebb8f7f8823c4c08f636ce0a4aa8255a1c03 refs/tags/android-cts-verifier-4.0.3_r1
+^de2cc1fe5c561bb671682370f7abc9d248ae212f
+148e6e0d4380a250430d415a2c9ab1767b368d89 refs/tags/android-cts-verifier-4.0_r1
+^84e5092c025b43eda4786574b28cbfeb79488f14
+2316d5d74c63949e55b528b78aca37ceb2445431 refs/tags/android-l-preview_r2
+^603a53a8defb5569b2f885a3460057ee97cd0f11
+51f27c8046fab00ff7fd2ea2dcbc1a5f340b7782 refs/tags/android-sdk-4.0.3-tools_r1
+^037c0fa999ff50c8cf931e3db93a45e6e5db7f26
+6bf7f27c4225c654b96b4001b313a35d4de2edd7 refs/tags/android-sdk-4.0.3_r1
+^3e044dfed5a13309f463ed85a4b86580642e91ff
+413742b9a8fa2e8dfb08a7099a87bc60da4811c9 refs/tags/android-sdk-4.4.2_r1
+^3118e9f9a9586c3a7fb0ff46dd0ec1f823500a2d
+66e140bddc4cbefeb9024bce68fcad9dcd0741c2 refs/tags/android-sdk-4.4.2_r1.0.1
+^91c43033ce4759684081c26cc2b081882334833b
+5ada678709a80c0079770c9eebba5aa46fb88662 refs/tags/android-sdk-adt_r16.0.1
+^d37ffc3bb0bc5a7e023f6031fce12546d0ed16cf
+13fba12019a0984130f2ff563c89f4b8fb15a14e refs/tags/android-sdk-adt_r20
+^f6546f0da2583bc98c28a860e5e9fc9b6a021a58
+338b6c705391b7208133ca3bf16711acd198eadd refs/tags/android-sdk-support_r11
+^416a590af8e338c9b3676d2ca0b1c7f13cec3553
+83f891efa53f30febc99dc6688fd0cc2b391d6c2 refs/tags/android-tsl-2.0
+^4de2f414592ccc16be9b10fcff5e59dbc586913f
+035e8041e5d4fa61347a21470d9442001eb0e56b refs/tags/android-wear-5.0.0_r1
+^c62e3bad11f574c35aeccb69379901a7f5db9cbe
+574282351c9a3ecfdaffb54eb66a33e00534b548 refs/tags/gradle_0.12.2
+^adf01aec0d64b537078277535b53300716b304a1
+d28a1cdb568eaaf3b6b829862df36d756bf82b90 refs/tags/gradle_0.13.0
+^0d10906946cce393147321bddd84b08936006d6e
+310f9ba6cde9ed7e7e5496571766b6f7d1fc288b refs/tags/gradle_0.13.1
+^775943a699867dcbdd061d07a6605f662a912421
+71c0ee63b8d914e362d73c1595e5faced6ceb670 refs/tags/gradle_0.13.2
+^c482a8d733918fc45dc779780bcd3e559911782d
+f64e10dc1b37c639f4a1473e596469e509bbb9d2 refs/tags/gradle_0.13.3
+^02d65a652bdd7cd47cb65dc7407b4c4de73cbd87
+07d187ed7bf76bc015b7672e0105f20e6fb0736c refs/tags/gradle_0.14.0
+^232a4c8c667c563b79fe0ea58f761d2bc9cd5c26
+c66f8a5ae79883ab717780413e45795ee50e2c8c refs/tags/gradle_0.14.1
+^f34827072e96bc412135c427201fe802c2f1171b
+4ba859bc2481b7e0961e5e005d97aee28090c689 refs/tags/gradle_0.14.2
+^9a2cf639948b9858cceafc350654f46aaeae4358
+c578495250efe691960fe213dfbf66990efef531 refs/tags/gradle_0.14.3
+^6451a83c3e05ad92a2551f3d3adbaafbc44ca655
+2f3b9970f2c47d5b9969c54dfb47eebf47fc8971 refs/tags/gradle_0.14.4
+^1c776f4b08a7f6ee5a04dd14f28b59ff202c86f2
+a6dd2d99919a00728504086f42ec338e82907363 refs/tags/gradle_1.0.0
+^d9d8b05fca8e4ffbf6484775eea3094126ee5e27
+48e1a9cdc4f047f1093a2cc9851ca9b21f3ce9c8 refs/tags/gradle_1.0.0-rc1
+^d111f598d6ae2dc97e683afaaf6278f001a2731b
+cd0a2d7ab858afbddd030aa0cfd4601129e39783 refs/tags/gradle_1.0.0-rc2
+^4ea88c9225eb291d797d8ffab87529dbcbbbf1f4
+3a517214659fd8526f0a60fbcab383e0bf90fea3 refs/tags/gradle_1.0.0-rc3
+^f8167e51f8df1052a4baa618e662fe6f3dde3ea3
+d199568f9ac25b83d3dd7083fa0a2329aff00892 refs/tags/gradle_1.0.0-rc4
+^35d2a0e607ce31be5d2b9e6748ecb6f7a67e4bde
+601896fa6eb19812d7957f2c92696bdbd177caab refs/tags/gradle_1.0.1
+^81c90a8a2f92eeb542d4617abd65c8937f9c794c
+640d51954e27538e90bbe63ae328e0abb27932d1 refs/tags/gradle_1.1.0
+^85bdc761f29c27ea4c37c77b18294b935f3b2e29
+33a635107a4a4110ef1441b14555d5aa931f75c0 refs/tags/gradle_1.1.0-rc1
+^8c5c8a4416f303b5f5e1864f87938031a03016ef
+8ce58ed4f7ae9f4d9d400fec1d22ba71e0f4604c refs/tags/gradle_1.1.0-rc2
+^3d2956ee3b40f5882e2c5520fb37ffea8fa64f52
+168223fa0f8cd112b374424f23ada1ca2cb726d2 refs/tags/gradle_1.1.0-rc3
+^e94ee8788a4c0e795ccfb8b075c51afddc1401d5
+7ad7574a3a053b001b5c6582f8024514622372d4 refs/tags/gradle_1.1.1
+^d17b6cab4e2377aca4b4cc08c79423d5d1d7c80f
+915016182692ceb7199e3626138e7b99e6f44013 refs/tags/gradle_1.1.2
+^1f7a070089d0aba8c2d192e565e74ec4c0f27099
+ef896e8596f71cc5d6cd6d39f67be173a342b835 refs/tags/gradle_1.1.3
+^dd44fd720fc508e550f599ea1a41331fedbdbf79
+c4cc9cd8fe26f7ccbfd43f10994df309946e4b58 refs/tags/gradle_1.2.0
+^ff71577f80990e277e4d8548a1b6cdc50d70c7d2
+4a3283edd04fb2936d6033878088ba4f3530f641 refs/tags/gradle_1.2.0-beta1
+^78f9791fc7df70b20b59d3e4d06c9fd0695a6a3d
+5373ee4270b8dd2c37c323f7229c9a57359a9bcf refs/tags/gradle_1.2.0-rc1
+^628352233ec54d6314c7aa6611586a54d605401f
+9d740d7ae1a1fae17b96af37314b6fe7b3cfea52 refs/tags/gradle_1.2.1
+^6a650b25b26787255c6092b28f7b66ffa261add7
+36c8e05e0dcabbd6dcd615563ac35fd2cce573d8 refs/tags/gradle_1.2.2
+^ff4f084c8bdd6c65685cd7f49d4bd1631fe139bb
+e756036549561bb7931ff35298f4f5fa8d17f688 refs/tags/gradle_1.2.3
+^cf2961e9a430d3766e0ca1de044f2d363db17f82
+d5253369f4d43735f1b54b0c18c8a35e2ebd2a8a refs/tags/studio_0.8.6
+^110cd494f777170cb790e2a4f9d13b20d0e63c2d
+2ccf8bfa92289090244b0a16902590e91b3a3fc8 refs/tags/studio_1.0.0
+^080ef7ed6ab6707a04494d01749ff9be8a32a528
+f56ed0e5d49bd2416b2c802ff0c8eea45b7cb394 refs/tags/studio_1.0.1
+^a53420598456e71cc85c7b3415f01c6b65b33efc
+42381d3b2896acdc1ae01a372d03bc382bca874a refs/tags/ub-jack-arzon-mr2
+^55d029875a1a562aae7c9107e2e7f047d9c9958c
+39bba03c70a2dfa67a5925938ad2f1a9086f91df refs/tags/webview-m40_r1
+^c2d0fda4d5ef41f812ada4672d4dc9ec6fb07c2d
+a64d5670c8cf04859e1487834f6b86475c2fd10e refs/tags/webview-m40_r2
+^fe606f6d9b490daadaa5d72c779195249c70d428
+9c2e5af03cdbb4c60e4a4a7069b5414773cb6704 refs/tags/webview-m40_r3
+^4de6683e27025cca5cdd63a4d19f5b0f6d78ff82
+eeeeb77ff45906f27b32b78ff171dcf7d8fb6b7d refs/tags/webview-m40_r4
+^ae6d4878d7edcb0e444e789104d3c739f275b24a

@@ -1,0 +1,438 @@
+4a1934d48f06a422476a5a3677ddef711190646c		branch 'adt_23.0.3' of https://android.googlesource.com/platform/manifest
+3dbf7a37083842030d67082219af4b6a09f1a12b		branch 'android-1.6_r1' of https://android.googlesource.com/platform/manifest
+93b16e4d13acd3f583308f31f8466eba89ffe594		branch 'android-1.6_r1.1' of https://android.googlesource.com/platform/manifest
+4ebf0995de5da07dbb105a430029266c87836f28		branch 'android-1.6_r1.2' of https://android.googlesource.com/platform/manifest
+7e4a737d419c7874abf75978848dcbde67633b83		branch 'android-1.6_r1.3' of https://android.googlesource.com/platform/manifest
+b5eb050e6605878f85a42be65668b814f9fd6c1b		branch 'android-1.6_r1.4' of https://android.googlesource.com/platform/manifest
+fa00a4fe93112ee373426202e0691df9001ac76f		branch 'android-1.6_r1.5' of https://android.googlesource.com/platform/manifest
+9179092912387fbdc719448892e5087ab3efeb01		branch 'android-1.6_r2' of https://android.googlesource.com/platform/manifest
+b59f5cb0659c0b1b18c1161358eaf31e8f46f403		branch 'android-2.0.1_r1' of https://android.googlesource.com/platform/manifest
+03b0d238eb30f9cb54a6fb7ffa56f7a547882629		branch 'android-2.0_r1' of https://android.googlesource.com/platform/manifest
+36cd862c1b44a6dee835497ebe216ff81464c2d6		branch 'android-2.1_r1' of https://android.googlesource.com/platform/manifest
+8d2cf2b079e4d2ee3099946b388c9ad9f8e4a94f		branch 'android-2.1_r2' of https://android.googlesource.com/platform/manifest
+fd32a8aaf3ec9c11a873727a323c93e785df2503		branch 'android-2.1_r2.1p' of https://android.googlesource.com/platform/manifest
+68cafac426e38330b065111e68ce4febd250bcff		branch 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/manifest
+578bd4e4fdb22b67058cccbac78d795ccba46b84		branch 'android-2.1_r2.1s' of https://android.googlesource.com/platform/manifest
+9d48e5594b58a5bda2f5cf826b8d7cd391dd9986		branch 'android-2.2.1_r1' of https://android.googlesource.com/platform/manifest
+d4e3584ec13d0cedac34182c9a024d2f3f3a59c1		branch 'android-2.2.1_r2' of https://android.googlesource.com/platform/manifest
+320229cd98b6f101488b9f20872db99f135da901		branch 'android-2.2.2_r1' of https://android.googlesource.com/platform/manifest
+eac28a94fcf9fbb4fec8ac2a119a65b73094b391		branch 'android-2.2.3_r1' of https://android.googlesource.com/platform/manifest
+950bc00c84cb46d72916e8ff2f7aa0aa0edb9b27		branch 'android-2.2.3_r2' of https://android.googlesource.com/platform/manifest
+750313d9ddb35959103d75ff8c450f4d7b6596d9		branch 'android-2.2.3_r2.1' of https://android.googlesource.com/platform/manifest
+2b724973c2120e289caa6b6ead3ac1a48288abee		branch 'android-2.2_r1' of https://android.googlesource.com/platform/manifest
+980d5f9a81a719860c29a961e825fbc49b69f048		branch 'android-2.2_r1.1' of https://android.googlesource.com/platform/manifest
+d3f1ea5bace72d3ea5ec20e2637fe8667920d7ec		branch 'android-2.2_r1.2' of https://android.googlesource.com/platform/manifest
+777660e33abc5e3c817181f5c9c0a24210228ae6		branch 'android-2.2_r1.3' of https://android.googlesource.com/platform/manifest
+39371b2d2d1d998c86db3c3dacb9ec9f5d9e566d		branch 'android-2.3.1_r1' of https://android.googlesource.com/platform/manifest
+932585689dbe625b5d28cc4d7fb7524e7d1d3b18		branch 'android-2.3.2_r1' of https://android.googlesource.com/platform/manifest
+fd4520be554998bd2220a4c4e059276f8ece87d0		branch 'android-2.3.3_r1' of https://android.googlesource.com/platform/manifest
+de2b686b728881fe952857d5a6d9ec5d918fbc50		branch 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/manifest
+a28db5eb8920d60e8bf5d11cba8871720e7b354e		branch 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/manifest
+c47192cc323e310df97b789df5a1fe6f92499e41		branch 'android-2.3.4_r1' of https://android.googlesource.com/platform/manifest
+bf07547ab95cd41ef878c95bbfef62aed87cedfe		branch 'android-2.3.5_r1' of https://android.googlesource.com/platform/manifest
+7055752dd08078a6fb57b92c66f33f8a681ee65c		branch 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/manifest
+7a08b14fb75fd94fa5688efddec04dbe1be48006		branch 'android-2.3.6_r1' of https://android.googlesource.com/platform/manifest
+e0f06d722ae7908ae515043920cf2115874afec9		branch 'android-2.3.7_r1' of https://android.googlesource.com/platform/manifest
+862b58a8a5cb7069eba33c9eb8588eeeb34e6397		branch 'android-2.3_r1' of https://android.googlesource.com/platform/manifest
+c4e4db1a85b9bea00b9fe8c6a18f9d3357adab0c		branch 'android-4.0.1_r1' of https://android.googlesource.com/platform/manifest
+8bd7fa994eb796bf1a700f16858c56b44c22fc89		branch 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/manifest
+f7881bce28f585c6fd393bc8e0410e8d187dfc20		branch 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/manifest
+6699333dd8d7f95aa01463c918739fdb057da8ca		branch 'android-4.0.2_r1' of https://android.googlesource.com/platform/manifest
+f5e8bef9db4874e4243ec56dcf5498d31a9221d6		branch 'android-4.0.3_r1' of https://android.googlesource.com/platform/manifest
+2cbe5d90881ce4d681d11e46d524385a8e4fe73a		branch 'android-4.0.3_r1.1' of https://android.googlesource.com/platform/manifest
+1358580a0e00e25a9f6b003ea9322d8ed5b5fc65		branch 'android-4.0.4_r1' of https://android.googlesource.com/platform/manifest
+81ef818506602b7bba2caf754307f7f7382e8991		branch 'android-4.0.4_r1.1' of https://android.googlesource.com/platform/manifest
+11a915181c2b8fc8d4402eb1a63c5931dfd4ae66		branch 'android-4.0.4_r1.2' of https://android.googlesource.com/platform/manifest
+9cdf2369b6801dc09d993fd9bb99d53a7d2f291d		branch 'android-4.0.4_r2' of https://android.googlesource.com/platform/manifest
+b22f804b103755c4617d0b2cd603f216c3549050		branch 'android-4.0.4_r2.1' of https://android.googlesource.com/platform/manifest
+0983a066184665e50bbf19cd165f288ab0842cd2		branch 'android-4.1.1_r1' of https://android.googlesource.com/platform/manifest
+4c4b513351938145f3f68ccdda037e95e9a2fb9b		branch 'android-4.1.1_r1.1' of https://android.googlesource.com/platform/manifest
+5e9f6af252b5e69abe47f21b844fb2496f43995b		branch 'android-4.1.1_r2' of https://android.googlesource.com/platform/manifest
+9ae01ca9c4a87ce24161ac0b7f2391136e0d8d14		branch 'android-4.1.1_r3' of https://android.googlesource.com/platform/manifest
+e5b19423d5df4cc2d60a3f675fe40cbdd115fa13		branch 'android-4.1.1_r4' of https://android.googlesource.com/platform/manifest
+7ffd1f83d7df5d2381fee3e87d0a08c4331a7b7e		branch 'android-4.1.1_r5' of https://android.googlesource.com/platform/manifest
+a9e24b604c5e2c0bed1f9cd73eb1f2e8ab56b4b3		branch 'android-4.1.1_r6' of https://android.googlesource.com/platform/manifest
+dab3b7eb00aeab8233dfb89166e1d0a3348b8724		branch 'android-4.1.1_r6.1' of https://android.googlesource.com/platform/manifest
+7af362b848fba5f21ada2c2b9c39d396c9651190		branch 'android-4.1.2_r1' of https://android.googlesource.com/platform/manifest
+5ee1dd1e977d9ff6753adfa5190a5a767ca9afc0		branch 'android-4.1.2_r2' of https://android.googlesource.com/platform/manifest
+f2683b1c5c71e843e6b4096fbdc2585eeb81cecf		branch 'android-4.1.2_r2.1' of https://android.googlesource.com/platform/manifest
+947d721dd9999013b2983d89c3af96eb18780b4e		branch 'android-4.2.1_r1' of https://android.googlesource.com/platform/manifest
+28ad6cce9612600ce96f1211862c3798f74c4ffd		branch 'android-4.2.1_r1.1' of https://android.googlesource.com/platform/manifest
+4c2be345d6bfc25db87f23749912ae9d98d2ad62		branch 'android-4.2.1_r1.2' of https://android.googlesource.com/platform/manifest
+b30bdb06b6d791bd8e77143a5c725b2a6774ed61		branch 'android-4.2.2_r1' of https://android.googlesource.com/platform/manifest
+2772b9f2257a28b9796bb43742b04850285d3db7		branch 'android-4.2.2_r1.1' of https://android.googlesource.com/platform/manifest
+02b974e41f8f3c04b24d3c83301eee55e7b2f8b2		branch 'android-4.2.2_r1.2' of https://android.googlesource.com/platform/manifest
+60035c53fd5b17654a6bb13b60058147d4f9bcef		branch 'android-4.2.2_r1.2b' of https://android.googlesource.com/platform/manifest
+9398629a85421e82b770deb8271ae153c8dd0ce0		branch 'android-4.2_r1' of https://android.googlesource.com/platform/manifest
+1f7a5a5890966bd7016ea319ff5ff03d723ec4f4		branch 'android-4.3.1_r1' of https://android.googlesource.com/platform/manifest
+ecb446efef38e3139ef6109a3f0c6adde80a2683		branch 'android-4.3_r0.9' of https://android.googlesource.com/platform/manifest
+0171f965d970c982187db8ad82fb205f5e753292		branch 'android-4.3_r0.9.1' of https://android.googlesource.com/platform/manifest
+5ce98a6bdb0ab9ba71e3f39c03dcaf69d8c55168		branch 'android-4.3_r1' of https://android.googlesource.com/platform/manifest
+4e227fde9d0039d8ba3ff76bc94f57e939f96975		branch 'android-4.3_r1.1' of https://android.googlesource.com/platform/manifest
+36d2f932d955fd6d3a98f178dfbf1410fbe0eb34		branch 'android-4.3_r2' of https://android.googlesource.com/platform/manifest
+63f84526ff3a143728a63540f9689002198ec14a		branch 'android-4.3_r2.1' of https://android.googlesource.com/platform/manifest
+9ca32f41b222f3cda4b8ce0aa2b3d852228555ad		branch 'android-4.3_r2.2' of https://android.googlesource.com/platform/manifest
+3a97888c13ec3cb33eaba4572d13429986a5b74c		branch 'android-4.3_r2.2-cts' of https://android.googlesource.com/platform/manifest
+bf287dd7b57731089c86377665691b84823ce4a6		branch 'android-4.3_r2.3' of https://android.googlesource.com/platform/manifest
+6c7205b958c56a584e8a0112a684e87ccff53e81		branch 'android-4.3_r3' of https://android.googlesource.com/platform/manifest
+5399a207d7397c72a1bffd0a4538f53527a37e10		branch 'android-4.3_r3.1' of https://android.googlesource.com/platform/manifest
+35e3804432f53948e7af36a88b08b48445b72b0c		branch 'android-4.4.1_r1' of https://android.googlesource.com/platform/manifest
+87b502387f3bf9c00ffbe7358629f050eee0e631		branch 'android-4.4.1_r1.0.1' of https://android.googlesource.com/platform/manifest
+d8be02b10186794b6e039afb441cecbdca3846d7		branch 'android-4.4.2_r1' of https://android.googlesource.com/platform/manifest
+45245e45f53437770ecb9cefec27be1c275835d0		branch 'android-4.4.2_r1.0.1' of https://android.googlesource.com/platform/manifest
+1a5a541bda691c1dbc7a439c2b1eeda1c89a6faa		branch 'android-4.4.2_r2' of https://android.googlesource.com/platform/manifest
+990848baf898288bc9c9ee515bce3f2ad7aaaa89		branch 'android-4.4.2_r2.0.1' of https://android.googlesource.com/platform/manifest
+480eebd7a45cf26ccc15345f685aab2119ee0633		branch 'android-4.4.3_r1' of https://android.googlesource.com/platform/manifest
+04901858b36b2941c3df6803139f29d03cd31ed8		branch 'android-4.4.3_r1.0.1' of https://android.googlesource.com/platform/manifest
+28b973e2a19ccece410ef3507ee713fa8f4525dc		branch 'android-4.4.3_r1.1' of https://android.googlesource.com/platform/manifest
+e6bef31b5ba7a23dcbece71087d0a7ad300cf7e3		branch 'android-4.4.3_r1.1.0.1' of https://android.googlesource.com/platform/manifest
+aef5618278488f985ecd1d8576c2c2b3e09dbfc4		branch 'android-4.4.4_r1' of https://android.googlesource.com/platform/manifest
+eac4eec3081222866fe1e7f31e130fb5d1e51a5a		branch 'android-4.4.4_r1.0.1' of https://android.googlesource.com/platform/manifest
+ea9431c1f7f01eb7bba6d7017ab4d8474752c361		branch 'android-4.4.4_r2' of https://android.googlesource.com/platform/manifest
+1167ed641bc6c3fc41d167160e305008d363956a		branch 'android-4.4.4_r2.0.1' of https://android.googlesource.com/platform/manifest
+d0e8901ec0096c72650588b18a33236ef1e2780c		branch 'android-4.4_r1' of https://android.googlesource.com/platform/manifest
+1b8c363d2d0805b1f245e142219ab8c111ea58ba		branch 'android-4.4_r1.0.1' of https://android.googlesource.com/platform/manifest
+75ef6e808d2ce0da6001355b0fea65e4abdb7688		branch 'android-4.4_r1.1' of https://android.googlesource.com/platform/manifest
+9bc6e9233e3abb8b99f264fc0573c2f2b4f40bf9		branch 'android-4.4_r1.1.0.1' of https://android.googlesource.com/platform/manifest
+d758e28d8a139ced83a9b91305dce20d4a5a7e81		branch 'android-4.4_r1.2' of https://android.googlesource.com/platform/manifest
+e6f6a61b9f25b03d21fa22d10e5e0b75e9dd3dc0		branch 'android-4.4_r1.2.0.1' of https://android.googlesource.com/platform/manifest
+cc023df49d9ba7fe0c2e17c4dd15fcd021327033		branch 'android-4.4w_r1' of https://android.googlesource.com/platform/manifest
+76efe697afcfa58ce3a67618800871f42b5b84af		branch 'android-5.0.0_r1' of https://android.googlesource.com/platform/manifest
+cc60007b2cace0e9444083cfa6afc1194c63c05f		branch 'android-5.0.0_r1.0.1' of https://android.googlesource.com/platform/manifest
+8c53979c7718f491e32ea56cadcf3c45b46eb228		branch 'android-5.0.0_r2' of https://android.googlesource.com/platform/manifest
+0a71a5dc6017a5b0eb853cbdcf06a6d35acfd675		branch 'android-5.0.0_r2.0.1' of https://android.googlesource.com/platform/manifest
+c86c9ebd6f5d079116f2911d6a4b30c12c83578d		branch 'android-5.0.0_r3' of https://android.googlesource.com/platform/manifest
+3325c9421d2f8a2bea3acaa915db7d76743bdae0		branch 'android-5.0.0_r3.0.1' of https://android.googlesource.com/platform/manifest
+34a0ebe33593bd2fdcd2f291aec2d48ffefcb01a		branch 'android-5.0.0_r4' of https://android.googlesource.com/platform/manifest
+cabfdd86cca563306a0c3b0d18c2db93a44425dd		branch 'android-5.0.0_r4.0.1' of https://android.googlesource.com/platform/manifest
+fa504513d042dbc3c737e92617133275a5ff10ad		branch 'android-5.0.0_r5' of https://android.googlesource.com/platform/manifest
+b4a43344bd22ce060d842dbe11b718c0b8fa68b3		branch 'android-5.0.0_r5.0.1' of https://android.googlesource.com/platform/manifest
+186c06455cd1746707764cf3a58eb837afaabbd6		branch 'android-5.0.0_r5.1' of https://android.googlesource.com/platform/manifest
+f1fa1d308c10ceb9d756801fc42a74b0334b0fe8		branch 'android-5.0.0_r5.1.0.1' of https://android.googlesource.com/platform/manifest
+7b25458e1484e41c9934281db88d66dd6fcc7d0a		branch 'android-5.0.0_r6' of https://android.googlesource.com/platform/manifest
+ba4327fd0e7552ddc2bcf816fb34a8c4c9af8ad1		branch 'android-5.0.0_r6.0.1' of https://android.googlesource.com/platform/manifest
+f0497a120309266b35370c3452e1e19360ef0e28		branch 'android-5.0.0_r7' of https://android.googlesource.com/platform/manifest
+d453e42e24212d29a8556fe6100fb50b6f89ae96		branch 'android-5.0.0_r7.0.1' of https://android.googlesource.com/platform/manifest
+71e502af0f0da0a6b5e09add6861f0d8d13d29e8		branch 'android-5.0.1_r1' of https://android.googlesource.com/platform/manifest
+b697f8e54dea8b1e7ca92e4be68040cf2f88a68b		branch 'android-5.0.2_r1' of https://android.googlesource.com/platform/manifest
+ea5ff5a2c170f3a412e0ed879f91627efd8f93e9		branch 'android-5.0.2_r3' of https://android.googlesource.com/platform/manifest
+205ab396f31e37d55e8a486e3801339d1d93a735		branch 'android-5.1.0_r1' of https://android.googlesource.com/platform/manifest
+e0b7f99acbca087a5cee193c3d38e755cb245aba		branch 'android-5.1.0_r3' of https://android.googlesource.com/platform/manifest
+1d83363c310548063a45020112edf420c12712e7		branch 'android-5.1.0_r5' of https://android.googlesource.com/platform/manifest
+7435961394e556275a6f13cca8fe4bf2839314f3		branch 'android-5.1.1_r1' of https://android.googlesource.com/platform/manifest
+67e91857b706f7a4ae99d0b94e4a2505c44944e2		branch 'android-5.1.1_r2' of https://android.googlesource.com/platform/manifest
+00b26cfb0c1f3cc6c3156677fa46c511b792c942		branch 'android-cts-2.2_r8' of https://android.googlesource.com/platform/manifest
+eb2f6de29e41f19be633449a5afeaf5c9c350e39		branch 'android-cts-2.3_r10' of https://android.googlesource.com/platform/manifest
+3d6c2b487396caccaf8439946f52af37f1247c31		branch 'android-cts-2.3_r11' of https://android.googlesource.com/platform/manifest
+61c3152bf12fd28b8d19c35b1e08c4e71ee521f5		branch 'android-cts-2.3_r12' of https://android.googlesource.com/platform/manifest
+341c66b58bb560f64e2dd3bf1d7ef9899915c66d		branch 'android-cts-4.0.3_r1' of https://android.googlesource.com/platform/manifest
+8772d687d0b3c6d7d480420c1e5204e5f1dabbb0		branch 'android-cts-4.0.3_r2' of https://android.googlesource.com/platform/manifest
+b6f7347dfb8bcdfe0eea54068beb2aacf948cd0e		branch 'android-cts-4.0_r1' of https://android.googlesource.com/platform/manifest
+d0358439ba4905c6a9b33138f0f26c1a7a57d335		branch 'android-cts-4.1_r1' of https://android.googlesource.com/platform/manifest
+f137be2ea2367ca6e0ded7d4c6ec19e52db9e97c		branch 'android-cts-4.1_r2' of https://android.googlesource.com/platform/manifest
+e0cee17226b0ba81364aa8f0b5bba7f88472b663		branch 'android-cts-4.1_r4' of https://android.googlesource.com/platform/manifest
+344e3d6265a4e2533bdb53adc561f219498c6286		branch 'android-cts-4.2_r2' of https://android.googlesource.com/platform/manifest
+0c3abeabbd153a0aa1713c9c98e06f2ae4d098cb		branch 'android-cts-5.0_r2' of https://android.googlesource.com/platform/manifest
+24bbe8c6c7eef96b731e50b996408f0f6b3d13b2		branch 'android-cts-5.1_r1' of https://android.googlesource.com/platform/manifest
+de2cc1fe5c561bb671682370f7abc9d248ae212f		branch 'android-cts-verifier-4.0.3_r1' of https://android.googlesource.com/platform/manifest
+84e5092c025b43eda4786574b28cbfeb79488f14		branch 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/manifest
+63e982275906d13aaec490c7d8d323656c4bc809		branch 'android-l-preview_r2' of https://android.googlesource.com/platform/manifest
+037c0fa999ff50c8cf931e3db93a45e6e5db7f26		branch 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/manifest
+3e044dfed5a13309f463ed85a4b86580642e91ff		branch 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/manifest
+73d05c23bb00653987f4c40fdf783e09f02d8d3c		branch 'android-sdk-4.4.2_r1' of https://android.googlesource.com/platform/manifest
+91c43033ce4759684081c26cc2b081882334833b		branch 'android-sdk-4.4.2_r1.0.1' of https://android.googlesource.com/platform/manifest
+d37ffc3bb0bc5a7e023f6031fce12546d0ed16cf		branch 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/manifest
+f6546f0da2583bc98c28a860e5e9fc9b6a021a58		branch 'android-sdk-adt_r20' of https://android.googlesource.com/platform/manifest
+416a590af8e338c9b3676d2ca0b1c7f13cec3553		branch 'android-sdk-support_r11' of https://android.googlesource.com/platform/manifest
+6a375afa12a87f6a0af8516464b841ea99c3d261		branch 'android-support-test' of https://android.googlesource.com/platform/manifest
+4de2f414592ccc16be9b10fcff5e59dbc586913f		branch 'android-tsl-2.0' of https://android.googlesource.com/platform/manifest
+c62e3bad11f574c35aeccb69379901a7f5db9cbe		branch 'android-wear-5.0.0_r1' of https://android.googlesource.com/platform/manifest
+44de82b41c33f6aa7f8440482bf3873fb3206540		branch 'chromium-dev' of https://android.googlesource.com/platform/manifest
+a0851040aef31322082cca8ee7d020a6d2e5e455		branch 'droiddriver-dev' of https://android.googlesource.com/platform/manifest
+71480329b4ff4ee7f07d756d139425676b09b7c9		branch 'froyo' of https://android.googlesource.com/platform/manifest
+b48922c3d5a26141648f4f52e358db8e218f1cfc		branch 'gingerbread' of https://android.googlesource.com/platform/manifest
+12303f87b9f90c07bf4aec4c4353ba514ee70c8a		branch 'gingerbread-release' of https://android.googlesource.com/platform/manifest
+32c90be332b0a9d8706ef6b86d9f452703da4431		branch 'gradle-dev' of https://android.googlesource.com/platform/manifest
+adf01aec0d64b537078277535b53300716b304a1		branch 'gradle_0.12.2' of https://android.googlesource.com/platform/manifest
+0d10906946cce393147321bddd84b08936006d6e		branch 'gradle_0.13.0' of https://android.googlesource.com/platform/manifest
+775943a699867dcbdd061d07a6605f662a912421		branch 'gradle_0.13.1' of https://android.googlesource.com/platform/manifest
+c482a8d733918fc45dc779780bcd3e559911782d		branch 'gradle_0.13.2' of https://android.googlesource.com/platform/manifest
+02d65a652bdd7cd47cb65dc7407b4c4de73cbd87		branch 'gradle_0.13.3' of https://android.googlesource.com/platform/manifest
+232a4c8c667c563b79fe0ea58f761d2bc9cd5c26		branch 'gradle_0.14.0' of https://android.googlesource.com/platform/manifest
+f34827072e96bc412135c427201fe802c2f1171b		branch 'gradle_0.14.1' of https://android.googlesource.com/platform/manifest
+9a2cf639948b9858cceafc350654f46aaeae4358		branch 'gradle_0.14.2' of https://android.googlesource.com/platform/manifest
+6451a83c3e05ad92a2551f3d3adbaafbc44ca655		branch 'gradle_0.14.3' of https://android.googlesource.com/platform/manifest
+1c776f4b08a7f6ee5a04dd14f28b59ff202c86f2		branch 'gradle_0.14.4' of https://android.googlesource.com/platform/manifest
+d9d8b05fca8e4ffbf6484775eea3094126ee5e27		branch 'gradle_1.0.0' of https://android.googlesource.com/platform/manifest
+d111f598d6ae2dc97e683afaaf6278f001a2731b		branch 'gradle_1.0.0-rc1' of https://android.googlesource.com/platform/manifest
+4ea88c9225eb291d797d8ffab87529dbcbbbf1f4		branch 'gradle_1.0.0-rc2' of https://android.googlesource.com/platform/manifest
+f8167e51f8df1052a4baa618e662fe6f3dde3ea3		branch 'gradle_1.0.0-rc3' of https://android.googlesource.com/platform/manifest
+35d2a0e607ce31be5d2b9e6748ecb6f7a67e4bde		branch 'gradle_1.0.0-rc4' of https://android.googlesource.com/platform/manifest
+81c90a8a2f92eeb542d4617abd65c8937f9c794c		branch 'gradle_1.0.1' of https://android.googlesource.com/platform/manifest
+85bdc761f29c27ea4c37c77b18294b935f3b2e29		branch 'gradle_1.1.0' of https://android.googlesource.com/platform/manifest
+8c5c8a4416f303b5f5e1864f87938031a03016ef		branch 'gradle_1.1.0-rc1' of https://android.googlesource.com/platform/manifest
+3d2956ee3b40f5882e2c5520fb37ffea8fa64f52		branch 'gradle_1.1.0-rc2' of https://android.googlesource.com/platform/manifest
+e94ee8788a4c0e795ccfb8b075c51afddc1401d5		branch 'gradle_1.1.0-rc3' of https://android.googlesource.com/platform/manifest
+d17b6cab4e2377aca4b4cc08c79423d5d1d7c80f		branch 'gradle_1.1.1' of https://android.googlesource.com/platform/manifest
+1f7a070089d0aba8c2d192e565e74ec4c0f27099		branch 'gradle_1.1.2' of https://android.googlesource.com/platform/manifest
+dd44fd720fc508e550f599ea1a41331fedbdbf79		branch 'gradle_1.1.3' of https://android.googlesource.com/platform/manifest
+ff71577f80990e277e4d8548a1b6cdc50d70c7d2		branch 'gradle_1.2.0' of https://android.googlesource.com/platform/manifest
+78f9791fc7df70b20b59d3e4d06c9fd0695a6a3d		branch 'gradle_1.2.0-beta1' of https://android.googlesource.com/platform/manifest
+628352233ec54d6314c7aa6611586a54d605401f		branch 'gradle_1.2.0-rc1' of https://android.googlesource.com/platform/manifest
+6a650b25b26787255c6092b28f7b66ffa261add7		branch 'gradle_1.2.1' of https://android.googlesource.com/platform/manifest
+ff4f084c8bdd6c65685cd7f49d4bd1631fe139bb		branch 'gradle_1.2.2' of https://android.googlesource.com/platform/manifest
+cf2961e9a430d3766e0ca1de044f2d363db17f82		branch 'gradle_1.2.3' of https://android.googlesource.com/platform/manifest
+fd0e4636850dd5b30b08ea8fe21188c98ad0838d		branch 'ics-mr0' of https://android.googlesource.com/platform/manifest
+69127699f9044b0fed3ff228ab035e32d054d425		branch 'ics-mr1' of https://android.googlesource.com/platform/manifest
+39d65dfa756521bb6cd068739b986c562c8e902a		branch 'ics-plus-aosp' of https://android.googlesource.com/platform/manifest
+08320fb028a38e427383ee33c194cf1fdb21d979		branch 'idea133' of https://android.googlesource.com/platform/manifest
+2c50758e5c4837008cbc1d7c0bd854fc8d12dd6e		branch 'idea133-weekly-release' of https://android.googlesource.com/platform/manifest
+6b9cc5af8a9ceb6a6ee76b106a8240e4235b2684		branch 'jb-dev' of https://android.googlesource.com/platform/manifest
+e54ff56da13d3fb919b5df20b90f3f3930c98947		branch 'jb-mr1-dev' of https://android.googlesource.com/platform/manifest
+67f05c6230ce2837c0960a54cb2bd94d9ffebc15		branch 'jb-mr1-dev-plus-aosp' of https://android.googlesource.com/platform/manifest
+84e45730b438163cbe94134174a7ccd3b455cae7		branch 'jb-mr1.1-dev' of https://android.googlesource.com/platform/manifest
+79809d5ef09055953251985888d64af60aa5527c		branch 'jb-mr1.1-dev-plus-aosp' of https://android.googlesource.com/platform/manifest
+a3ae5c9156bacd5201e40a725ccf51a49cf25c6c		branch 'jb-mr2-dev' of https://android.googlesource.com/platform/manifest
+8ad5ecb650b95cbfe513635dadceadac2a9f7de8		branch 'jumper-stable' of https://android.googlesource.com/platform/manifest
+3eb32e764a7c6133043b0cb4ff23eb157dde4e11		branch 'kitkat-cts-dev' of https://android.googlesource.com/platform/manifest
+5378026a72c2bbad121e68d4a5ca96ad54b52a06		branch 'kitkat-dev' of https://android.googlesource.com/platform/manifest
+603a53a8defb5569b2f885a3460057ee97cd0f11		branch 'l-preview' of https://android.googlesource.com/platform/manifest
+9319e8155bed69382d613d001ccc59e384bd097d		branch 'lollipop-cts-dev' of https://android.googlesource.com/platform/manifest
+6409d5b1f2204d2c3ed75c528ca243a04460f94c		branch 'lollipop-dev' of https://android.googlesource.com/platform/manifest
+9add2350f6a2dd55c3360ac5d928a09c3fa7c5e8		branch 'lollipop-mr1-cts-dev' of https://android.googlesource.com/platform/manifest
+be6e02ae06ab519e38380d2b0d4f64c0683864a9		branch 'lollipop-mr1-dev' of https://android.googlesource.com/platform/manifest
+184c029d911e7da159f3dbfb898099686b10eaa0		branch 'master' of https://android.googlesource.com/platform/manifest
+e7fbd242a23a7beb1ca4003d6aec49b9cb014154		branch 'master-art' of https://android.googlesource.com/platform/manifest
+9669540f4f1e73d5a753e488469a6ba1b9644c1d		branch 'master-art-host' of https://android.googlesource.com/platform/manifest
+b0ff0cc0da2d27e6f87cdc48250d015ea1b795c8		branch 'master-dalvik' of https://android.googlesource.com/platform/manifest
+7b52a74b787ea5f1dd669a48190f2d222ccad21d		branch 'master-dalvik-host' of https://android.googlesource.com/platform/manifest
+219296fb55595693419790e874fa0a10a2ff7b24		branch 'master-soong' of https://android.googlesource.com/platform/manifest
+71d306d2cfb37bedc037b12d20f2a44642ca0ec9		branch 'ref/for/master' of https://android.googlesource.com/platform/manifest
+eb32f5f47cb77778d2057a98a9f42faf5aa6f394		branch 'studio-1.0-dev' of https://android.googlesource.com/platform/manifest
+b0544e27ab0efa43855445d3aede4200ec727001		branch 'studio-1.0-release' of https://android.googlesource.com/platform/manifest
+b6220d6b6a687295e75d7611eb1d19645bc34703		branch 'studio-1.1-dev' of https://android.googlesource.com/platform/manifest
+62ce1304c43900015a96bc8a4acf4b4cdaebffb2		branch 'studio-1.1-release' of https://android.googlesource.com/platform/manifest
+06e5a719cfdebfc34d85a9d0b2fc00e668ac5fe3		branch 'studio-1.2-dev' of https://android.googlesource.com/platform/manifest
+1a8a34adea420214edbf0f57896beaff0f8fdc2d		branch 'studio-1.2-release' of https://android.googlesource.com/platform/manifest
+dbe289f852e8f078d197eb773d8a3a096111924b		branch 'studio-1.3-dev' of https://android.googlesource.com/platform/manifest
+906f0e6a28649bb88ba49d77e4565fc7c4582824		branch 'studio-1.3-release' of https://android.googlesource.com/platform/manifest
+71036ad8b96a86e304f51cba6ff40dfb65ac44c0		branch 'studio-master-dev' of https://android.googlesource.com/platform/manifest
+205bf16862a4751d09cec5cb2f8de72d992c242f		branch 'studio-master-release' of https://android.googlesource.com/platform/manifest
+110cd494f777170cb790e2a4f9d13b20d0e63c2d		branch 'studio_0.8.6' of https://android.googlesource.com/platform/manifest
+080ef7ed6ab6707a04494d01749ff9be8a32a528		branch 'studio_1.0.0' of https://android.googlesource.com/platform/manifest
+a53420598456e71cc85c7b3415f01c6b65b33efc		branch 'studio_1.0.1' of https://android.googlesource.com/platform/manifest
+ae14bf4b553bdb6052acd01788a7e67f406fff12		branch 'tools-canary-release' of https://android.googlesource.com/platform/manifest
+05d4d9186956bd0d98364e08d356a9ce3a96e8fe		branch 'tools_ndk_r9d' of https://android.googlesource.com/platform/manifest
+3d2a7ec921049021b51a152376e45dbe606ef10f		branch 'tools_r20' of https://android.googlesource.com/platform/manifest
+cd8bb6e2bebff0cc49a3eed28fb72f2ff2f13255		branch 'tools_r21' of https://android.googlesource.com/platform/manifest
+55bfdc7297180840237fde6f84726a46ccf37f34		branch 'tools_r21.1' of https://android.googlesource.com/platform/manifest
+25f3ee8bc4d87404983fc545270b0e9a80a84061		branch 'tools_r22' of https://android.googlesource.com/platform/manifest
+bf68c0ab3f5b4d518031254f001d530a1b7dcea0		branch 'tools_r22.2' of https://android.googlesource.com/platform/manifest
+1710c88b162bb16b7ff48aae1eb61b341b791c81		branch 'tools_r22.6' of https://android.googlesource.com/platform/manifest
+e84fe83e60a12f6edaa5cdbf0d5151b0ccf30839		branch 'tradefed' of https://android.googlesource.com/platform/manifest
+8aee4bfc0b38b84f4277120d4329768968d8f1cf		branch 'ub-emulator-master' of https://android.googlesource.com/platform/manifest
+8c12db1b7281697ed30dacc58d34a4197dcbf2f0		branch 'ub-jack' of https://android.googlesource.com/platform/manifest
+1b18d9ad4ff457a113cd557e77e7e9c914373591		branch 'ub-jack-arzon' of https://android.googlesource.com/platform/manifest
+55d029875a1a562aae7c9107e2e7f047d9c9958c		branch 'ub-jack-arzon-mr2' of https://android.googlesource.com/platform/manifest
+3763f3255e687d3e6dc54e07ac1ee184d943c76c		branch 'ub-jack-brest' of https://android.googlesource.com/platform/manifest
+0322cb690f0e0830cfbe50fadbbb35fdd4354fa9		branch 'ub-jack-lang-dev' of https://android.googlesource.com/platform/manifest
+248e895db5d3bf3e770e80276b15bdcce28f5227		branch 'ub-tools-idea133' of https://android.googlesource.com/platform/manifest
+75a338a6cb7aba3eb6b736bdc74be43f459eb4bf		branch 'ub-tools-idea133-milestone' of https://android.googlesource.com/platform/manifest
+5d161eb6d1b77634fccb1929501628944df0d801		branch 'ub-tools-idea133-release' of https://android.googlesource.com/platform/manifest
+941c953655e8c2cabb8b4ceac7844d7c1af610a7		branch 'ub-tools-master' of https://android.googlesource.com/platform/manifest
+676f0550a8aac3c336724dca2bae743af23208ae		branch 'ub-webview-m40-release' of https://android.googlesource.com/platform/manifest
+aef0473aa87c61aaf12beb4c10b3fe8847b2472b		branch 'upstream-mirror-lldb' of https://android.googlesource.com/platform/manifest
+c2d0fda4d5ef41f812ada4672d4dc9ec6fb07c2d		branch 'webview-m40_r1' of https://android.googlesource.com/platform/manifest
+fe606f6d9b490daadaa5d72c779195249c70d428		branch 'webview-m40_r2' of https://android.googlesource.com/platform/manifest
+4de6683e27025cca5cdd63a4d19f5b0f6d78ff82		branch 'webview-m40_r3' of https://android.googlesource.com/platform/manifest
+ae6d4878d7edcb0e444e789104d3c739f275b24a		branch 'webview-m40_r4' of https://android.googlesource.com/platform/manifest
+46f8827791ab0a56684ab784765cba5c6b852288	not-for-merge	tag 'adt_23.0.3' of https://android.googlesource.com/platform/manifest
+94a37a478df450531a31d3cc8529c58a798066e2	not-for-merge	tag 'android-1.6_r1.1_' of https://android.googlesource.com/platform/manifest
+eec41f7882e58ad7a8ef9838d8c117bbb90bf1e5	not-for-merge	tag 'android-1.6_r1.2_' of https://android.googlesource.com/platform/manifest
+dce27bdebd334a49c025e80e21d5868789ca030d	not-for-merge	tag 'android-1.6_r1.3_' of https://android.googlesource.com/platform/manifest
+f20ff2c599cdffbf3afe1d3d270c6f15073c5cd0	not-for-merge	tag 'android-1.6_r1.4_' of https://android.googlesource.com/platform/manifest
+c3ab3d3e9caa3041c432f06258bb649a5d5ac267	not-for-merge	tag 'android-1.6_r1.5_' of https://android.googlesource.com/platform/manifest
+f76ace7a62989996d7383fdaa5d7713c8afa45ea	not-for-merge	tag 'android-1.6_r1_' of https://android.googlesource.com/platform/manifest
+ec9f78f5a182fe1b3e3f3b5efe1ed3993ce162c6	not-for-merge	tag 'android-1.6_r2_' of https://android.googlesource.com/platform/manifest
+1f5b6ba5daacc5fa60f2562a9d81881536ca0036	not-for-merge	tag 'android-2.0.1_r1_' of https://android.googlesource.com/platform/manifest
+65e1e066e6f4e76491b44fbc49ba584e48d5a772	not-for-merge	tag 'android-2.0_r1_' of https://android.googlesource.com/platform/manifest
+0b9fd29003d05cef76cbbd54dc8bb2885da25034	not-for-merge	tag 'android-2.1_r1_' of https://android.googlesource.com/platform/manifest
+801fb954c881c278557306077eb30eb936bc7ffc	not-for-merge	tag 'android-2.1_r2.1p2_' of https://android.googlesource.com/platform/manifest
+ab4d5386fcaa90b277177bf8cf8ae5b6bd6ee582	not-for-merge	tag 'android-2.1_r2.1p_' of https://android.googlesource.com/platform/manifest
+afa9cb5f019b505535165fe3715ed519582f0fde	not-for-merge	tag 'android-2.1_r2.1s_' of https://android.googlesource.com/platform/manifest
+68e122d144be556c34748c15440fdb08ba385643	not-for-merge	tag 'android-2.1_r2_' of https://android.googlesource.com/platform/manifest
+a6d50aa25f03cd3bebac45f3f7f5c330baa00eaf	not-for-merge	tag 'android-2.2.1_r1_' of https://android.googlesource.com/platform/manifest
+46adce614527220eaf21788b1276480c450683f7	not-for-merge	tag 'android-2.2.1_r2_' of https://android.googlesource.com/platform/manifest
+bc477595942920afc1bf69b0e12ae8e7e8826f41	not-for-merge	tag 'android-2.2.2_r1_' of https://android.googlesource.com/platform/manifest
+aa2532a072100c78b60724cc05373b5019df97e0	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/manifest
+ce90a70e982c4056d1cf3527c7bfbedc2ca0f4a7	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/manifest
+94616ad85f7a2ecc8d588e1adda1b538c2952def	not-for-merge	tag 'android-2.2.3_r2.1' of https://android.googlesource.com/platform/manifest
+052e854b2175157fc115b7dce7b871c6711324c4	not-for-merge	tag 'android-2.2_r1.1_' of https://android.googlesource.com/platform/manifest
+e0e97374331093d3fd459633b656f8e0c79360e4	not-for-merge	tag 'android-2.2_r1.2_' of https://android.googlesource.com/platform/manifest
+51d152e95ec68d511509b4bda3e399209c7d6f0c	not-for-merge	tag 'android-2.2_r1.3_' of https://android.googlesource.com/platform/manifest
+91027678c91224977380f56aa3ce38a56daceed7	not-for-merge	tag 'android-2.2_r1_' of https://android.googlesource.com/platform/manifest
+0fbf977409ee169f9185762758f79c0fd374a824	not-for-merge	tag 'android-2.3.1_r1_' of https://android.googlesource.com/platform/manifest
+f0779b562a1ee8a0bd2a186e064f57c1936cf4f3	not-for-merge	tag 'android-2.3.2_r1_' of https://android.googlesource.com/platform/manifest
+702f28664063998a8f0731f3e3d3095dced6137a	not-for-merge	tag 'android-2.3.3_r1.1_' of https://android.googlesource.com/platform/manifest
+86fa13418c1dbf460bcf4326577759c9f1d12889	not-for-merge	tag 'android-2.3.3_r1_' of https://android.googlesource.com/platform/manifest
+96f79072ff2e5d390a564c6ae4d16bed0da546b5	not-for-merge	tag 'android-2.3.4_r0.9_' of https://android.googlesource.com/platform/manifest
+e2d5769f9c3f0ad9a644a26b5a9bdf90059fd2f4	not-for-merge	tag 'android-2.3.4_r1_' of https://android.googlesource.com/platform/manifest
+7487061e457819c8a67560074d0c72d0b0398b0b	not-for-merge	tag 'android-2.3.5_r1_' of https://android.googlesource.com/platform/manifest
+373e9db0442fcc1a47a672dbfade53b1dbc5f253	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/manifest
+96cf3212cc1b308f3679ab980b8daa7ce2f1a7e4	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/manifest
+1db98b3dedca5ab8b6eeefc5a7a98720e73fefdf	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/manifest
+8f48d340e2fc5dc5f52ad3828f4f640b6e468823	not-for-merge	tag 'android-2.3_r1_' of https://android.googlesource.com/platform/manifest
+d030ac49cfeae06e2414933f6a72187cb18881b2	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/manifest
+91cf7659606ca78a9218500b7e3f79344519e77c	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/manifest
+c55c84c3871b12e14fe2e28cfcb1257eddcc1cf9	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/manifest
+2abc1c4c377d85ffd7344e9fff78be693ab057fa	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/manifest
+500aaaa87f49fddc1c7ca5066eebb2e03fdd14ac	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/manifest
+8431a67c28f25704926cd344821b4586d391ad76	not-for-merge	tag 'android-4.0.3_r1.1' of https://android.googlesource.com/platform/manifest
+a2b8908b15a565cde5e2936a57833c1c8ffd452b	not-for-merge	tag 'android-4.0.4_r1' of https://android.googlesource.com/platform/manifest
+cb1e381e49f274ca01e30bfea146073f969e4f59	not-for-merge	tag 'android-4.0.4_r1.1' of https://android.googlesource.com/platform/manifest
+8895fbdd3e2de52169281da9e7942fb21bfd7372	not-for-merge	tag 'android-4.0.4_r1.2' of https://android.googlesource.com/platform/manifest
+e209ba99e5cb97b2a20e61c325ffdb2999f2a90d	not-for-merge	tag 'android-4.0.4_r2' of https://android.googlesource.com/platform/manifest
+4b0dd15ccaf78b9c0d22abfe33b4d8a26ef6eef0	not-for-merge	tag 'android-4.0.4_r2.1' of https://android.googlesource.com/platform/manifest
+a064a6f38b06c7ca6dfc26477ff7fe07f86d1441	not-for-merge	tag 'android-4.1.1_r1' of https://android.googlesource.com/platform/manifest
+0c6f0aa60c3c39066aec53d088517f890e9875b5	not-for-merge	tag 'android-4.1.1_r1.1' of https://android.googlesource.com/platform/manifest
+cf84692271635e7c99f2cbed53f22b79d19ad0d1	not-for-merge	tag 'android-4.1.1_r1_' of https://android.googlesource.com/platform/manifest
+da557383de18631ef7eed24cce9eb0bee2e6ddbf	not-for-merge	tag 'android-4.1.1_r2' of https://android.googlesource.com/platform/manifest
+a669bcefe964d9e90ecb3389765bb08eee1eb919	not-for-merge	tag 'android-4.1.1_r3' of https://android.googlesource.com/platform/manifest
+9959f23acc699f2283157e8525cf9e9f173d844f	not-for-merge	tag 'android-4.1.1_r4' of https://android.googlesource.com/platform/manifest
+2971689e4b83f0419c238bcf290f1ee250a080a7	not-for-merge	tag 'android-4.1.1_r5' of https://android.googlesource.com/platform/manifest
+c0c5bbd1175177735f1d19ed9183f8cbe8a53411	not-for-merge	tag 'android-4.1.1_r6' of https://android.googlesource.com/platform/manifest
+2be1c3f881aee200d8ea84ef32fa3270220cfb9b	not-for-merge	tag 'android-4.1.1_r6.1' of https://android.googlesource.com/platform/manifest
+7ca7cce0527b278afce0a3f3c9480075217e7162	not-for-merge	tag 'android-4.1.2_r1' of https://android.googlesource.com/platform/manifest
+69bfb0daeeb546b076d918c82ebe852e7e776528	not-for-merge	tag 'android-4.1.2_r2' of https://android.googlesource.com/platform/manifest
+d6ceddab13c71eea3c629ba20fe3ba177ad374ca	not-for-merge	tag 'android-4.1.2_r2.1' of https://android.googlesource.com/platform/manifest
+fc2ea7cf18ce4e5d40fc38fba0a86979dc605f70	not-for-merge	tag 'android-4.2.1_r1.1' of https://android.googlesource.com/platform/manifest
+1d21f7c546cd7470f050fa00d7459645707f2947	not-for-merge	tag 'android-4.2.1_r1.2' of https://android.googlesource.com/platform/manifest
+cb9d0ac9ef9af559cce324baa692cda749995db1	not-for-merge	tag 'android-4.2.1_r1__' of https://android.googlesource.com/platform/manifest
+5b2644bda859fdbf511c53630130cada586ec34d	not-for-merge	tag 'android-4.2.2_r1.1' of https://android.googlesource.com/platform/manifest
+09db9681241c2c8c60e68e45aec60509905ae4cf	not-for-merge	tag 'android-4.2.2_r1.2' of https://android.googlesource.com/platform/manifest
+f65324f00860fbb65dc125ada653b19f0da10d8b	not-for-merge	tag 'android-4.2.2_r1_' of https://android.googlesource.com/platform/manifest
+01d29b1d49e27b59d9a8b06ff30b3bf796bd0270	not-for-merge	tag 'android-4.2_r1___' of https://android.googlesource.com/platform/manifest
+66fdc3202632d360aa0733be0ead90ec3ee38dd2	not-for-merge	tag 'android-4.3.1_r1' of https://android.googlesource.com/platform/manifest
+e8e88e5b0fd9afe632ff4b3cb4ee36d4ac0396fb	not-for-merge	tag 'android-4.3_r0.9' of https://android.googlesource.com/platform/manifest
+8bd069fdb3c76b38defe05a50bb4ddb52f5b19b1	not-for-merge	tag 'android-4.3_r0.9.1' of https://android.googlesource.com/platform/manifest
+8ed5f069df29139bed5011b36e9c96c7f7e614e2	not-for-merge	tag 'android-4.3_r0.9.1_' of https://android.googlesource.com/platform/manifest
+6184506f90bb7aa4b3cf591dfdadbc4b0a9c70e6	not-for-merge	tag 'android-4.3_r0.9_' of https://android.googlesource.com/platform/manifest
+86f0eaf652f58dbe390487a9aa0fa19e924c16d3	not-for-merge	tag 'android-4.3_r1' of https://android.googlesource.com/platform/manifest
+ae5cef4564bb062474e26a19cb228dec84d1489e	not-for-merge	tag 'android-4.3_r1.1' of https://android.googlesource.com/platform/manifest
+6ebfeb8231bf23a16fa791f9a0d8a4932ee86702	not-for-merge	tag 'android-4.3_r1_' of https://android.googlesource.com/platform/manifest
+4890547a77651aa742eba5662cf8121b8736dbd6	not-for-merge	tag 'android-4.3_r2' of https://android.googlesource.com/platform/manifest
+7328efe04ec5723337e24d25332368d4ec2d928b	not-for-merge	tag 'android-4.3_r2.1_' of https://android.googlesource.com/platform/manifest
+9e783359170697487ec13904cd2bccc4da2b5712	not-for-merge	tag 'android-4.3_r2.1__' of https://android.googlesource.com/platform/manifest
+69f6d8f35a115bc0b50b8fbf4d36a6c4bfee68fd	not-for-merge	tag 'android-4.3_r2.2' of https://android.googlesource.com/platform/manifest
+c9db83951b1ac76716b0bf371b95e7f366bf90d9	not-for-merge	tag 'android-4.3_r2.3' of https://android.googlesource.com/platform/manifest
+4016219209ebc5e5068ae74656cd551439517aae	not-for-merge	tag 'android-4.3_r2_' of https://android.googlesource.com/platform/manifest
+ffc6b816e2c0f5a07df1647ef2ed8cee976cb702	not-for-merge	tag 'android-4.3_r3' of https://android.googlesource.com/platform/manifest
+3f31877e16cc16be30ba0a517b9c197895a49d6b	not-for-merge	tag 'android-4.3_r3.1' of https://android.googlesource.com/platform/manifest
+029f284cc4a39c9517042fadf962bac5b068c9cf	not-for-merge	tag 'android-4.4.1_r1' of https://android.googlesource.com/platform/manifest
+23e4b3c10d733bce59d42f2962ffd4932d524efd	not-for-merge	tag 'android-4.4.1_r1.0.1' of https://android.googlesource.com/platform/manifest
+559adaaddd1560ba54bae99c535e7d38bbbf6450	not-for-merge	tag 'android-4.4.2_r1' of https://android.googlesource.com/platform/manifest
+ad4272da283732a6fba5630d6c0dcb9311fdabed	not-for-merge	tag 'android-4.4.2_r1.0.1' of https://android.googlesource.com/platform/manifest
+f8033baf38bf2cf870bbadb951234eae10fee164	not-for-merge	tag 'android-4.4.2_r2' of https://android.googlesource.com/platform/manifest
+c67dd8723d898ce3e8ca715f9413bd7e812d6959	not-for-merge	tag 'android-4.4.2_r2.0.1' of https://android.googlesource.com/platform/manifest
+34c0ad5e8e40d91ed2008223e6957f9764427d09	not-for-merge	tag 'android-4.4.3_r1' of https://android.googlesource.com/platform/manifest
+2eaad4eb4c0a3475394565d9cbd81a90b99ad69c	not-for-merge	tag 'android-4.4.3_r1.0.1' of https://android.googlesource.com/platform/manifest
+8b7c51d273f710886a9c2dd3c41235274037afa0	not-for-merge	tag 'android-4.4.3_r1.1' of https://android.googlesource.com/platform/manifest
+a5c053a2384ddd5291179aa748593f8fa209d5fa	not-for-merge	tag 'android-4.4.3_r1.1.0.1' of https://android.googlesource.com/platform/manifest
+6f772fa2e1d2779fd2d8db315827371dfd7d3f48	not-for-merge	tag 'android-4.4.4_r1' of https://android.googlesource.com/platform/manifest
+95c044384294b515fbd58624d93d340236e24053	not-for-merge	tag 'android-4.4.4_r1.0.1' of https://android.googlesource.com/platform/manifest
+64f4f353b72203e5225b03fd3432f0825345f6bb	not-for-merge	tag 'android-4.4.4_r2' of https://android.googlesource.com/platform/manifest
+5cb08146ffd049390f0204058b296fd3e464d78f	not-for-merge	tag 'android-4.4.4_r2.0.1' of https://android.googlesource.com/platform/manifest
+74ba65e684e0b6d7000746e681d35bd94dd1e717	not-for-merge	tag 'android-4.4_r1' of https://android.googlesource.com/platform/manifest
+fa463c818f53146e28ae5ef3e7ed37f27634401b	not-for-merge	tag 'android-4.4_r1.0.1' of https://android.googlesource.com/platform/manifest
+58a4de92ab60f195e75ad5de7f5ebd1c19199d15	not-for-merge	tag 'android-4.4_r1.1' of https://android.googlesource.com/platform/manifest
+9f2176108dd48e4af62b9643bb4d0c43c1e338ea	not-for-merge	tag 'android-4.4_r1.1.0.1' of https://android.googlesource.com/platform/manifest
+a8ce02203ed62d4a9a6edd3804f335b5eadd05cd	not-for-merge	tag 'android-4.4_r1.2' of https://android.googlesource.com/platform/manifest
+3461aaae4f057b2731a33bb675df55ddd78e8de4	not-for-merge	tag 'android-4.4_r1.2.0.1' of https://android.googlesource.com/platform/manifest
+2ed2b22318fdc26df048d43ce27917a61a4bb09f	not-for-merge	tag 'android-4.4w_r1' of https://android.googlesource.com/platform/manifest
+ab4613c203d7a19439d4a3fed11b80c6220f0213	not-for-merge	tag 'android-5.0.0_r1' of https://android.googlesource.com/platform/manifest
+be4078600876702b46431f66bb685404ad8f95a0	not-for-merge	tag 'android-5.0.0_r1.0.1' of https://android.googlesource.com/platform/manifest
+0930bd6ddd4e3633ef4d68caceb18dbd8b7b6333	not-for-merge	tag 'android-5.0.0_r2' of https://android.googlesource.com/platform/manifest
+d771168b02775eab6e14c54b0092294cc213a636	not-for-merge	tag 'android-5.0.0_r2.0.1' of https://android.googlesource.com/platform/manifest
+e9f14b0ad30fa5ceaa9c3b7250297183da8a98dc	not-for-merge	tag 'android-5.0.0_r3' of https://android.googlesource.com/platform/manifest
+5aabfe5aaf3ffd350d34d4a62c330c4f38b4507c	not-for-merge	tag 'android-5.0.0_r3.0.1' of https://android.googlesource.com/platform/manifest
+214750db1dde4991bad60146a1fdf9ec6bf49eb5	not-for-merge	tag 'android-5.0.0_r4' of https://android.googlesource.com/platform/manifest
+f1d86746ad14a89e0713cd99e4ba4dc04f030fdf	not-for-merge	tag 'android-5.0.0_r4.0.1' of https://android.googlesource.com/platform/manifest
+61e4a47e17972c276c7e5651623c678ddb3e310f	not-for-merge	tag 'android-5.0.0_r5' of https://android.googlesource.com/platform/manifest
+b09da80f276e2be94a033932e31bcdddfd3e9c06	not-for-merge	tag 'android-5.0.0_r5.0.1' of https://android.googlesource.com/platform/manifest
+cef8e7728d3594513c4bdc7cc54d72758f60d028	not-for-merge	tag 'android-5.0.0_r5.1' of https://android.googlesource.com/platform/manifest
+7296a41b96c84b9edbacb72d78bf65e84fb572a6	not-for-merge	tag 'android-5.0.0_r5.1.0.1' of https://android.googlesource.com/platform/manifest
+57b2d5105df7751caed7a5f82111405d3f77b68e	not-for-merge	tag 'android-5.0.0_r6' of https://android.googlesource.com/platform/manifest
+ac2babce460ea8328450111961663ff48ab5ff6d	not-for-merge	tag 'android-5.0.0_r6.0.1' of https://android.googlesource.com/platform/manifest
+eba293e1d408235484df0ad7d8d1cd2e00a4a477	not-for-merge	tag 'android-5.0.0_r7' of https://android.googlesource.com/platform/manifest
+5519d666e08bf13eceb6640c9f4f8089a23ba143	not-for-merge	tag 'android-5.0.0_r7.0.1' of https://android.googlesource.com/platform/manifest
+40c0ac29a33df9345b9fab83eceb5e2062ac8b0d	not-for-merge	tag 'android-5.0.1_r1' of https://android.googlesource.com/platform/manifest
+b939ea3921baab96dedd384763016e15934393e5	not-for-merge	tag 'android-5.0.2_r1' of https://android.googlesource.com/platform/manifest
+f287cdaa54e40ec1723adcde2fd389c9628f1d55	not-for-merge	tag 'android-5.0.2_r3' of https://android.googlesource.com/platform/manifest
+33e0c28a2217d793c3e9b03ceec1b877b78a07c7	not-for-merge	tag 'android-5.1.0_r1' of https://android.googlesource.com/platform/manifest
+452428da4c3ef122d92e43ffbc904e9f9e19c1d8	not-for-merge	tag 'android-5.1.0_r3' of https://android.googlesource.com/platform/manifest
+08aef9ce647b999b1ea54b2591f20a89641fa17d	not-for-merge	tag 'android-5.1.0_r5' of https://android.googlesource.com/platform/manifest
+6918e044598f12ad990e768dbb5725de295d3d79	not-for-merge	tag 'android-5.1.1_r1' of https://android.googlesource.com/platform/manifest
+8e58c9710e7721a0a2a3b623cbc4417c465d06ec	not-for-merge	tag 'android-5.1.1_r2' of https://android.googlesource.com/platform/manifest
+835a0562ca4581fb7556cc790d076ef1c0dda707	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/manifest
+2df887a3c784bb28a4f942f3f20d82b53a8870a6	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/manifest
+89a33e5fd9f523979339b1709277ceb7861bc7c3	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/manifest
+a03a33aa8859d88112619d059320466c7d83985c	not-for-merge	tag 'android-cts-2.3_r12' of https://android.googlesource.com/platform/manifest
+d6390b3b0ea57d76a1912f85eaf7af9b52137f3b	not-for-merge	tag 'android-cts-4.0.3_r1' of https://android.googlesource.com/platform/manifest
+7a87f411cc4a2cefbfcc30edad37423ed717c152	not-for-merge	tag 'android-cts-4.0.3_r2' of https://android.googlesource.com/platform/manifest
+d1ff655155a18ff65c3669070e8835c96d667d79	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/manifest
+313044bb7c7774febf0cac4da2f75d4192812ff9	not-for-merge	tag 'android-cts-4.1_r1' of https://android.googlesource.com/platform/manifest
+11e55cf8694e61e9926945de5ff5e78c3c29c1d2	not-for-merge	tag 'android-cts-4.1_r2' of https://android.googlesource.com/platform/manifest
+e26e54967907dbde35990bd7aa6768a497300402	not-for-merge	tag 'android-cts-4.1_r4' of https://android.googlesource.com/platform/manifest
+7b4f0a4382b4ed1d524707c204834218791c949d	not-for-merge	tag 'android-cts-4.2_r2' of https://android.googlesource.com/platform/manifest
+83f5cc099e6448c1d9791334e5a0c1c99428ce19	not-for-merge	tag 'android-cts-4.4_r1' of https://android.googlesource.com/platform/manifest
+eb9fa52c16ba356ccb476eab50281b9051854d07	not-for-merge	tag 'android-cts-5.0_r2' of https://android.googlesource.com/platform/manifest
+a118f9bc0f80664269a2732f672246b744ab1110	not-for-merge	tag 'android-cts-5.1_r1' of https://android.googlesource.com/platform/manifest
+c775ebb8f7f8823c4c08f636ce0a4aa8255a1c03	not-for-merge	tag 'android-cts-verifier-4.0.3_r1' of https://android.googlesource.com/platform/manifest
+148e6e0d4380a250430d415a2c9ab1767b368d89	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/manifest
+2316d5d74c63949e55b528b78aca37ceb2445431	not-for-merge	tag 'android-l-preview_r2' of https://android.googlesource.com/platform/manifest
+51f27c8046fab00ff7fd2ea2dcbc1a5f340b7782	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/manifest
+6bf7f27c4225c654b96b4001b313a35d4de2edd7	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/manifest
+413742b9a8fa2e8dfb08a7099a87bc60da4811c9	not-for-merge	tag 'android-sdk-4.4.2_r1' of https://android.googlesource.com/platform/manifest
+66e140bddc4cbefeb9024bce68fcad9dcd0741c2	not-for-merge	tag 'android-sdk-4.4.2_r1.0.1' of https://android.googlesource.com/platform/manifest
+5ada678709a80c0079770c9eebba5aa46fb88662	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/manifest
+13fba12019a0984130f2ff563c89f4b8fb15a14e	not-for-merge	tag 'android-sdk-adt_r20' of https://android.googlesource.com/platform/manifest
+338b6c705391b7208133ca3bf16711acd198eadd	not-for-merge	tag 'android-sdk-support_r11' of https://android.googlesource.com/platform/manifest
+83f891efa53f30febc99dc6688fd0cc2b391d6c2	not-for-merge	tag 'android-tsl-2.0' of https://android.googlesource.com/platform/manifest
+035e8041e5d4fa61347a21470d9442001eb0e56b	not-for-merge	tag 'android-wear-5.0.0_r1' of https://android.googlesource.com/platform/manifest
+574282351c9a3ecfdaffb54eb66a33e00534b548	not-for-merge	tag 'gradle_0.12.2' of https://android.googlesource.com/platform/manifest
+d28a1cdb568eaaf3b6b829862df36d756bf82b90	not-for-merge	tag 'gradle_0.13.0' of https://android.googlesource.com/platform/manifest
+310f9ba6cde9ed7e7e5496571766b6f7d1fc288b	not-for-merge	tag 'gradle_0.13.1' of https://android.googlesource.com/platform/manifest
+71c0ee63b8d914e362d73c1595e5faced6ceb670	not-for-merge	tag 'gradle_0.13.2' of https://android.googlesource.com/platform/manifest
+f64e10dc1b37c639f4a1473e596469e509bbb9d2	not-for-merge	tag 'gradle_0.13.3' of https://android.googlesource.com/platform/manifest
+07d187ed7bf76bc015b7672e0105f20e6fb0736c	not-for-merge	tag 'gradle_0.14.0' of https://android.googlesource.com/platform/manifest
+c66f8a5ae79883ab717780413e45795ee50e2c8c	not-for-merge	tag 'gradle_0.14.1' of https://android.googlesource.com/platform/manifest
+4ba859bc2481b7e0961e5e005d97aee28090c689	not-for-merge	tag 'gradle_0.14.2' of https://android.googlesource.com/platform/manifest
+c578495250efe691960fe213dfbf66990efef531	not-for-merge	tag 'gradle_0.14.3' of https://android.googlesource.com/platform/manifest
+2f3b9970f2c47d5b9969c54dfb47eebf47fc8971	not-for-merge	tag 'gradle_0.14.4' of https://android.googlesource.com/platform/manifest
+a6dd2d99919a00728504086f42ec338e82907363	not-for-merge	tag 'gradle_1.0.0' of https://android.googlesource.com/platform/manifest
+48e1a9cdc4f047f1093a2cc9851ca9b21f3ce9c8	not-for-merge	tag 'gradle_1.0.0-rc1' of https://android.googlesource.com/platform/manifest
+cd0a2d7ab858afbddd030aa0cfd4601129e39783	not-for-merge	tag 'gradle_1.0.0-rc2' of https://android.googlesource.com/platform/manifest
+3a517214659fd8526f0a60fbcab383e0bf90fea3	not-for-merge	tag 'gradle_1.0.0-rc3' of https://android.googlesource.com/platform/manifest
+d199568f9ac25b83d3dd7083fa0a2329aff00892	not-for-merge	tag 'gradle_1.0.0-rc4' of https://android.googlesource.com/platform/manifest
+601896fa6eb19812d7957f2c92696bdbd177caab	not-for-merge	tag 'gradle_1.0.1' of https://android.googlesource.com/platform/manifest
+640d51954e27538e90bbe63ae328e0abb27932d1	not-for-merge	tag 'gradle_1.1.0' of https://android.googlesource.com/platform/manifest
+33a635107a4a4110ef1441b14555d5aa931f75c0	not-for-merge	tag 'gradle_1.1.0-rc1' of https://android.googlesource.com/platform/manifest
+8ce58ed4f7ae9f4d9d400fec1d22ba71e0f4604c	not-for-merge	tag 'gradle_1.1.0-rc2' of https://android.googlesource.com/platform/manifest
+168223fa0f8cd112b374424f23ada1ca2cb726d2	not-for-merge	tag 'gradle_1.1.0-rc3' of https://android.googlesource.com/platform/manifest
+7ad7574a3a053b001b5c6582f8024514622372d4	not-for-merge	tag 'gradle_1.1.1' of https://android.googlesource.com/platform/manifest
+915016182692ceb7199e3626138e7b99e6f44013	not-for-merge	tag 'gradle_1.1.2' of https://android.googlesource.com/platform/manifest
+ef896e8596f71cc5d6cd6d39f67be173a342b835	not-for-merge	tag 'gradle_1.1.3' of https://android.googlesource.com/platform/manifest
+c4cc9cd8fe26f7ccbfd43f10994df309946e4b58	not-for-merge	tag 'gradle_1.2.0' of https://android.googlesource.com/platform/manifest
+4a3283edd04fb2936d6033878088ba4f3530f641	not-for-merge	tag 'gradle_1.2.0-beta1' of https://android.googlesource.com/platform/manifest
+5373ee4270b8dd2c37c323f7229c9a57359a9bcf	not-for-merge	tag 'gradle_1.2.0-rc1' of https://android.googlesource.com/platform/manifest
+9d740d7ae1a1fae17b96af37314b6fe7b3cfea52	not-for-merge	tag 'gradle_1.2.1' of https://android.googlesource.com/platform/manifest
+36c8e05e0dcabbd6dcd615563ac35fd2cce573d8	not-for-merge	tag 'gradle_1.2.2' of https://android.googlesource.com/platform/manifest
+e756036549561bb7931ff35298f4f5fa8d17f688	not-for-merge	tag 'gradle_1.2.3' of https://android.googlesource.com/platform/manifest
+d5253369f4d43735f1b54b0c18c8a35e2ebd2a8a	not-for-merge	tag 'studio_0.8.6' of https://android.googlesource.com/platform/manifest
+2ccf8bfa92289090244b0a16902590e91b3a3fc8	not-for-merge	tag 'studio_1.0.0' of https://android.googlesource.com/platform/manifest
+f56ed0e5d49bd2416b2c802ff0c8eea45b7cb394	not-for-merge	tag 'studio_1.0.1' of https://android.googlesource.com/platform/manifest
+42381d3b2896acdc1ae01a372d03bc382bca874a	not-for-merge	tag 'ub-jack-arzon-mr2' of https://android.googlesource.com/platform/manifest
+39bba03c70a2dfa67a5925938ad2f1a9086f91df	not-for-merge	tag 'webview-m40_r1' of https://android.googlesource.com/platform/manifest
+a64d5670c8cf04859e1487834f6b86475c2fd10e	not-for-merge	tag 'webview-m40_r2' of https://android.googlesource.com/platform/manifest
+9c2e5af03cdbb4c60e4a4a7069b5414773cb6704	not-for-merge	tag 'webview-m40_r3' of https://android.googlesource.com/platform/manifest
+eeeeb77ff45906f27b32b78ff171dcf7d8fb6b7d	not-for-merge	tag 'webview-m40_r4' of https://android.googlesource.com/platform/manifest

@@ -1,0 +1,32 @@
+41c2bca43edfc197c3c67619115b9a70d9227008		branch 'android-support-test' of https://android.googlesource.com/platform/external/jarjar
+cf3bfee8d2c739d13142b7151ca3a59c3a2b4c21		branch 'lollipop-dev' of https://android.googlesource.com/platform/external/jarjar
+cf3bfee8d2c739d13142b7151ca3a59c3a2b4c21		branch 'lollipop-mr1-dev' of https://android.googlesource.com/platform/external/jarjar
+cf3bfee8d2c739d13142b7151ca3a59c3a2b4c21		branch 'lollipop-mr1-release' of https://android.googlesource.com/platform/external/jarjar
+cf3bfee8d2c739d13142b7151ca3a59c3a2b4c21		branch 'lollipop-release' of https://android.googlesource.com/platform/external/jarjar
+b9c9541421a9b7ffae2b0de6679438741ae9bbfe		branch 'lollipop-wear-release' of https://android.googlesource.com/platform/external/jarjar
+41c2bca43edfc197c3c67619115b9a70d9227008		branch 'master' of https://android.googlesource.com/platform/external/jarjar
+694e38404a3b18f073e7f88c0584c0d48d72c2de		branch 'master-soong' of https://android.googlesource.com/platform/external/jarjar
+cf3bfee8d2c739d13142b7151ca3a59c3a2b4c21		branch 'ub-webview-m40-release' of https://android.googlesource.com/platform/external/jarjar
+f8447525236d6899c51481a24bcdc3906c7eb963	not-for-merge	tag 'android-5.0.0_r1' of https://android.googlesource.com/platform/external/jarjar
+f089fc94840a50fefe956cb5e64ec6873a2b6a66	not-for-merge	tag 'android-5.0.0_r2' of https://android.googlesource.com/platform/external/jarjar
+e7d2b64c74a45f7711fe5b1b295e53af416c4ef3	not-for-merge	tag 'android-5.0.0_r3' of https://android.googlesource.com/platform/external/jarjar
+05668ca42ed3352154f0b56f88aed82aa72d6e9d	not-for-merge	tag 'android-5.0.0_r4' of https://android.googlesource.com/platform/external/jarjar
+f1c93301a5b7596f493fa3f9e164771b052b9f08	not-for-merge	tag 'android-5.0.0_r5' of https://android.googlesource.com/platform/external/jarjar
+42c4963cdae939824f20f2cd782f374de4c58bb7	not-for-merge	tag 'android-5.0.0_r5.1' of https://android.googlesource.com/platform/external/jarjar
+c0e298aab0ff3dfceca0f8dc436a32e18732b51e	not-for-merge	tag 'android-5.0.0_r6' of https://android.googlesource.com/platform/external/jarjar
+b17e5e72558beefb4790d555f4b1946d26cad0e6	not-for-merge	tag 'android-5.0.0_r7' of https://android.googlesource.com/platform/external/jarjar
+abe2a2d2182ba8df8cc7200073d7aa3aa4a3c8e8	not-for-merge	tag 'android-5.0.1_r1' of https://android.googlesource.com/platform/external/jarjar
+a29fd9c71b289815c9422e07d73176ddc222ba1c	not-for-merge	tag 'android-5.0.2_r1' of https://android.googlesource.com/platform/external/jarjar
+0699e0decfd3bb793d68e33eb7fa20dc27fc6b3a	not-for-merge	tag 'android-5.0.2_r3' of https://android.googlesource.com/platform/external/jarjar
+7cfbd00caf206fb56373b69abfba81987e66802e	not-for-merge	tag 'android-5.1.0_r1' of https://android.googlesource.com/platform/external/jarjar
+f76f4d0ca153999659d6814cc18087fcf790daba	not-for-merge	tag 'android-5.1.0_r3' of https://android.googlesource.com/platform/external/jarjar
+3608e823e7710023909ea4d139645bfe4b21fffa	not-for-merge	tag 'android-5.1.0_r5' of https://android.googlesource.com/platform/external/jarjar
+5fec838b8d92c7d18863a0e2942135ec867d06de	not-for-merge	tag 'android-5.1.1_r1' of https://android.googlesource.com/platform/external/jarjar
+3aefd40d5cfac94154587adbdd5bcf6ee9e3de84	not-for-merge	tag 'android-5.1.1_r2' of https://android.googlesource.com/platform/external/jarjar
+2e9acf691fae95964fe4291a2a846deb1e0781f2	not-for-merge	tag 'android-cts-5.1_r1' of https://android.googlesource.com/platform/external/jarjar
+02d4eea9fb40a1d85c9dfeb7221556e24b04941a	not-for-merge	tag 'android-tsl-2.0' of https://android.googlesource.com/platform/external/jarjar
+f2b15293b390b091296ce6fae2ccd6a2def06dc8	not-for-merge	tag 'android-wear-5.0.0_r1' of https://android.googlesource.com/platform/external/jarjar
+31e50a927941ef75018e1f0ba9cc444d213251af	not-for-merge	tag 'webview-m40_r1' of https://android.googlesource.com/platform/external/jarjar
+001c0596c57a71c8e7976385ec08292cf0896ff8	not-for-merge	tag 'webview-m40_r2' of https://android.googlesource.com/platform/external/jarjar
+6f277783c6f9d7a8c4723faa92cbeb8fb11a09ac	not-for-merge	tag 'webview-m40_r3' of https://android.googlesource.com/platform/external/jarjar
+769d80f1ef1c99fd8128fddb05e026f2527bc292	not-for-merge	tag 'webview-m40_r4' of https://android.googlesource.com/platform/external/jarjar

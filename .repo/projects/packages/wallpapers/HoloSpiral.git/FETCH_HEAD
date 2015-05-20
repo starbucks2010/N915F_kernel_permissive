@@ -1,0 +1,143 @@
+787a95a8c973facb890703159861bb332c2ae655		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+787a95a8c973facb890703159861bb332c2ae655		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+787a95a8c973facb890703159861bb332c2ae655		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+d816c1b97de9609d5479ae85611f9b2bf5f609aa		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+d816c1b97de9609d5479ae85611f9b2bf5f609aa		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+d816c1b97de9609d5479ae85611f9b2bf5f609aa		branch 'ics-plus-aosp' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+63b75996a7cfb713a6a6feb5c774ba4b46c7d6eb		branch 'idea133' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+63b75996a7cfb713a6a6feb5c774ba4b46c7d6eb		branch 'idea133-weekly-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b9f9487b73b1675eddd104489c10e4589d447b07		branch 'jb-dev' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+dcc502f8570a018d6cdf8ba8491409f79598b89d		branch 'jb-mr0-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b9f9487b73b1675eddd104489c10e4589d447b07		branch 'jb-mr1-dev' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b9f9487b73b1675eddd104489c10e4589d447b07		branch 'jb-mr1-dev-plus-aosp' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+dcc502f8570a018d6cdf8ba8491409f79598b89d		branch 'jb-mr1-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b9f9487b73b1675eddd104489c10e4589d447b07		branch 'jb-mr1.1-dev' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b9f9487b73b1675eddd104489c10e4589d447b07		branch 'jb-mr1.1-dev-plus-aosp' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+dcc502f8570a018d6cdf8ba8491409f79598b89d		branch 'jb-mr1.1-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b02a5fb2e613245e2496ae8cab6a2cc360388274		branch 'jb-mr2-dev' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b02a5fb2e613245e2496ae8cab6a2cc360388274		branch 'jb-mr2-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b02a5fb2e613245e2496ae8cab6a2cc360388274		branch 'jb-mr2.0-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b02a5fb2e613245e2496ae8cab6a2cc360388274		branch 'jb-mr2.0.0-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+dcc502f8570a018d6cdf8ba8491409f79598b89d		branch 'jb-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+e87f45ebbdacf9193089c20a8a3d3c0416d3c6c9		branch 'kitkat-cts-dev' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+98d244690f2f1fe1a28676aba4240eb29d6e967d		branch 'kitkat-dev' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+98d244690f2f1fe1a28676aba4240eb29d6e967d		branch 'kitkat-mr1-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+98d244690f2f1fe1a28676aba4240eb29d6e967d		branch 'kitkat-mr1.1-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+98d244690f2f1fe1a28676aba4240eb29d6e967d		branch 'kitkat-mr2-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+98d244690f2f1fe1a28676aba4240eb29d6e967d		branch 'kitkat-mr2.1-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+98d244690f2f1fe1a28676aba4240eb29d6e967d		branch 'kitkat-mr2.2-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+e87f45ebbdacf9193089c20a8a3d3c0416d3c6c9		branch 'kitkat-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+98d244690f2f1fe1a28676aba4240eb29d6e967d		branch 'kitkat-wear' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b854ac528148990cbbac648123966993aaa8fa52		branch 'l-preview' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+7c5af822e2f2ac51c5eb2888b41e8c836423b0d5		branch 'lollipop-dev' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+7c5af822e2f2ac51c5eb2888b41e8c836423b0d5		branch 'lollipop-mr1-dev' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+7c5af822e2f2ac51c5eb2888b41e8c836423b0d5		branch 'lollipop-mr1-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+7c5af822e2f2ac51c5eb2888b41e8c836423b0d5		branch 'lollipop-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+d8f32caf891a089946bc9c0d1bdb8d04a12103f7		branch 'lollipop-wear-release' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+e8d9f7357f09ae69c4c46104be17e3e6fea6e626		branch 'master' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+e8d9f7357f09ae69c4c46104be17e3e6fea6e626		branch 'master-soong' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+d816c1b97de9609d5479ae85611f9b2bf5f609aa		branch 'tools_r20' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b9f9487b73b1675eddd104489c10e4589d447b07		branch 'tools_r21' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b9f9487b73b1675eddd104489c10e4589d447b07		branch 'tools_r22' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b02a5fb2e613245e2496ae8cab6a2cc360388274		branch 'tools_r22.2' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+14689dfd0fab67c47a31d47f0925ccdc3391f7bf	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+0a76f1b2d375fcfe7a3d9e4126252f6329d19bb7	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+deddd402c269a0375691f0000bd8405ce63fe846	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+f7e893ced37931ad0ca4280939e8f5c676be4fa5	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+5b0c97c171188354156cd50e01ef505f8dfa6835	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+7ca839cfdc3cdbacebe100ea9dea43dcd3687c67	not-for-merge	tag 'android-4.0.3_r1.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+8c077c6482758afa6b7ee951fd18a5a63f6a6e54	not-for-merge	tag 'android-4.0.4_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+9a42a4dfdf07278f50d3fb5be170993426d51fc2	not-for-merge	tag 'android-4.0.4_r1.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+187cc5db1a11f687c311a01df7fd4467a0baa2bc	not-for-merge	tag 'android-4.0.4_r1.2' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+4ea2dd10a48d4633ffd6eacedb00ff334868ccdf	not-for-merge	tag 'android-4.0.4_r2' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+8fc0c0f8f7f403215c52c5b2492d90a1e3748f9f	not-for-merge	tag 'android-4.0.4_r2.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+188b5d9ca0326f02b558f814412e37a6840dbba8	not-for-merge	tag 'android-4.1.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+50f55e50b60e3540279e35b9a1d64cdbdfbf778a	not-for-merge	tag 'android-4.1.1_r1.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+fca7dcd5b9761ceaf25b183ca3871602513183ec	not-for-merge	tag 'android-4.1.1_r2' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b2b5fa74b1545610696241ef6ef6d075f6cb90f4	not-for-merge	tag 'android-4.1.1_r3' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+6a8652675f11e7680d3b6be71d8d374be7a1cda9	not-for-merge	tag 'android-4.1.1_r4' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+32c7950dd826f17e59423b4efa99a59a57b3e566	not-for-merge	tag 'android-4.1.1_r5' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+59a432232feb3d8e747414f6fd9b94d0a32f82ad	not-for-merge	tag 'android-4.1.1_r6' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+a949c3f829db27286708279f85873ca998722d93	not-for-merge	tag 'android-4.1.1_r6.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+d3c57c2e1cb0481c3909e1314578046d85889d35	not-for-merge	tag 'android-4.1.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+891de08728954f2fb3b5e7067b2474ede73d21ae	not-for-merge	tag 'android-4.1.2_r2' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+6c069bbd14c5de394259d7fdc1e9b4453ed8e3a3	not-for-merge	tag 'android-4.1.2_r2.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+c4396476dbbffb91383db16c30ea6c86e2c64bbf	not-for-merge	tag 'android-4.2.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+381e30aa29c4a0607c4b8ae7df711afbaebe9071	not-for-merge	tag 'android-4.2.1_r1.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b15169e34afdb6558265cc06138390b4396fa122	not-for-merge	tag 'android-4.2.1_r1.2' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+d76cbf67e5b353ca796f9ccdca76388807f833f4	not-for-merge	tag 'android-4.2.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+9a1e3e12082952a23e996c168e4a2c8763dbb8ca	not-for-merge	tag 'android-4.2.2_r1.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+21288f3c515c4a7e749cbb41a6ed7c09e2bd7d51	not-for-merge	tag 'android-4.2.2_r1.2' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+df3b183bd4f395610a7dbca1abe956b6eda62a8d	not-for-merge	tag 'android-4.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+dea470e9668e889e11190718cda8b35eda095ce0	not-for-merge	tag 'android-4.3.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+2b9d55eddd3a620373360f8787abb101165e45f0	not-for-merge	tag 'android-4.3_r0.9' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+82578c7b36330885798a38d165c945d61854745a	not-for-merge	tag 'android-4.3_r0.9.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+c639405ae38c1bc49c8d16cae56213bc39042409	not-for-merge	tag 'android-4.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+e2b3f5f5785f5b3513aaa7781e555d44eb24a5c0	not-for-merge	tag 'android-4.3_r1.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+afecd9af5f62a174135c54b1566ac154eb7c529f	not-for-merge	tag 'android-4.3_r2' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+1091bd2a41998f4cba630e26b6d71043a6c43892	not-for-merge	tag 'android-4.3_r2.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b27701090e9a928d33b552503914844b5065503a	not-for-merge	tag 'android-4.3_r2.2' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+128eb214cc2b809fff50b2b8850f7abc17604624	not-for-merge	tag 'android-4.3_r2.3' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+0af9d8b053aa8ca2e1668541e8576722de368633	not-for-merge	tag 'android-4.3_r3' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+f9155ab2e7b2ea9d5e7a6b18a20da08a03a17d97	not-for-merge	tag 'android-4.3_r3.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+e5bae27d554cbfde909c608064326c289ae628f5	not-for-merge	tag 'android-4.4.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+bb5cb5aa62a3305864295cc4df47604c982bd327	not-for-merge	tag 'android-4.4.1_r1.0.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+9a3132b94ab6e89d915cf0778e5ef74c6daf577e	not-for-merge	tag 'android-4.4.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+bfed4bf2e364e5550047d51262c8530b8897a6fe	not-for-merge	tag 'android-4.4.2_r1.0.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+e3a2f733425f5f14709edf5302bd5073c0fd7f8c	not-for-merge	tag 'android-4.4.2_r2' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+abe7f0059b17afbe0a2db0e26beada5a63443c43	not-for-merge	tag 'android-4.4.2_r2.0.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+69b8cb32abaa0ee267f44f7e863f7e73f121d8c6	not-for-merge	tag 'android-4.4.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+a5dac3d39952033068076a26f23b7b374117c8ef	not-for-merge	tag 'android-4.4.3_r1.0.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b3b81e72636abf6270d012bad69eecc55f2bc74e	not-for-merge	tag 'android-4.4.3_r1.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+4fed6f410c79227d33fa8f86045ca9393172f3e5	not-for-merge	tag 'android-4.4.3_r1.1.0.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+cf278342cef95f824a457c1df90a7fa7ecacbc73	not-for-merge	tag 'android-4.4.4_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+0ce6a1da9c718e6c8b0b9d5cab0cff83360a53a2	not-for-merge	tag 'android-4.4.4_r1.0.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+f950be0d06a21bd2d3c2ad835829d7aa9cd1fc9e	not-for-merge	tag 'android-4.4.4_r2' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b297eb1391ab1a708ea52115819929bcdd7746cf	not-for-merge	tag 'android-4.4.4_r2.0.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+31419f3c98d14bd72b2e37c155fb79ead3ee15aa	not-for-merge	tag 'android-4.4_r0.7' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+78802899973cadcaa1449c7572f7921f2fdd4bfd	not-for-merge	tag 'android-4.4_r0.8' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b4750154fdfeb9c9ce0b6b98f5a7b2ee2e54e1c3	not-for-merge	tag 'android-4.4_r0.9' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b75081f0fff709c2c539269c6543b3a4355c77df	not-for-merge	tag 'android-4.4_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+d64b65a468afbeb18b8a52e2454acd0216ee59f5	not-for-merge	tag 'android-4.4_r1.0.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+8af04ed83119756fa536ed70d47f0ed655c710b3	not-for-merge	tag 'android-4.4_r1.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+4affde5bb6cac54d335201edc33ebd6eb97cd678	not-for-merge	tag 'android-4.4_r1.1.0.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+2e9fe319f8f9182181831db0d2e1b71035fdf6aa	not-for-merge	tag 'android-4.4_r1.2' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+53a694e2018a07c90d4d76da44dd41464054b4a2	not-for-merge	tag 'android-4.4_r1.2.0.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+fcbd6cb2ecc9ed3559d4d7ca4b159d35551c95ad	not-for-merge	tag 'android-4.4w_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+f7f2509f261df7ae6931e6ad0aaaf69dd00a470a	not-for-merge	tag 'android-5.0.0_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+bffd4a8d40b67a669995b463bf8b11ffe3b83b88	not-for-merge	tag 'android-5.0.0_r2' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+95a818c4ef9ec5603fc15877465b693429233d60	not-for-merge	tag 'android-5.0.0_r3' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+472c216efa4cf9c1699f46ad1b6ee085cae96246	not-for-merge	tag 'android-5.0.0_r4' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+539b3ce5bfb1175a855663fd72e72747843f61ea	not-for-merge	tag 'android-5.0.0_r5' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b79ddd22065878466acbbb2b7c8d2ad82c295b4b	not-for-merge	tag 'android-5.0.0_r5.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+9615142698a9e1d591e3a9c64ed22044eb5318db	not-for-merge	tag 'android-5.0.0_r6' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+a8e0e9a5f389fdf61b67ba65c21f3372fc1dcec5	not-for-merge	tag 'android-5.0.0_r7' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+fcdb0e7bfbadab942c42fad4a3a814108b862490	not-for-merge	tag 'android-5.0.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+59db32eaae234c30ac00e9eeabaf8f5f25ffe3c7	not-for-merge	tag 'android-5.0.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+d5fe77fb9172ac0a3c070ef19ae4c651673de6a5	not-for-merge	tag 'android-5.0.2_r3' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+04f13b4b5fc63f27b761ac0469e7976f1b52da3a	not-for-merge	tag 'android-5.1.0_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+32274a18dd6d05bffa821a9975e0a580812dd679	not-for-merge	tag 'android-5.1.0_r3' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+c91c10222f760660986dea09ba3e6619e14ea49b	not-for-merge	tag 'android-5.1.0_r5' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+619b33a0610477ed2267b16b220708cc60ac5c48	not-for-merge	tag 'android-5.1.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+4dd733f6bc5f2b62b93552e692037ac0ff0325f4	not-for-merge	tag 'android-5.1.1_r2' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b95441a7e16e1f70d17660aa10267d1b63a5ed38	not-for-merge	tag 'android-cts-4.0.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+5dcaf8f5c7a0a796aeeba766b4f7712d93acd156	not-for-merge	tag 'android-cts-4.0.3_r2' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+451138660f7d54f96be6d12b8de87adb5b31e595	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+16e4f825e6bd0062bbe2ed1f42162bce247cfbc5	not-for-merge	tag 'android-cts-4.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+a609348a4a4859db1faa32ec06e3008c181f13ac	not-for-merge	tag 'android-cts-4.1_r2' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+1d27c976db57032d8f151fc562c261ba3e615b3d	not-for-merge	tag 'android-cts-4.1_r4' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+e6524e9505cd56f6f4f45a3be310d8c989d9ebb0	not-for-merge	tag 'android-cts-4.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+a25381dd23ea42d513bda1fb994d94748d19d38d	not-for-merge	tag 'android-cts-4.2_r2' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+a4d129ca3d17e50d7619792cb22b5e308de41dd8	not-for-merge	tag 'android-cts-4.4_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+d31fceaaebcf9d0a216874b1492c05abd4ecfd8a	not-for-merge	tag 'android-cts-5.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+77cabf15f22069e02d1c4552f44d8b934964bcdc	not-for-merge	tag 'android-cts-verifier-4.0.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+acb9bf3a990ef329f8d223128b2f2ee5ebd0eb30	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+1fdde3199d97855f0ac53e8a948397bdc4553939	not-for-merge	tag 'android-l-preview_r2' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+37e496e6c238e7de996364540d5660da39b0cb33	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+e92b6e53c49382796108c4c13329748f093507d7	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+765551b9100e343fbea48b539b1655638896837c	not-for-merge	tag 'android-sdk-4.4.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+391bc332d356ad958a8ae096f248db5c58c32483	not-for-merge	tag 'android-sdk-4.4.2_r1.0.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+4c4ae05021e31fb688855af39472cce92def4212	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+d58fa885b4d06ee5c68165e2901992fa983143a5	not-for-merge	tag 'android-sdk-adt_r20' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+b627d797af6a0661b2a8bb69b77d4217409b2cff	not-for-merge	tag 'android-sdk-support_r11' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+5e66e05fd40dbcac92feb541625e6fc1a1f61bab	not-for-merge	tag 'android-wear-5.0.0_r1' of https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral

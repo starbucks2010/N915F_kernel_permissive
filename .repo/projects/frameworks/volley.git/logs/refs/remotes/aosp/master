@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 b1a9085ebd2e7bfb2ebe0c200411b4b17c1ecdec andrei <andrei@N915F-selnx-perm.(none)> 1432030127 +0300	fetch --progress /home/andrei/edge/kernel/.repo/projects/frameworks/volley.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+b1a9085ebd2e7bfb2ebe0c200411b4b17c1ecdec 69d7dcbab69c474129bd355298263d729d464f25 andrei <andrei@N915F-selnx-perm.(none)> 1432030128 +0300	fetch --progress aosp --tags +refs/heads/*:refs/remotes/aosp/* +refs/heads/master:refs/remotes/aosp/master: fast-forward

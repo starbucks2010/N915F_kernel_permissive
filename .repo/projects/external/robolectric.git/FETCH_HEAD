@@ -1,0 +1,81 @@
+6bf395c984ed3f69711663b006aeffbb0f7e8a90		branch 'idea133' of https://android.googlesource.com/platform/external/robolectric
+6bf395c984ed3f69711663b006aeffbb0f7e8a90		branch 'idea133-weekly-release' of https://android.googlesource.com/platform/external/robolectric
+4252a662f88e0d13829e106831d66b3f28c9cb70		branch 'jb-mr2-dev' of https://android.googlesource.com/platform/external/robolectric
+4252a662f88e0d13829e106831d66b3f28c9cb70		branch 'jb-mr2-release' of https://android.googlesource.com/platform/external/robolectric
+4252a662f88e0d13829e106831d66b3f28c9cb70		branch 'jb-mr2.0-release' of https://android.googlesource.com/platform/external/robolectric
+4252a662f88e0d13829e106831d66b3f28c9cb70		branch 'jb-mr2.0.0-release' of https://android.googlesource.com/platform/external/robolectric
+6bf395c984ed3f69711663b006aeffbb0f7e8a90		branch 'kitkat-cts-dev' of https://android.googlesource.com/platform/external/robolectric
+6bf395c984ed3f69711663b006aeffbb0f7e8a90		branch 'kitkat-dev' of https://android.googlesource.com/platform/external/robolectric
+6bf395c984ed3f69711663b006aeffbb0f7e8a90		branch 'kitkat-mr1-release' of https://android.googlesource.com/platform/external/robolectric
+6bf395c984ed3f69711663b006aeffbb0f7e8a90		branch 'kitkat-mr1.1-release' of https://android.googlesource.com/platform/external/robolectric
+6bf395c984ed3f69711663b006aeffbb0f7e8a90		branch 'kitkat-mr2-release' of https://android.googlesource.com/platform/external/robolectric
+6bf395c984ed3f69711663b006aeffbb0f7e8a90		branch 'kitkat-mr2.1-release' of https://android.googlesource.com/platform/external/robolectric
+6bf395c984ed3f69711663b006aeffbb0f7e8a90		branch 'kitkat-mr2.2-release' of https://android.googlesource.com/platform/external/robolectric
+6bf395c984ed3f69711663b006aeffbb0f7e8a90		branch 'kitkat-release' of https://android.googlesource.com/platform/external/robolectric
+6bf395c984ed3f69711663b006aeffbb0f7e8a90		branch 'kitkat-wear' of https://android.googlesource.com/platform/external/robolectric
+6bf395c984ed3f69711663b006aeffbb0f7e8a90		branch 'l-preview' of https://android.googlesource.com/platform/external/robolectric
+d9d53068f24c9af1a332986dd196c163b3ca897c		branch 'lollipop-dev' of https://android.googlesource.com/platform/external/robolectric
+d9d53068f24c9af1a332986dd196c163b3ca897c		branch 'lollipop-mr1-dev' of https://android.googlesource.com/platform/external/robolectric
+d9d53068f24c9af1a332986dd196c163b3ca897c		branch 'lollipop-mr1-release' of https://android.googlesource.com/platform/external/robolectric
+d9d53068f24c9af1a332986dd196c163b3ca897c		branch 'lollipop-release' of https://android.googlesource.com/platform/external/robolectric
+d9d53068f24c9af1a332986dd196c163b3ca897c		branch 'lollipop-wear-release' of https://android.googlesource.com/platform/external/robolectric
+843b280670d6531a6d6c92f7b3b8fce7cc9f0290		branch 'master' of https://android.googlesource.com/platform/external/robolectric
+843b280670d6531a6d6c92f7b3b8fce7cc9f0290		branch 'master-soong' of https://android.googlesource.com/platform/external/robolectric
+4252a662f88e0d13829e106831d66b3f28c9cb70		branch 'tools_r22.2' of https://android.googlesource.com/platform/external/robolectric
+712a0d2e6d10f859a13cbf746c1c22c77a791975	not-for-merge	tag 'android-4.3.1_r1' of https://android.googlesource.com/platform/external/robolectric
+4a4981b5ebb938f7ec99c0bc94ece043fb210c77	not-for-merge	tag 'android-4.3_r0.9' of https://android.googlesource.com/platform/external/robolectric
+488b62914cae4b7d1d7cf751453fb53478b1d978	not-for-merge	tag 'android-4.3_r0.9.1' of https://android.googlesource.com/platform/external/robolectric
+e1987553a7afb1ff8dc26ccb87a5b43cc8d86a3d	not-for-merge	tag 'android-4.3_r1' of https://android.googlesource.com/platform/external/robolectric
+1272f8b1de347394e8602a2635a5a84ac6e2ddbf	not-for-merge	tag 'android-4.3_r1.1' of https://android.googlesource.com/platform/external/robolectric
+d6cfee5130740f0671571f01763ffa227b8c6047	not-for-merge	tag 'android-4.3_r2' of https://android.googlesource.com/platform/external/robolectric
+14932bfa0d5dc1714ef4c9cc1c81c27e70bc7877	not-for-merge	tag 'android-4.3_r2.1' of https://android.googlesource.com/platform/external/robolectric
+99efb6216a2e1531d483814b80ed0033334b0c5a	not-for-merge	tag 'android-4.3_r2.2' of https://android.googlesource.com/platform/external/robolectric
+3b0443e7843abb8a2d361608da61c3ac5065de94	not-for-merge	tag 'android-4.3_r2.3' of https://android.googlesource.com/platform/external/robolectric
+bd1bc5829a6d6557e105668a5972a3f80f077622	not-for-merge	tag 'android-4.3_r3' of https://android.googlesource.com/platform/external/robolectric
+7295e5cff56b62e3cd3c5c7b5947d50f84db6b47	not-for-merge	tag 'android-4.3_r3.1' of https://android.googlesource.com/platform/external/robolectric
+11c41051231e84bc7bd71e64028c863dbb9e9417	not-for-merge	tag 'android-4.4.1_r1' of https://android.googlesource.com/platform/external/robolectric
+af228f62c10ed78dc79d94e147790e3985ccd1b3	not-for-merge	tag 'android-4.4.1_r1.0.1' of https://android.googlesource.com/platform/external/robolectric
+8b183a1b9009b947c30f5e59c255fdba380e44fb	not-for-merge	tag 'android-4.4.2_r1' of https://android.googlesource.com/platform/external/robolectric
+bfd47278f31374821bc87ab91bcedb36be82e872	not-for-merge	tag 'android-4.4.2_r1.0.1' of https://android.googlesource.com/platform/external/robolectric
+c7ebe74fdde557271f25bfa286615745f4e7b332	not-for-merge	tag 'android-4.4.2_r2' of https://android.googlesource.com/platform/external/robolectric
+137eb55341c2e4c992072527faf13ce66c203f88	not-for-merge	tag 'android-4.4.2_r2.0.1' of https://android.googlesource.com/platform/external/robolectric
+76453dc8bc43976f4ac6955629e4af2f28310681	not-for-merge	tag 'android-4.4.3_r1' of https://android.googlesource.com/platform/external/robolectric
+72855c3caaa03e6555f920c9bd61224487da3e05	not-for-merge	tag 'android-4.4.3_r1.0.1' of https://android.googlesource.com/platform/external/robolectric
+91f8de625fedfb53d0274dcf3412260f0c2e85ce	not-for-merge	tag 'android-4.4.3_r1.1' of https://android.googlesource.com/platform/external/robolectric
+5977bb653c1882096b298cba09deec5528d88a87	not-for-merge	tag 'android-4.4.3_r1.1.0.1' of https://android.googlesource.com/platform/external/robolectric
+47d8eeffef2279740c527a659fb8ca5dee3677ba	not-for-merge	tag 'android-4.4.4_r1' of https://android.googlesource.com/platform/external/robolectric
+7cff4f24f0d46671136dcb2f854c4a6a5834f145	not-for-merge	tag 'android-4.4.4_r1.0.1' of https://android.googlesource.com/platform/external/robolectric
+b7d01eec6b852b43a40e739a5d394a219a8ba1e7	not-for-merge	tag 'android-4.4.4_r2' of https://android.googlesource.com/platform/external/robolectric
+16b96d8e3335d477d2554ffb241ff72706e2e359	not-for-merge	tag 'android-4.4.4_r2.0.1' of https://android.googlesource.com/platform/external/robolectric
+dfa17a77578b8a53273cb25284e31d0696d130d2	not-for-merge	tag 'android-4.4_r0.7' of https://android.googlesource.com/platform/external/robolectric
+ea0c18ac674c34239bd323a6028add807d0b757e	not-for-merge	tag 'android-4.4_r0.8' of https://android.googlesource.com/platform/external/robolectric
+0f58e5aebb20d88c9986208e99063c5a252ba340	not-for-merge	tag 'android-4.4_r0.9' of https://android.googlesource.com/platform/external/robolectric
+e203682ec9acbb3b2c039ab99677bab49fdb8cb6	not-for-merge	tag 'android-4.4_r1' of https://android.googlesource.com/platform/external/robolectric
+ac6f1bf407c44dd37d85052f4510ae18249f98f6	not-for-merge	tag 'android-4.4_r1.0.1' of https://android.googlesource.com/platform/external/robolectric
+830f3756a461f96bde0a4e4c56ddd7074ed650ba	not-for-merge	tag 'android-4.4_r1.1' of https://android.googlesource.com/platform/external/robolectric
+329cfb1990f3591e208069379de46ae277d1fae7	not-for-merge	tag 'android-4.4_r1.1.0.1' of https://android.googlesource.com/platform/external/robolectric
+d560525054b61dd28bd50afc184c46a77ff048e5	not-for-merge	tag 'android-4.4_r1.2' of https://android.googlesource.com/platform/external/robolectric
+c30bb676e571f3b14c54bfa80590b3ba2b24c4f5	not-for-merge	tag 'android-4.4_r1.2.0.1' of https://android.googlesource.com/platform/external/robolectric
+bad5f83edbb0e7c30815c6a5067b4241b5af7031	not-for-merge	tag 'android-4.4w_r1' of https://android.googlesource.com/platform/external/robolectric
+be6f0cf7706e6ac8e3d54e7b5df1ac31f5f0ae97	not-for-merge	tag 'android-5.0.0_r1' of https://android.googlesource.com/platform/external/robolectric
+5ebc11f9b21285d3478010c0a8e4be177042281b	not-for-merge	tag 'android-5.0.0_r2' of https://android.googlesource.com/platform/external/robolectric
+a6709d3d168c81f0ac2e2890d699327275f5dbb0	not-for-merge	tag 'android-5.0.0_r3' of https://android.googlesource.com/platform/external/robolectric
+ee27ceb47dd67eb9b7444f1e5b253ecd9cc5f2a3	not-for-merge	tag 'android-5.0.0_r4' of https://android.googlesource.com/platform/external/robolectric
+9782f0b86f3ed006fd464d5d3c673ea06e3c559f	not-for-merge	tag 'android-5.0.0_r5' of https://android.googlesource.com/platform/external/robolectric
+d86574ec2cd73c80567b7f23c018a359f9793976	not-for-merge	tag 'android-5.0.0_r5.1' of https://android.googlesource.com/platform/external/robolectric
+b161ac227c8d62a7d926cda2d44a0fa206973817	not-for-merge	tag 'android-5.0.0_r6' of https://android.googlesource.com/platform/external/robolectric
+7ab48138675e1df2f8609f9a6bd4822a8022cfdb	not-for-merge	tag 'android-5.0.0_r7' of https://android.googlesource.com/platform/external/robolectric
+e0622be624ecbac4aa693e8326fa0b47e09bcd23	not-for-merge	tag 'android-5.0.1_r1' of https://android.googlesource.com/platform/external/robolectric
+b270cacb1117626744db9cbdbd67fb691a049ec8	not-for-merge	tag 'android-5.0.2_r1' of https://android.googlesource.com/platform/external/robolectric
+7da188b4022546525c7bb3d8ca1b6e2f7524c455	not-for-merge	tag 'android-5.0.2_r3' of https://android.googlesource.com/platform/external/robolectric
+405c6ee2c7a35723124da7eb03cb4d4dfff20317	not-for-merge	tag 'android-5.1.0_r1' of https://android.googlesource.com/platform/external/robolectric
+89213b5aa8a77f72eda79dd195a56efbd02416c9	not-for-merge	tag 'android-5.1.0_r3' of https://android.googlesource.com/platform/external/robolectric
+3370bc98837f3d5e4445a785c7fd0aeb669c8f30	not-for-merge	tag 'android-5.1.0_r5' of https://android.googlesource.com/platform/external/robolectric
+99a73140bf0651739588e45f5b0e0532994b6c6d	not-for-merge	tag 'android-5.1.1_r1' of https://android.googlesource.com/platform/external/robolectric
+e155e8040aa8aac4fd6017e926ab2d8c9951bed8	not-for-merge	tag 'android-5.1.1_r2' of https://android.googlesource.com/platform/external/robolectric
+dd89fe1172345a41e961cafbf7e6e6f6f8aa65ab	not-for-merge	tag 'android-cts-4.4_r1' of https://android.googlesource.com/platform/external/robolectric
+989cfbfaf426d4c6ca1e6de7dd020e33b916be1d	not-for-merge	tag 'android-cts-5.1_r1' of https://android.googlesource.com/platform/external/robolectric
+b3681d4571efc2d8cada24140418545ace78bddd	not-for-merge	tag 'android-l-preview_r2' of https://android.googlesource.com/platform/external/robolectric
+885a44662a4982907eaa91077a7c69ce5b39a368	not-for-merge	tag 'android-sdk-4.4.2_r1' of https://android.googlesource.com/platform/external/robolectric
+c8fb43487f4851edf81dba91eb635bd42a367036	not-for-merge	tag 'android-sdk-4.4.2_r1.0.1' of https://android.googlesource.com/platform/external/robolectric
+d754c126c5c4ad959911a2e32c479a9a9abc5ccb	not-for-merge	tag 'android-wear-5.0.0_r1' of https://android.googlesource.com/platform/external/robolectric

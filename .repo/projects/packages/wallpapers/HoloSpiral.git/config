@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral
+	review = https://android-review.googlesource.com/
+	projectname = platform/packages/wallpapers/HoloSpiral
+	fetch = +refs/heads/*:refs/remotes/aosp/*

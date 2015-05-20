@@ -1,0 +1,84 @@
+379c1aec119acef172452b17dca481cedb86ba0f		branch 'idea133' of https://android.googlesource.com/platform/frameworks/volley
+04884d344043063aaff1bef567912e1be0f254ff		branch 'idea133-weekly-release' of https://android.googlesource.com/platform/frameworks/volley
+81d65fee969f0e67288cea7bacfc1ed97f8f62a2		branch 'jb-mr1-dev-plus-aosp' of https://android.googlesource.com/platform/frameworks/volley
+ba7d701bc2a0fa657422242537ace9bd63b14798		branch 'jb-mr1.1-dev-plus-aosp' of https://android.googlesource.com/platform/frameworks/volley
+33690e384916a7e9fb7aad486b70fa5be9c49aff		branch 'jb-mr2-dev' of https://android.googlesource.com/platform/frameworks/volley
+c3dea925af9b3523e2e01e8b7799e71ef558c1c5		branch 'jb-mr2-release' of https://android.googlesource.com/platform/frameworks/volley
+b6d0eb0c6f4198988f480046ca8303b4990fe2fa		branch 'jb-mr2.0-release' of https://android.googlesource.com/platform/frameworks/volley
+33690e384916a7e9fb7aad486b70fa5be9c49aff		branch 'jb-mr2.0.0-release' of https://android.googlesource.com/platform/frameworks/volley
+bd04632e0c5b4a29889c1b70089ac2322229b5e6		branch 'kitkat-cts-dev' of https://android.googlesource.com/platform/frameworks/volley
+bd04632e0c5b4a29889c1b70089ac2322229b5e6		branch 'kitkat-dev' of https://android.googlesource.com/platform/frameworks/volley
+bd04632e0c5b4a29889c1b70089ac2322229b5e6		branch 'kitkat-mr1-release' of https://android.googlesource.com/platform/frameworks/volley
+bd04632e0c5b4a29889c1b70089ac2322229b5e6		branch 'kitkat-mr1.1-release' of https://android.googlesource.com/platform/frameworks/volley
+bd04632e0c5b4a29889c1b70089ac2322229b5e6		branch 'kitkat-mr2-release' of https://android.googlesource.com/platform/frameworks/volley
+bd04632e0c5b4a29889c1b70089ac2322229b5e6		branch 'kitkat-mr2.1-release' of https://android.googlesource.com/platform/frameworks/volley
+bd04632e0c5b4a29889c1b70089ac2322229b5e6		branch 'kitkat-mr2.2-release' of https://android.googlesource.com/platform/frameworks/volley
+bd04632e0c5b4a29889c1b70089ac2322229b5e6		branch 'kitkat-release' of https://android.googlesource.com/platform/frameworks/volley
+bd04632e0c5b4a29889c1b70089ac2322229b5e6		branch 'kitkat-wear' of https://android.googlesource.com/platform/frameworks/volley
+b87331c8b80f2cbabce4eb9979cca3917dd02600		branch 'l-preview' of https://android.googlesource.com/platform/frameworks/volley
+b3b7e68078c4579f11c1c559f027f4edde70bdc9		branch 'lollipop-dev' of https://android.googlesource.com/platform/frameworks/volley
+b3b7e68078c4579f11c1c559f027f4edde70bdc9		branch 'lollipop-mr1-dev' of https://android.googlesource.com/platform/frameworks/volley
+b3b7e68078c4579f11c1c559f027f4edde70bdc9		branch 'lollipop-mr1-release' of https://android.googlesource.com/platform/frameworks/volley
+b3b7e68078c4579f11c1c559f027f4edde70bdc9		branch 'lollipop-release' of https://android.googlesource.com/platform/frameworks/volley
+1a39583f0ee06329f7918ed9a4c7d0e7cd342917		branch 'lollipop-wear-release' of https://android.googlesource.com/platform/frameworks/volley
+69d7dcbab69c474129bd355298263d729d464f25		branch 'master' of https://android.googlesource.com/platform/frameworks/volley
+b1a9085ebd2e7bfb2ebe0c200411b4b17c1ecdec		branch 'master-soong' of https://android.googlesource.com/platform/frameworks/volley
+f98ecec320d95adbed2d224d42cf96d6a88f16f3		branch 'tools_r22' of https://android.googlesource.com/platform/frameworks/volley
+4c2fe1379f5d18bac2d27e89d4abb553e6f8d2e8		branch 'tools_r22.2' of https://android.googlesource.com/platform/frameworks/volley
+9033883551b2f0d0479a3f483bf1d7f8f7968d59	not-for-merge	tag 'android-4.3.1_r1' of https://android.googlesource.com/platform/frameworks/volley
+074e3e10c6dccae4d73cee9cb40e5e8b0db8a550	not-for-merge	tag 'android-4.3_r0.9' of https://android.googlesource.com/platform/frameworks/volley
+c6c2f6496402be8522842fca4b5133b709d43f07	not-for-merge	tag 'android-4.3_r0.9.1' of https://android.googlesource.com/platform/frameworks/volley
+7a3bf16e735f82cbd7643a12a1f88b7af325cc74	not-for-merge	tag 'android-4.3_r1' of https://android.googlesource.com/platform/frameworks/volley
+35f70d801fa4c8f64be96c073b0f21c9e5fd7b65	not-for-merge	tag 'android-4.3_r1.1' of https://android.googlesource.com/platform/frameworks/volley
+dd1e04a1dd0157c2dc43755c0892bbdd40d3b398	not-for-merge	tag 'android-4.3_r2' of https://android.googlesource.com/platform/frameworks/volley
+b13eb0a6146cb2a1f2ce230fc8a0187cb20a8113	not-for-merge	tag 'android-4.3_r2.1' of https://android.googlesource.com/platform/frameworks/volley
+21409ccd210401b97a541893cf929acd8377203c	not-for-merge	tag 'android-4.3_r2.2' of https://android.googlesource.com/platform/frameworks/volley
+0c20b6300472d18048eb489da0e125984e09f436	not-for-merge	tag 'android-4.3_r2.3' of https://android.googlesource.com/platform/frameworks/volley
+456d828603655852fed33fda9c648eb1910adc1f	not-for-merge	tag 'android-4.3_r3' of https://android.googlesource.com/platform/frameworks/volley
+87791a9184d50d8ca00559514907ebecb9ad724a	not-for-merge	tag 'android-4.3_r3.1' of https://android.googlesource.com/platform/frameworks/volley
+71a7c5f40942a68e0999b490555c1504ceb47e09	not-for-merge	tag 'android-4.4.1_r1' of https://android.googlesource.com/platform/frameworks/volley
+68d5e7537c6bbf298a7d52c67e6e0d9970860b02	not-for-merge	tag 'android-4.4.1_r1.0.1' of https://android.googlesource.com/platform/frameworks/volley
+4e2c701ca1b32978e1754a5edcab05cc61f8f05d	not-for-merge	tag 'android-4.4.2_r1' of https://android.googlesource.com/platform/frameworks/volley
+4f56023d3dc3846563cc27ba3444e2bbe203129f	not-for-merge	tag 'android-4.4.2_r1.0.1' of https://android.googlesource.com/platform/frameworks/volley
+8059f94513ff68819e0bbe64bb0eb2cfba3daed8	not-for-merge	tag 'android-4.4.2_r2' of https://android.googlesource.com/platform/frameworks/volley
+13c982b895a37ee21fc01ee69f5eccecdb9f821a	not-for-merge	tag 'android-4.4.2_r2.0.1' of https://android.googlesource.com/platform/frameworks/volley
+d141f1d9c230663ad93d76cb6ad2db27797dcffb	not-for-merge	tag 'android-4.4.3_r1' of https://android.googlesource.com/platform/frameworks/volley
+3b9508a5d36f6c45b83084e9a3e3cdcb8c9c2507	not-for-merge	tag 'android-4.4.3_r1.0.1' of https://android.googlesource.com/platform/frameworks/volley
+2b696a497d74367212c6029b3e86b306cf3e3d33	not-for-merge	tag 'android-4.4.3_r1.1' of https://android.googlesource.com/platform/frameworks/volley
+e68b08a500d8a94a090553375a39c57b2205ef34	not-for-merge	tag 'android-4.4.3_r1.1.0.1' of https://android.googlesource.com/platform/frameworks/volley
+3222aff22960e94c3f9c766d03c87e36aa090a32	not-for-merge	tag 'android-4.4.4_r1' of https://android.googlesource.com/platform/frameworks/volley
+7ba4e6347475788f2eb35758f40366a233a2dcd5	not-for-merge	tag 'android-4.4.4_r1.0.1' of https://android.googlesource.com/platform/frameworks/volley
+d6662f5368ff023e5fcbc0af722c53e2ce9df37e	not-for-merge	tag 'android-4.4.4_r2' of https://android.googlesource.com/platform/frameworks/volley
+26cc4f25434ba48f979d7074d6ca0c82b284a566	not-for-merge	tag 'android-4.4.4_r2.0.1' of https://android.googlesource.com/platform/frameworks/volley
+de1333dacdc25f5484c0b784cd36a58b4b906e22	not-for-merge	tag 'android-4.4_r0.7' of https://android.googlesource.com/platform/frameworks/volley
+5a3ec1b59406351583dd566e3b250678e60f1175	not-for-merge	tag 'android-4.4_r0.8' of https://android.googlesource.com/platform/frameworks/volley
+6640cbc09d81de218858c544767666a53b680637	not-for-merge	tag 'android-4.4_r0.9' of https://android.googlesource.com/platform/frameworks/volley
+6f4c4e7cf87059efd0d4ca71e73bd9609dd46138	not-for-merge	tag 'android-4.4_r1' of https://android.googlesource.com/platform/frameworks/volley
+3fe66c956107b8ef65a06bbce5a2bcd3297757d2	not-for-merge	tag 'android-4.4_r1.0.1' of https://android.googlesource.com/platform/frameworks/volley
+b9cd079b92e2127cb358cd1ec0ad9f56fafb8f44	not-for-merge	tag 'android-4.4_r1.1' of https://android.googlesource.com/platform/frameworks/volley
+1578c30bdda893886be33e69a0b6e3422a89f8b4	not-for-merge	tag 'android-4.4_r1.1.0.1' of https://android.googlesource.com/platform/frameworks/volley
+163f4d9571609d64bc2f91bec377a33c03aa57ef	not-for-merge	tag 'android-4.4_r1.2' of https://android.googlesource.com/platform/frameworks/volley
+15b8bf7d74804b449ba38119fa11fc399c0f97fe	not-for-merge	tag 'android-4.4_r1.2.0.1' of https://android.googlesource.com/platform/frameworks/volley
+a0a873d7b45dbe36a4fa5f2692e6b1c0e97e6171	not-for-merge	tag 'android-4.4w_r1' of https://android.googlesource.com/platform/frameworks/volley
+0a6f6fcdc42944d1b448cb49ee0c6a25e16e88cf	not-for-merge	tag 'android-5.0.0_r1' of https://android.googlesource.com/platform/frameworks/volley
+4a794ecc525bc059d30ec6c8686cd638cd9170ef	not-for-merge	tag 'android-5.0.0_r2' of https://android.googlesource.com/platform/frameworks/volley
+7f87b21274b7fb3784bcdb71d2c0342c0b1f6f29	not-for-merge	tag 'android-5.0.0_r3' of https://android.googlesource.com/platform/frameworks/volley
+8d7b4f045a21f0d9e24da2843b74379f7e1e708a	not-for-merge	tag 'android-5.0.0_r4' of https://android.googlesource.com/platform/frameworks/volley
+c07c33b4b7378b466958113a3a255a0781de222b	not-for-merge	tag 'android-5.0.0_r5' of https://android.googlesource.com/platform/frameworks/volley
+11465a32dc63c042bf9671f20ba0f6afb9f0014f	not-for-merge	tag 'android-5.0.0_r5.1' of https://android.googlesource.com/platform/frameworks/volley
+f8a9b8223f4166839ea89dcaf58205db29761218	not-for-merge	tag 'android-5.0.0_r6' of https://android.googlesource.com/platform/frameworks/volley
+1795bf590e331acad6746264aaa21abafb6d5fbc	not-for-merge	tag 'android-5.0.0_r7' of https://android.googlesource.com/platform/frameworks/volley
+688a1360118f2328774dd49a4fbbb2fda8cb29f0	not-for-merge	tag 'android-5.0.1_r1' of https://android.googlesource.com/platform/frameworks/volley
+6485af5edc24fde18413bf4c77c60c1d598f0da6	not-for-merge	tag 'android-5.0.2_r1' of https://android.googlesource.com/platform/frameworks/volley
+283929a668c479fd0db0be49ba109e176c90b123	not-for-merge	tag 'android-5.0.2_r3' of https://android.googlesource.com/platform/frameworks/volley
+bccd61283c586ba932505679bb811304fd59fb18	not-for-merge	tag 'android-5.1.0_r1' of https://android.googlesource.com/platform/frameworks/volley
+1d97314e9bdeaa88526db0e797b0c3531a711a71	not-for-merge	tag 'android-5.1.0_r3' of https://android.googlesource.com/platform/frameworks/volley
+041c5e3539fe0acd33f723f711746eef8e8ef8bb	not-for-merge	tag 'android-5.1.0_r5' of https://android.googlesource.com/platform/frameworks/volley
+2e231c0860b4175422c895c0fb37a1b25a814257	not-for-merge	tag 'android-5.1.1_r1' of https://android.googlesource.com/platform/frameworks/volley
+43dc2b83a4114628a4fef6a149336d64a49f19b6	not-for-merge	tag 'android-5.1.1_r2' of https://android.googlesource.com/platform/frameworks/volley
+c3cda71982af15094fb79f08cfd382dd93221585	not-for-merge	tag 'android-cts-4.4_r1' of https://android.googlesource.com/platform/frameworks/volley
+afb78bab18f9757b6640cb2b786751be350d38d8	not-for-merge	tag 'android-cts-5.1_r1' of https://android.googlesource.com/platform/frameworks/volley
+5a5618a0e2fed1dfba5fbc76c8083780dc2c99fb	not-for-merge	tag 'android-l-preview_r2' of https://android.googlesource.com/platform/frameworks/volley
+73c6111571fefc6c15359cdf7d9b9b8d504cfc12	not-for-merge	tag 'android-sdk-4.4.2_r1' of https://android.googlesource.com/platform/frameworks/volley
+8246375aa32c088bb7a7dbe7978b0d4ef0f7f428	not-for-merge	tag 'android-sdk-4.4.2_r1.0.1' of https://android.googlesource.com/platform/frameworks/volley
+e0f2fcc46f21dcae2ad8954ddc2fcb0395066af8	not-for-merge	tag 'android-wear-5.0.0_r1' of https://android.googlesource.com/platform/frameworks/volley

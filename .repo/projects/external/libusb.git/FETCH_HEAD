@@ -1,0 +1,131 @@
+2801917fe150393d4f4a354165fe89550ae22613		branch 'ics-aah-release' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'ics-plus-aosp' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'idea133' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'idea133-weekly-release' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'jb-dev' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'jb-mr0-release' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'jb-mr1-dev' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'jb-mr1-dev-plus-aosp' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'jb-mr1-factory-release' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'jb-mr1-release' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'jb-mr1.1-dev' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'jb-mr1.1-dev-plus-aosp' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'jb-mr1.1-release' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'jb-mr2-dev' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'jb-mr2-release' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'jb-mr2.0-release' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'jb-mr2.0.0-release' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'jb-release' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'kitkat-cts-dev' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'kitkat-dev' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'kitkat-mr1-release' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'kitkat-mr1.1-release' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'kitkat-mr2-release' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'kitkat-mr2.1-release' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'kitkat-mr2.2-release' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'kitkat-release' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'kitkat-wear' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'l-preview' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'lollipop-dev' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'lollipop-mr1-dev' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'lollipop-mr1-release' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'lollipop-release' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'lollipop-wear-release' of https://android.googlesource.com/platform/external/libusb
+3a36cef7ef847d3839090a7c98eb961a602af55b		branch 'master' of https://android.googlesource.com/platform/external/libusb
+3a36cef7ef847d3839090a7c98eb961a602af55b		branch 'master-soong' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'tools_r20' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'tools_r21' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'tools_r22' of https://android.googlesource.com/platform/external/libusb
+2801917fe150393d4f4a354165fe89550ae22613		branch 'tools_r22.2' of https://android.googlesource.com/platform/external/libusb
+c5b8779da2e225dbbd690049fec94956a1d942a4	not-for-merge	tag 'android-4.0.4-aah_r1' of https://android.googlesource.com/platform/external/libusb
+6856ca841e7701722c8a04b03a81d333eb134c45	not-for-merge	tag 'android-4.1-sdk_pre1' of https://android.googlesource.com/platform/external/libusb
+8ac4d8e937e9b681ce8c8e7415333a4f4c7458dc	not-for-merge	tag 'android-4.1.1_r1' of https://android.googlesource.com/platform/external/libusb
+76a30f3ac077e36b433c0733bd1943234ca94b17	not-for-merge	tag 'android-4.1.1_r1.1' of https://android.googlesource.com/platform/external/libusb
+bb17539ef7586681ce9e2e6f2faa99c3c16b003b	not-for-merge	tag 'android-4.1.1_r2' of https://android.googlesource.com/platform/external/libusb
+e5c0c30905f36f36cb753f0ac4b81c26fe07f81f	not-for-merge	tag 'android-4.1.1_r3' of https://android.googlesource.com/platform/external/libusb
+979e784404d76dcfea43ee46596e83f8bc6d493c	not-for-merge	tag 'android-4.1.1_r4' of https://android.googlesource.com/platform/external/libusb
+7fc6684f81945e67b600b9b323fae42d120b28e3	not-for-merge	tag 'android-4.1.1_r5' of https://android.googlesource.com/platform/external/libusb
+986021114ff554647f59b81b461d23307deeba6b	not-for-merge	tag 'android-4.1.1_r6' of https://android.googlesource.com/platform/external/libusb
+f6e05b0f591e372888067cd2dd158587d1234cbb	not-for-merge	tag 'android-4.1.1_r6.1' of https://android.googlesource.com/platform/external/libusb
+261fa8e895280c68f1eff3caa5a965f33f2cba67	not-for-merge	tag 'android-4.1.2_r1' of https://android.googlesource.com/platform/external/libusb
+46b1bbe86347fbf087393a9213dd888992a89d2f	not-for-merge	tag 'android-4.1.2_r2' of https://android.googlesource.com/platform/external/libusb
+33f0fcfd3905657a3aa9d6cdc1c64ecaabc8e9f0	not-for-merge	tag 'android-4.1.2_r2.1' of https://android.googlesource.com/platform/external/libusb
+6443d1e2dcf56750b720faf3026fd190a1fd1df9	not-for-merge	tag 'android-4.1_pre1' of https://android.googlesource.com/platform/external/libusb
+540fde4e5ff1de2fc80acfffb195e9bb6b137a95	not-for-merge	tag 'android-4.1_pre2' of https://android.googlesource.com/platform/external/libusb
+0a1be67d404527366417893d8aee6edbc94be087	not-for-merge	tag 'android-4.2.1_r1' of https://android.googlesource.com/platform/external/libusb
+373cb050065159ca50e3265f3b73f433f9bae142	not-for-merge	tag 'android-4.2.1_r1.1' of https://android.googlesource.com/platform/external/libusb
+32cf4f976b90990cf5c72e56297b9f169f1fcb20	not-for-merge	tag 'android-4.2.1_r1.2' of https://android.googlesource.com/platform/external/libusb
+8e3c627bfba865d58e2fb29ad20b17ac84991fc3	not-for-merge	tag 'android-4.2.2_r1' of https://android.googlesource.com/platform/external/libusb
+fdeaef433cabfa58fdbf6ace9029a0d5e1c572c4	not-for-merge	tag 'android-4.2.2_r1.1' of https://android.googlesource.com/platform/external/libusb
+433b7f4b83cc2500b60d8ddee55e709c7f2f8634	not-for-merge	tag 'android-4.2.2_r1.2' of https://android.googlesource.com/platform/external/libusb
+5cb1234dd66b5a5c2970aa10e40284565678ca32	not-for-merge	tag 'android-4.2_pre1' of https://android.googlesource.com/platform/external/libusb
+eaaa7f46eb5b6856b7cb767f9c5bfd34863c66a1	not-for-merge	tag 'android-4.2_pre1.1' of https://android.googlesource.com/platform/external/libusb
+79021df6844e009fa58cf5b46a18142f35528a06	not-for-merge	tag 'android-4.2_pre2' of https://android.googlesource.com/platform/external/libusb
+da549dc5777e305dddeae9a284761e0eef14106f	not-for-merge	tag 'android-4.2_pre2.1' of https://android.googlesource.com/platform/external/libusb
+7b94c1c7b5e1b78bb152868ead16ff1e63ad23be	not-for-merge	tag 'android-4.2_pre2.2' of https://android.googlesource.com/platform/external/libusb
+17e31117043eecd15675d99f74b1445617fa4f34	not-for-merge	tag 'android-4.2_pre3' of https://android.googlesource.com/platform/external/libusb
+19be21dc08f8c52a3eaf8b65e10bc34682bc7673	not-for-merge	tag 'android-4.2_r1' of https://android.googlesource.com/platform/external/libusb
+347cc2d9a497d25e92c02295a90253a9506f70b9	not-for-merge	tag 'android-4.3.1_r1' of https://android.googlesource.com/platform/external/libusb
+168a484340b19fd96213bacf840f4a88b5d74b9a	not-for-merge	tag 'android-4.3_r0.9' of https://android.googlesource.com/platform/external/libusb
+edfaf2e281324f39eca065a4a9a35daade8e154f	not-for-merge	tag 'android-4.3_r0.9.1' of https://android.googlesource.com/platform/external/libusb
+d011a3b21661c5695753be5c2621b0e4b952f597	not-for-merge	tag 'android-4.3_r1' of https://android.googlesource.com/platform/external/libusb
+4be2dcefb66def98c8403186b556d16d52de87c8	not-for-merge	tag 'android-4.3_r1.1' of https://android.googlesource.com/platform/external/libusb
+b7f3e3e9ac2de303b823d6781756e6e55ea934a1	not-for-merge	tag 'android-4.3_r2' of https://android.googlesource.com/platform/external/libusb
+8af101400afdae37f58d1aa84dadb27d0ccb1daf	not-for-merge	tag 'android-4.3_r2.1' of https://android.googlesource.com/platform/external/libusb
+81f9ae818282c49376efa404ff0ebd229ae0df78	not-for-merge	tag 'android-4.3_r2.2' of https://android.googlesource.com/platform/external/libusb
+190a9c80e11f3c3c1753e9bbc28375651d709e8d	not-for-merge	tag 'android-4.3_r2.3' of https://android.googlesource.com/platform/external/libusb
+2abcea741f0fe6326a7a49f88cdecf98061123d7	not-for-merge	tag 'android-4.3_r3' of https://android.googlesource.com/platform/external/libusb
+29bffed638736c7f6b1f0f476d8574ca92d5539f	not-for-merge	tag 'android-4.3_r3.1' of https://android.googlesource.com/platform/external/libusb
+84d6a1955bcebdffdca7d9f42d53eca2b76ea0fc	not-for-merge	tag 'android-4.4.1_r1' of https://android.googlesource.com/platform/external/libusb
+95e6215f72fe22d3e8c106ae181074e119fa7676	not-for-merge	tag 'android-4.4.1_r1.0.1' of https://android.googlesource.com/platform/external/libusb
+1e8b2976fec08df6be7c12c6b1ac3b1849678bbf	not-for-merge	tag 'android-4.4.2_r1' of https://android.googlesource.com/platform/external/libusb
+99fcc09113cd8b27a162d01408269e2ed5f300f3	not-for-merge	tag 'android-4.4.2_r1.0.1' of https://android.googlesource.com/platform/external/libusb
+9d1c6ff92068df5a6b36ddf54c1aa3e82c105904	not-for-merge	tag 'android-4.4.2_r2' of https://android.googlesource.com/platform/external/libusb
+5ab8f3c2ed3b017c95d70308290c7f5ac22b2a33	not-for-merge	tag 'android-4.4.2_r2.0.1' of https://android.googlesource.com/platform/external/libusb
+73cf6fcbacc57779249a7c579ea2707dfa67b0e1	not-for-merge	tag 'android-4.4.3_r1' of https://android.googlesource.com/platform/external/libusb
+6907ae47c04fe6e5157dcc90e6c5719d7f3c277d	not-for-merge	tag 'android-4.4.3_r1.0.1' of https://android.googlesource.com/platform/external/libusb
+5084b0cebe65803866068225059168b271f3bdce	not-for-merge	tag 'android-4.4.3_r1.1' of https://android.googlesource.com/platform/external/libusb
+f7fefb666aadeab9fa6d7f1f629a5585941f4907	not-for-merge	tag 'android-4.4.3_r1.1.0.1' of https://android.googlesource.com/platform/external/libusb
+879f5344bc34e9e287ca68d01adb167252308c8f	not-for-merge	tag 'android-4.4.4_r1' of https://android.googlesource.com/platform/external/libusb
+79acca9df33e3259540c995498702b910579e06d	not-for-merge	tag 'android-4.4.4_r1.0.1' of https://android.googlesource.com/platform/external/libusb
+dd56022c5c13a505d4886b77324e17777e91bde4	not-for-merge	tag 'android-4.4.4_r2' of https://android.googlesource.com/platform/external/libusb
+c44f003663ab38a69d50c6e82f3da9f86a034750	not-for-merge	tag 'android-4.4.4_r2.0.1' of https://android.googlesource.com/platform/external/libusb
+2788b56c684b6ccf2b11ae2b442d12603511c0d9	not-for-merge	tag 'android-4.4_r0.7' of https://android.googlesource.com/platform/external/libusb
+18462a58dbc32206a16e1d95b1d6bdd3ea3261b2	not-for-merge	tag 'android-4.4_r0.8' of https://android.googlesource.com/platform/external/libusb
+153337ad5c6bb0d34776b9e20eb0dca81ec43195	not-for-merge	tag 'android-4.4_r0.9' of https://android.googlesource.com/platform/external/libusb
+ec27e8023612cc1a3c985ec9497a92ed63e8a17d	not-for-merge	tag 'android-4.4_r1' of https://android.googlesource.com/platform/external/libusb
+1eafef216a6ce69d5f84cc59396f7df268875957	not-for-merge	tag 'android-4.4_r1.0.1' of https://android.googlesource.com/platform/external/libusb
+f76a219e35f530e120c52d1c69c5d95d1a565ccf	not-for-merge	tag 'android-4.4_r1.1' of https://android.googlesource.com/platform/external/libusb
+b7d103ccb260267ede6bceafd8ad07b96cf361da	not-for-merge	tag 'android-4.4_r1.1.0.1' of https://android.googlesource.com/platform/external/libusb
+72220f3d2b2ad571f03e450e8c36b7ad43b5ae46	not-for-merge	tag 'android-4.4_r1.2' of https://android.googlesource.com/platform/external/libusb
+43edbb2a39a0e3c327e05f01e654eb0a9eb38310	not-for-merge	tag 'android-4.4_r1.2.0.1' of https://android.googlesource.com/platform/external/libusb
+b5f0c42ccbc8960547f1513f2f347458565ee426	not-for-merge	tag 'android-4.4w_r1' of https://android.googlesource.com/platform/external/libusb
+0007724a0d825f80bde6e1b277ab93ab8d5a4869	not-for-merge	tag 'android-5.0.0_r1' of https://android.googlesource.com/platform/external/libusb
+c2bdf8a7fd13372441147f81ba7bb66b2ba41847	not-for-merge	tag 'android-5.0.0_r2' of https://android.googlesource.com/platform/external/libusb
+1223417c6e42933a42f71d7069e99c00c95c58dd	not-for-merge	tag 'android-5.0.0_r3' of https://android.googlesource.com/platform/external/libusb
+72b85ff032fa816b2f3945b9aa0b5a3891776b66	not-for-merge	tag 'android-5.0.0_r4' of https://android.googlesource.com/platform/external/libusb
+073f0cbcc11f60b8521692087080cd4b9d2dc252	not-for-merge	tag 'android-5.0.0_r5' of https://android.googlesource.com/platform/external/libusb
+af44c924b67555a084b64cffe99a048ba8c66c08	not-for-merge	tag 'android-5.0.0_r5.1' of https://android.googlesource.com/platform/external/libusb
+b2b41d4073f263b55f9a0eef5d06f675c48b4267	not-for-merge	tag 'android-5.0.0_r6' of https://android.googlesource.com/platform/external/libusb
+e76dbffa59ec9f012990e3b763ad41fbbca3b430	not-for-merge	tag 'android-5.0.0_r7' of https://android.googlesource.com/platform/external/libusb
+a55c73fa26164a37a73348d531a23f20c9648bb4	not-for-merge	tag 'android-5.0.1_r1' of https://android.googlesource.com/platform/external/libusb
+47c8fb2192a9e3d51e850cd00acd1858add91515	not-for-merge	tag 'android-5.0.2_r1' of https://android.googlesource.com/platform/external/libusb
+bc660fb7f297f553437b0be7634cb72114c8e210	not-for-merge	tag 'android-5.0.2_r3' of https://android.googlesource.com/platform/external/libusb
+0e40baa51df085bbd437daa5a9b6725dad66b654	not-for-merge	tag 'android-5.1.0_r1' of https://android.googlesource.com/platform/external/libusb
+24b71b3e3100a34e267b5c6b3092d7a86558925b	not-for-merge	tag 'android-5.1.0_r3' of https://android.googlesource.com/platform/external/libusb
+590b8c109f0ffc4c26016c25b15e0a61a788f94d	not-for-merge	tag 'android-5.1.0_r5' of https://android.googlesource.com/platform/external/libusb
+b7f1da3b7c19ff4ac9d2a87a495e9b50fd894386	not-for-merge	tag 'android-5.1.1_r1' of https://android.googlesource.com/platform/external/libusb
+50bca43d989a992fa1fb9b69a1c3e705b58bc957	not-for-merge	tag 'android-5.1.1_r2' of https://android.googlesource.com/platform/external/libusb
+5df548b01518aeedfe4ee4584a0551f124e2d693	not-for-merge	tag 'android-cts-4.1_r1' of https://android.googlesource.com/platform/external/libusb
+b3444e566cb57f5e110b5b0b7d22af32284673e4	not-for-merge	tag 'android-cts-4.1_r2' of https://android.googlesource.com/platform/external/libusb
+d737148631ce386a12995bddae1695508596f683	not-for-merge	tag 'android-cts-4.1_r4' of https://android.googlesource.com/platform/external/libusb
+ffd738f9604ba1e7191d03e8709b4d3a5ef98714	not-for-merge	tag 'android-cts-4.2_r1' of https://android.googlesource.com/platform/external/libusb
+4b632d8fca33d298d62b96d4f372834ab8a5e12d	not-for-merge	tag 'android-cts-4.2_r2' of https://android.googlesource.com/platform/external/libusb
+56b3606f273b9de7e77b5fbdc7d04482a7ee5e67	not-for-merge	tag 'android-cts-4.4_r1' of https://android.googlesource.com/platform/external/libusb
+1018f8fecf42fdac64e52781cb59a15395a0234e	not-for-merge	tag 'android-cts-5.1_r1' of https://android.googlesource.com/platform/external/libusb
+3befcfdebabf92a125af3d0e0435ae90fc32f5a4	not-for-merge	tag 'android-l-preview_r2' of https://android.googlesource.com/platform/external/libusb
+887aa1df320bb718573b59aabd2d3b7b9f17b048	not-for-merge	tag 'android-sdk-4.4.2_r1' of https://android.googlesource.com/platform/external/libusb
+17adbc20cf30166a1630870c2616014b40753577	not-for-merge	tag 'android-sdk-4.4.2_r1.0.1' of https://android.googlesource.com/platform/external/libusb
+56f14fd893f54b26d8a9bf35e525e4ddc06d513d	not-for-merge	tag 'android-sdk-adt_r20' of https://android.googlesource.com/platform/external/libusb
+2fa0cdb2917ff7a3b2af70e7e938151916fed8b2	not-for-merge	tag 'android-sdk-support_r11' of https://android.googlesource.com/platform/external/libusb
+05f4c6b6356248cecacf5347d358cd1222b5b3c4	not-for-merge	tag 'android-wear-5.0.0_r1' of https://android.googlesource.com/platform/external/libusb

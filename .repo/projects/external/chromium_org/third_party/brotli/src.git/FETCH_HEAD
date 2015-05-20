@@ -1,0 +1,33 @@
+d15cb06af543ef57c7262877c3fea3cd9eb5a166		branch 'idea133-weekly-release' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+96f298ac43a9216b251d6c3264d8f5ada89e107f		branch 'l-preview' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+96f298ac43a9216b251d6c3264d8f5ada89e107f		branch 'lollipop-dev' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+96f298ac43a9216b251d6c3264d8f5ada89e107f		branch 'lollipop-mr1-dev' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+96f298ac43a9216b251d6c3264d8f5ada89e107f		branch 'lollipop-mr1-release' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+96f298ac43a9216b251d6c3264d8f5ada89e107f		branch 'lollipop-release' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+96f298ac43a9216b251d6c3264d8f5ada89e107f		branch 'lollipop-wear-release' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+63c1c7e94f0bdd23dd20c8cbf0475fdf3f27ab4b		branch 'master' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+63c1c7e94f0bdd23dd20c8cbf0475fdf3f27ab4b		branch 'master-soong' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+63c1c7e94f0bdd23dd20c8cbf0475fdf3f27ab4b		branch 'ub-webview-m40-release' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+5f1397700d677c7df8263ab6217464f82a2b1b23	not-for-merge	tag 'android-5.0.0_r1' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+ec711e88343d3a1956261435888088ed3e712de1	not-for-merge	tag 'android-5.0.0_r2' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+8b5a75608eeaeb4956e4fb4a782239a093bd4f1b	not-for-merge	tag 'android-5.0.0_r3' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+d99cd0512481564669f4024b7cb4ccb26840fbc6	not-for-merge	tag 'android-5.0.0_r4' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+3d2b0f772339802289216161e9257c5b1ec88e06	not-for-merge	tag 'android-5.0.0_r5' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+e1ee5decca13da66034e1e93ba4ec68efa724f68	not-for-merge	tag 'android-5.0.0_r5.1' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+637fb857e86125b0d1bf5518ae16d83c4e508ec1	not-for-merge	tag 'android-5.0.0_r6' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+498082a37a11c96948ebc1d74739430f0a4e967a	not-for-merge	tag 'android-5.0.0_r7' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+600278a08d91934ee3abafc378c23de451d20126	not-for-merge	tag 'android-5.0.1_r1' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+4a59996672789415585f86d6974b8c437d0f1754	not-for-merge	tag 'android-5.0.2_r1' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+3abb17305aa4f0bbb0f4aa8e1480fe801e51f9ef	not-for-merge	tag 'android-5.0.2_r3' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+cd0bf16690db5124bce8ab2b35c0b8c1a2e8b226	not-for-merge	tag 'android-5.1.0_r1' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+5ba3b623c4268ea2725bc5576b9f485164be7aea	not-for-merge	tag 'android-5.1.0_r3' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+3694a105102664179fbe75ff451560569f29aa7a	not-for-merge	tag 'android-5.1.0_r5' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+f5235be26da378f5967578e37379ba14d12cd62b	not-for-merge	tag 'android-5.1.1_r1' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+ad4646fbc5d7a284f29f1d7593badf718bf6f685	not-for-merge	tag 'android-5.1.1_r2' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+d37cddc0d5c4670962546f34b1cdc5864daaabcb	not-for-merge	tag 'android-cts-5.1_r1' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+3b77c5739dbbf568b89db168d1dd46ff0e945951	not-for-merge	tag 'android-l-preview_r2' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+da9a3420daa3a36c940cf67457c2ea15a3489112	not-for-merge	tag 'android-wear-5.0.0_r1' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+e702f2c7dbaa4924e6fc0fa71033d3e7b7dd7e29	not-for-merge	tag 'webview-m40_r1' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+a19162f81920178b26d31b1d87a20a0abf1827c5	not-for-merge	tag 'webview-m40_r2' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+31b21b4d7e8a4af9087b7806a9729b856cc0f3d4	not-for-merge	tag 'webview-m40_r3' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src
+012116703d2b8fd8eb7c47f8aef6f102b75d03eb	not-for-merge	tag 'webview-m40_r4' of https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src

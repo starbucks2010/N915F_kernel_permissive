@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 f98ecec320d95adbed2d224d42cf96d6a88f16f3 andrei <andrei@N915F-selnx-perm.(none)> 1432030127 +0300	fetch --progress /home/andrei/edge/kernel/.repo/projects/frameworks/volley.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head

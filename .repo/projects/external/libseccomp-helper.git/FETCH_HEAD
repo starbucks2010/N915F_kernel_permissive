@@ -1,0 +1,31 @@
+e87019943a8b5a7cd0880910f671c37b240d5754		branch 'idea133' of https://android.googlesource.com/platform/external/libseccomp-helper
+e87019943a8b5a7cd0880910f671c37b240d5754		branch 'idea133-weekly-release' of https://android.googlesource.com/platform/external/libseccomp-helper
+e87019943a8b5a7cd0880910f671c37b240d5754		branch 'kitkat-wear' of https://android.googlesource.com/platform/external/libseccomp-helper
+e87019943a8b5a7cd0880910f671c37b240d5754		branch 'l-preview' of https://android.googlesource.com/platform/external/libseccomp-helper
+e87019943a8b5a7cd0880910f671c37b240d5754		branch 'lollipop-dev' of https://android.googlesource.com/platform/external/libseccomp-helper
+e87019943a8b5a7cd0880910f671c37b240d5754		branch 'lollipop-mr1-dev' of https://android.googlesource.com/platform/external/libseccomp-helper
+e87019943a8b5a7cd0880910f671c37b240d5754		branch 'lollipop-mr1-release' of https://android.googlesource.com/platform/external/libseccomp-helper
+e87019943a8b5a7cd0880910f671c37b240d5754		branch 'lollipop-release' of https://android.googlesource.com/platform/external/libseccomp-helper
+e87019943a8b5a7cd0880910f671c37b240d5754		branch 'lollipop-wear-release' of https://android.googlesource.com/platform/external/libseccomp-helper
+e87019943a8b5a7cd0880910f671c37b240d5754		branch 'master' of https://android.googlesource.com/platform/external/libseccomp-helper
+e87019943a8b5a7cd0880910f671c37b240d5754		branch 'master-soong' of https://android.googlesource.com/platform/external/libseccomp-helper
+b9346562125ffc5fe4ce8a6b6724103a1e4f07c9	not-for-merge	tag 'android-4.4w_r1' of https://android.googlesource.com/platform/external/libseccomp-helper
+139b0332536616c2d706394f99a0ca4869d74c95	not-for-merge	tag 'android-5.0.0_r1' of https://android.googlesource.com/platform/external/libseccomp-helper
+3f7f18040fca09576a7b36da4ba3069776b75481	not-for-merge	tag 'android-5.0.0_r2' of https://android.googlesource.com/platform/external/libseccomp-helper
+98cf24b26482018ff4f15a5319943b0b3539bd23	not-for-merge	tag 'android-5.0.0_r3' of https://android.googlesource.com/platform/external/libseccomp-helper
+0f30dead64c000db72febc5da4646223f564d05e	not-for-merge	tag 'android-5.0.0_r4' of https://android.googlesource.com/platform/external/libseccomp-helper
+dd43572d0b9fb9d54768ea62c199c0694bbb22bd	not-for-merge	tag 'android-5.0.0_r5' of https://android.googlesource.com/platform/external/libseccomp-helper
+0a3100bd71186b28a993d161b92aeae2e9004966	not-for-merge	tag 'android-5.0.0_r5.1' of https://android.googlesource.com/platform/external/libseccomp-helper
+2750031bf52f4333cca057223f652f27e0aa663c	not-for-merge	tag 'android-5.0.0_r6' of https://android.googlesource.com/platform/external/libseccomp-helper
+6ecdde8724b430890c70842fe8851446c99f046d	not-for-merge	tag 'android-5.0.0_r7' of https://android.googlesource.com/platform/external/libseccomp-helper
+cf856dad3131cf19c9ccfde83ca44d8300c3b172	not-for-merge	tag 'android-5.0.1_r1' of https://android.googlesource.com/platform/external/libseccomp-helper
+d92586c8ea2efa461610e8ba357c6ef4c08ca201	not-for-merge	tag 'android-5.0.2_r1' of https://android.googlesource.com/platform/external/libseccomp-helper
+c75c999038db15b899185c5f6afac0a0d9351e35	not-for-merge	tag 'android-5.0.2_r3' of https://android.googlesource.com/platform/external/libseccomp-helper
+77a81c2632681348b4657550d575d4ee658390a0	not-for-merge	tag 'android-5.1.0_r1' of https://android.googlesource.com/platform/external/libseccomp-helper
+30b51c5fff32da21b9b21e50f8f640ebcf32adef	not-for-merge	tag 'android-5.1.0_r3' of https://android.googlesource.com/platform/external/libseccomp-helper
+c36b8b9b94df2762d6e75ddd09be6e698a4987b4	not-for-merge	tag 'android-5.1.0_r5' of https://android.googlesource.com/platform/external/libseccomp-helper
+c3d266e5682b6d5e5da2ff390149304cb0e14325	not-for-merge	tag 'android-5.1.1_r1' of https://android.googlesource.com/platform/external/libseccomp-helper
+cd2307f26aeb52352bd93bc5059033bd46cb2604	not-for-merge	tag 'android-5.1.1_r2' of https://android.googlesource.com/platform/external/libseccomp-helper
+151ec495dd10a78a0731fd6e8d2bd11329745ec3	not-for-merge	tag 'android-cts-5.1_r1' of https://android.googlesource.com/platform/external/libseccomp-helper
+d895b072f0e6da83c5479c04993a1e27d37e89c8	not-for-merge	tag 'android-l-preview_r2' of https://android.googlesource.com/platform/external/libseccomp-helper
+12736714be162cfe19936c03dd24c7401e511f61	not-for-merge	tag 'android-wear-5.0.0_r1' of https://android.googlesource.com/platform/external/libseccomp-helper

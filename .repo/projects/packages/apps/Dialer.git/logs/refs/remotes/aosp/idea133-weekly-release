@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 dc372cc7464e7869e6ca0caed6a81bd53e43a6e1 andrei <andrei@N915F-selnx-perm.(none)> 1432030111 +0300	fetch --progress /home/andrei/edge/kernel/.repo/projects/packages/apps/Dialer.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head

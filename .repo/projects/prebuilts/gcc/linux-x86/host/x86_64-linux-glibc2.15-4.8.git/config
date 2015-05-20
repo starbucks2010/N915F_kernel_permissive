@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+	review = https://android-review.googlesource.com/
+	projectname = platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+	fetch = +refs/heads/*:refs/remotes/aosp/*

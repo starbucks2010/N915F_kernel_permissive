@@ -1,0 +1,145 @@
+8fefcad0a43133781deac856047a0dc6f592b745		branch 'android-support-test' of https://android.googlesource.com/platform/external/doclava
+7ab64e63c47c4b13472f230d22265cd2cd50fef1		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/doclava
+7ab64e63c47c4b13472f230d22265cd2cd50fef1		branch 'ics-mr0' of https://android.googlesource.com/platform/external/doclava
+7ab64e63c47c4b13472f230d22265cd2cd50fef1		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/doclava
+5589ee9219d8b9c4a5af87de2346425a6faf74cb		branch 'ics-mr1' of https://android.googlesource.com/platform/external/doclava
+81b80b038d26b3b366eec7ab397191260ce7f067		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/doclava
+f0631ff39075e7da2fcae7b52c68a0ad3b0abfd1		branch 'ics-plus-aosp' of https://android.googlesource.com/platform/external/doclava
+5e48143876c73bfa9f84e7996005103d6a615e1f		branch 'idea133' of https://android.googlesource.com/platform/external/doclava
+5e48143876c73bfa9f84e7996005103d6a615e1f		branch 'idea133-weekly-release' of https://android.googlesource.com/platform/external/doclava
+3c925b473212325cbf5f734cb5d1d57588ea83e3		branch 'jb-dev' of https://android.googlesource.com/platform/external/doclava
+3c925b473212325cbf5f734cb5d1d57588ea83e3		branch 'jb-mr0-release' of https://android.googlesource.com/platform/external/doclava
+e65daec66ebdf02baa00c0ee403321fa304f7ad5		branch 'jb-mr1-dev' of https://android.googlesource.com/platform/external/doclava
+c60a46c6e4921a6d2f4a0cb6a170ce39ffd5947c		branch 'jb-mr1-dev-plus-aosp' of https://android.googlesource.com/platform/external/doclava
+c60a46c6e4921a6d2f4a0cb6a170ce39ffd5947c		branch 'jb-mr1-release' of https://android.googlesource.com/platform/external/doclava
+68a238ae4243e6f0f2a370b8b915ef0686ca0b37		branch 'jb-mr1.1-dev' of https://android.googlesource.com/platform/external/doclava
+736095934f50fede95f2cb1bb54cc24493c6e69a		branch 'jb-mr1.1-dev-plus-aosp' of https://android.googlesource.com/platform/external/doclava
+a75af37150ebca7cdca4869b72948ae0ac5abfc3		branch 'jb-mr1.1-release' of https://android.googlesource.com/platform/external/doclava
+7791802d9b43c2067b566bf81667096ed91decb8		branch 'jb-mr2-dev' of https://android.googlesource.com/platform/external/doclava
+7791802d9b43c2067b566bf81667096ed91decb8		branch 'jb-mr2-release' of https://android.googlesource.com/platform/external/doclava
+7791802d9b43c2067b566bf81667096ed91decb8		branch 'jb-mr2.0-release' of https://android.googlesource.com/platform/external/doclava
+7791802d9b43c2067b566bf81667096ed91decb8		branch 'jb-mr2.0.0-release' of https://android.googlesource.com/platform/external/doclava
+3c925b473212325cbf5f734cb5d1d57588ea83e3		branch 'jb-release' of https://android.googlesource.com/platform/external/doclava
+a6ec6136304ef314e1f994c0edd1bfaeef6dbb44		branch 'kitkat-cts-dev' of https://android.googlesource.com/platform/external/doclava
+d9f572f57a02aa58839469d7e79fc2af64819ce2		branch 'kitkat-dev' of https://android.googlesource.com/platform/external/doclava
+d9f572f57a02aa58839469d7e79fc2af64819ce2		branch 'kitkat-mr1-release' of https://android.googlesource.com/platform/external/doclava
+d9f572f57a02aa58839469d7e79fc2af64819ce2		branch 'kitkat-mr1.1-release' of https://android.googlesource.com/platform/external/doclava
+d9f572f57a02aa58839469d7e79fc2af64819ce2		branch 'kitkat-mr2-release' of https://android.googlesource.com/platform/external/doclava
+d9f572f57a02aa58839469d7e79fc2af64819ce2		branch 'kitkat-mr2.1-release' of https://android.googlesource.com/platform/external/doclava
+d9f572f57a02aa58839469d7e79fc2af64819ce2		branch 'kitkat-mr2.2-release' of https://android.googlesource.com/platform/external/doclava
+8bdc633e4747daed2c3d016d3baa35b76dc05ad4		branch 'kitkat-release' of https://android.googlesource.com/platform/external/doclava
+d9f572f57a02aa58839469d7e79fc2af64819ce2		branch 'kitkat-wear' of https://android.googlesource.com/platform/external/doclava
+b9d279d8f9c29a3044d13482846efb21f27b5df4		branch 'l-preview' of https://android.googlesource.com/platform/external/doclava
+9ee73fde5ad41d815ddfdc4e058cc5e49c81fe51		branch 'lollipop-dev' of https://android.googlesource.com/platform/external/doclava
+5624eba1aeb5c28b4d13f324f0eb6eccd6afd1cd		branch 'lollipop-mr1-dev' of https://android.googlesource.com/platform/external/doclava
+07f1dae3b9a9d8222ffa18e2d878c27c01c6268f		branch 'lollipop-mr1-release' of https://android.googlesource.com/platform/external/doclava
+9b18a2a50ad71ce25648553c6471858f6b359f1d		branch 'lollipop-release' of https://android.googlesource.com/platform/external/doclava
+8566f2d5a4aebe02c2324b40b29d351113cd976a		branch 'lollipop-wear-release' of https://android.googlesource.com/platform/external/doclava
+8a613fb4a68bcc33490a89646f2a346e5b798875		branch 'master' of https://android.googlesource.com/platform/external/doclava
+8a613fb4a68bcc33490a89646f2a346e5b798875		branch 'master-soong' of https://android.googlesource.com/platform/external/doclava
+f0631ff39075e7da2fcae7b52c68a0ad3b0abfd1		branch 'tools_r20' of https://android.googlesource.com/platform/external/doclava
+3c925b473212325cbf5f734cb5d1d57588ea83e3		branch 'tools_r21' of https://android.googlesource.com/platform/external/doclava
+a75af37150ebca7cdca4869b72948ae0ac5abfc3		branch 'tools_r22' of https://android.googlesource.com/platform/external/doclava
+864c6b3a9873601593ad12a656de938ac37c7240		branch 'tools_r22.2' of https://android.googlesource.com/platform/external/doclava
+04900f6937f201b897dc21a7aadac7be6a565e0e	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/doclava
+2d6984934fd7358b05d2b1b6b7b2229040b1c66f	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/doclava
+da664c212e8742814e2a899b6da79efb50713f0d	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/doclava
+c35e2f6fb36840cf9dbb56bc305197da30ea37c1	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/doclava
+6148ab98bbef7183a404ae33fd4f37d43061465e	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/doclava
+d74f29a821cf0e653eb29400d40a637f73a9bba3	not-for-merge	tag 'android-4.0.3_r1.1' of https://android.googlesource.com/platform/external/doclava
+be2f8d025e465a6050ad0a246a007e857d569600	not-for-merge	tag 'android-4.0.4_r1' of https://android.googlesource.com/platform/external/doclava
+a881b949deccb2e18a9896a7c1d66388bc1cf340	not-for-merge	tag 'android-4.0.4_r1.1' of https://android.googlesource.com/platform/external/doclava
+39cc3adc115d17024dd6753a74b12b93061c02e8	not-for-merge	tag 'android-4.0.4_r1.2' of https://android.googlesource.com/platform/external/doclava
+42c47fb44f51d6e0065aeac2f4216298f76afa89	not-for-merge	tag 'android-4.0.4_r2' of https://android.googlesource.com/platform/external/doclava
+5112a34e5b6ef722cebbdadd97286abd001d1368	not-for-merge	tag 'android-4.0.4_r2.1' of https://android.googlesource.com/platform/external/doclava
+a6367f7fbd43f6e1b3261b9ce050a26e9a015b59	not-for-merge	tag 'android-4.1.1_r1' of https://android.googlesource.com/platform/external/doclava
+9ca10cf0b31025de89662d7299bd8e035bd52170	not-for-merge	tag 'android-4.1.1_r1.1' of https://android.googlesource.com/platform/external/doclava
+fbcd23a82255eec27fa5049724e6bcd3e3f4b0e3	not-for-merge	tag 'android-4.1.1_r2' of https://android.googlesource.com/platform/external/doclava
+27d8049576a57c47290a14df1cc17fa3ae0b24a1	not-for-merge	tag 'android-4.1.1_r3' of https://android.googlesource.com/platform/external/doclava
+464e09e24afdc04f5a1402ac0f6fbfe8e630cf2d	not-for-merge	tag 'android-4.1.1_r4' of https://android.googlesource.com/platform/external/doclava
+b4ea555f537b65d12f8a1d303fa0cd699e72b0e3	not-for-merge	tag 'android-4.1.1_r5' of https://android.googlesource.com/platform/external/doclava
+e4c5b0fe2422048723b44c89c5d9ca820c6f5d4b	not-for-merge	tag 'android-4.1.1_r6' of https://android.googlesource.com/platform/external/doclava
+aa7be26eac2b4984b701f36bf6f8dd2088806ed8	not-for-merge	tag 'android-4.1.1_r6.1' of https://android.googlesource.com/platform/external/doclava
+7744c51509de7edd192f231aa2a11e08e81c4b63	not-for-merge	tag 'android-4.1.2_r1' of https://android.googlesource.com/platform/external/doclava
+27e3c840a483f5fde5466f565a06f8e95493b735	not-for-merge	tag 'android-4.1.2_r2' of https://android.googlesource.com/platform/external/doclava
+f6c2da752090472b86babe112b321bd9205c3231	not-for-merge	tag 'android-4.1.2_r2.1' of https://android.googlesource.com/platform/external/doclava
+8ee057b9276987830c7098a2ad525b3be0965fff	not-for-merge	tag 'android-4.2.1_r1' of https://android.googlesource.com/platform/external/doclava
+e5d5eda28c5dddd9ed18a3ca13733f947227b669	not-for-merge	tag 'android-4.2.1_r1.1' of https://android.googlesource.com/platform/external/doclava
+9552f60e5b76b568ec25b2c98c3cc0ca88401102	not-for-merge	tag 'android-4.2.1_r1.2' of https://android.googlesource.com/platform/external/doclava
+1269cedd9dffb6cff7ac17453873cc0ffbf9c62e	not-for-merge	tag 'android-4.2.2_r1' of https://android.googlesource.com/platform/external/doclava
+53c4b1ecbe3a85ba85494f8925aeeb3dfb262a3f	not-for-merge	tag 'android-4.2.2_r1.1' of https://android.googlesource.com/platform/external/doclava
+4d48e5c9cd75c5b230acc94d486df61637995991	not-for-merge	tag 'android-4.2.2_r1.2' of https://android.googlesource.com/platform/external/doclava
+e7faa898a4e62b873ee3f37db1ac17a3261aa913	not-for-merge	tag 'android-4.2_r1' of https://android.googlesource.com/platform/external/doclava
+22777cdd48add233687cfacf52bb8a27b7c863d8	not-for-merge	tag 'android-4.3.1_r1' of https://android.googlesource.com/platform/external/doclava
+3161aeec9aa4786074851a993bf2f0d636a56975	not-for-merge	tag 'android-4.3_r0.9' of https://android.googlesource.com/platform/external/doclava
+07adfa705221c5d8f44b15f43c89c2135067fcc4	not-for-merge	tag 'android-4.3_r0.9.1' of https://android.googlesource.com/platform/external/doclava
+262b8d020aa0a4bc51a6bc5d8fec6ff748a33ecd	not-for-merge	tag 'android-4.3_r1' of https://android.googlesource.com/platform/external/doclava
+f910799d989358c6470673e40177c2b97006efc9	not-for-merge	tag 'android-4.3_r1.1' of https://android.googlesource.com/platform/external/doclava
+d2177a0923739d748a077f57bf86450a5a3ac426	not-for-merge	tag 'android-4.3_r2' of https://android.googlesource.com/platform/external/doclava
+66ce5413ed97191b6ec06fa85722a26e45e40b3a	not-for-merge	tag 'android-4.3_r2.1' of https://android.googlesource.com/platform/external/doclava
+f1d6f0d08f81a5e0e4e4243731c6cd214d9e4e36	not-for-merge	tag 'android-4.3_r2.2' of https://android.googlesource.com/platform/external/doclava
+a4fe7f1196c7b8a0e12c4c8a8ae28d9663d48f4f	not-for-merge	tag 'android-4.3_r2.3' of https://android.googlesource.com/platform/external/doclava
+a9b2edc7195fcbab9dabee4c99f8c94d643fa17b	not-for-merge	tag 'android-4.3_r3' of https://android.googlesource.com/platform/external/doclava
+601cd488e2eec0364ac2cdce38a92cdbcaed1d43	not-for-merge	tag 'android-4.3_r3.1' of https://android.googlesource.com/platform/external/doclava
+807009fa8dbbd0deecb6d4b7ccbd9bdce1894108	not-for-merge	tag 'android-4.4.1_r1' of https://android.googlesource.com/platform/external/doclava
+65b737a832b25a4b6265a30b3a0bca8398e8e84f	not-for-merge	tag 'android-4.4.1_r1.0.1' of https://android.googlesource.com/platform/external/doclava
+3ba75653076cb6af36ba19a01f39bb5a8ddcdf1c	not-for-merge	tag 'android-4.4.2_r1' of https://android.googlesource.com/platform/external/doclava
+f986e39fd2487b19a8d0a767607b4cb2e79f7b50	not-for-merge	tag 'android-4.4.2_r1.0.1' of https://android.googlesource.com/platform/external/doclava
+681b04ebac01cc366a034da8fae688c4570d4899	not-for-merge	tag 'android-4.4.2_r2' of https://android.googlesource.com/platform/external/doclava
+0ac28bb5babaa2222f3072e3c0f536639f5f2fdc	not-for-merge	tag 'android-4.4.2_r2.0.1' of https://android.googlesource.com/platform/external/doclava
+5776a70b4d8350ed9762f6785228bab8dad88295	not-for-merge	tag 'android-4.4.3_r1' of https://android.googlesource.com/platform/external/doclava
+d6e144fde6f62415ce4a42d9b47a685badd8d8ba	not-for-merge	tag 'android-4.4.3_r1.0.1' of https://android.googlesource.com/platform/external/doclava
+0b65ae6e626dc0505883c3ff536298174f386d90	not-for-merge	tag 'android-4.4.3_r1.1' of https://android.googlesource.com/platform/external/doclava
+3c70734d1e9e25640fe9c78c85b2ff1d25f48f0a	not-for-merge	tag 'android-4.4.3_r1.1.0.1' of https://android.googlesource.com/platform/external/doclava
+50de5f50c71ea2b6d92eb02d270488cb4900ae29	not-for-merge	tag 'android-4.4.4_r1' of https://android.googlesource.com/platform/external/doclava
+ec8e82d08a026cb9ebbbbfc3872c82111f7b645c	not-for-merge	tag 'android-4.4.4_r1.0.1' of https://android.googlesource.com/platform/external/doclava
+4bb3fe1597343571ceb8f2ec2686b354df6f77c9	not-for-merge	tag 'android-4.4.4_r2' of https://android.googlesource.com/platform/external/doclava
+c7e11b7a2f2a8ecd00ba5d3d6bfe99a145770964	not-for-merge	tag 'android-4.4.4_r2.0.1' of https://android.googlesource.com/platform/external/doclava
+be5de8a11819a4f8ba244335d504f512231ee7aa	not-for-merge	tag 'android-4.4_r0.7' of https://android.googlesource.com/platform/external/doclava
+e0a93cd99652aebe88c5cceadd08ffc670a40cf6	not-for-merge	tag 'android-4.4_r0.8' of https://android.googlesource.com/platform/external/doclava
+45b0f060a452249eddb8be053105573f1ed9d8d3	not-for-merge	tag 'android-4.4_r0.9' of https://android.googlesource.com/platform/external/doclava
+9af1ec1adbec51f6c6ea8ad6bb82190b46afe2ce	not-for-merge	tag 'android-4.4_r1' of https://android.googlesource.com/platform/external/doclava
+ec30647a6efefb3930a9c621a88524d4efd9ec4f	not-for-merge	tag 'android-4.4_r1.0.1' of https://android.googlesource.com/platform/external/doclava
+c1b72d7b71491cd73ee67260a11dea697079a47a	not-for-merge	tag 'android-4.4_r1.1' of https://android.googlesource.com/platform/external/doclava
+5726e730775efca3f36cb518d7d39cc49ff0ca7e	not-for-merge	tag 'android-4.4_r1.1.0.1' of https://android.googlesource.com/platform/external/doclava
+13e4dd1b3fbb32b15f5c330141e2d0585ff7f107	not-for-merge	tag 'android-4.4_r1.2' of https://android.googlesource.com/platform/external/doclava
+4cc17ddd855ad8946f69a89bbd1a45be68025192	not-for-merge	tag 'android-4.4_r1.2.0.1' of https://android.googlesource.com/platform/external/doclava
+7e414ce43c12b116ebda58d6feb47e44afa40f59	not-for-merge	tag 'android-4.4w_r1' of https://android.googlesource.com/platform/external/doclava
+8de29eca731918b70937bf9097824f406db09ed8	not-for-merge	tag 'android-5.0.0_r1' of https://android.googlesource.com/platform/external/doclava
+b3f89f7dd4e07b06c1ead841bbe57ddd580bb74c	not-for-merge	tag 'android-5.0.0_r2' of https://android.googlesource.com/platform/external/doclava
+a8f5f3f01967e806e61d7fcb44579dd97b1c28a0	not-for-merge	tag 'android-5.0.0_r3' of https://android.googlesource.com/platform/external/doclava
+bd97164a90ca604a12aa0cc531aa2c98f85f30d6	not-for-merge	tag 'android-5.0.0_r4' of https://android.googlesource.com/platform/external/doclava
+fc81793abc64c578213915e9dd7aea89aa0c8ac0	not-for-merge	tag 'android-5.0.0_r5' of https://android.googlesource.com/platform/external/doclava
+fcaa246a5f5f2bf3288e34473af77f693c0856b4	not-for-merge	tag 'android-5.0.0_r5.1' of https://android.googlesource.com/platform/external/doclava
+92c7b29bec329d98fe78be63897fafa9562d07e7	not-for-merge	tag 'android-5.0.0_r6' of https://android.googlesource.com/platform/external/doclava
+04abc55e6898fbf26dc8f1d08b175b0a63dae1d5	not-for-merge	tag 'android-5.0.0_r7' of https://android.googlesource.com/platform/external/doclava
+24cc8299857fdd143f96f5442f29c71411765a76	not-for-merge	tag 'android-5.0.1_r1' of https://android.googlesource.com/platform/external/doclava
+547d867a175dede8f4ba824c131615d11300a88b	not-for-merge	tag 'android-5.0.2_r1' of https://android.googlesource.com/platform/external/doclava
+559252c1e0ca45ff3e2dfde5fde1962c37ffc915	not-for-merge	tag 'android-5.0.2_r3' of https://android.googlesource.com/platform/external/doclava
+370a22c35289d11f9d99f6a638cc7cc6b07aee62	not-for-merge	tag 'android-5.1.0_r1' of https://android.googlesource.com/platform/external/doclava
+e7445218e8e7a5b9427df070f33918c28e7a3174	not-for-merge	tag 'android-5.1.0_r3' of https://android.googlesource.com/platform/external/doclava
+a44e4dce9673aa32295bd3f0fe683a542fd53b3a	not-for-merge	tag 'android-5.1.0_r5' of https://android.googlesource.com/platform/external/doclava
+7617fc160232b34f876f2fa427545d693b1d86bd	not-for-merge	tag 'android-5.1.1_r1' of https://android.googlesource.com/platform/external/doclava
+1bd834e892945a65cff3404ae873fe1634d6e4c5	not-for-merge	tag 'android-5.1.1_r2' of https://android.googlesource.com/platform/external/doclava
+cae53e1cc8ae7071d5244287ee652204cb8a1f94	not-for-merge	tag 'android-cts-4.0.3_r1' of https://android.googlesource.com/platform/external/doclava
+8571cb6dbeaa3d83ca701876b6dd2fb4184f033e	not-for-merge	tag 'android-cts-4.0.3_r2' of https://android.googlesource.com/platform/external/doclava
+2d7fbbc5122e2178fc9453fdd56ad27a6e99d149	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/doclava
+18a3e874eacc279458112fe113e855e7267270bc	not-for-merge	tag 'android-cts-4.1_r1' of https://android.googlesource.com/platform/external/doclava
+cc02c7b39953025ed51cc7542f6404a32100121a	not-for-merge	tag 'android-cts-4.1_r2' of https://android.googlesource.com/platform/external/doclava
+17e967237a2f3c356efa64331bb338c40a751152	not-for-merge	tag 'android-cts-4.1_r4' of https://android.googlesource.com/platform/external/doclava
+0b31b134404d9d45870956fd2c2e30e748dd406c	not-for-merge	tag 'android-cts-4.2_r1' of https://android.googlesource.com/platform/external/doclava
+d1f8fc3830e167566cdd0587c862d4dbcef65811	not-for-merge	tag 'android-cts-4.2_r2' of https://android.googlesource.com/platform/external/doclava
+4ae292d81a4d0ba429ba3e1c3a85ac63aaeecfdf	not-for-merge	tag 'android-cts-4.4_r1' of https://android.googlesource.com/platform/external/doclava
+2ef2ee2a7da2d51a7b87999c81614cbe4ecdb849	not-for-merge	tag 'android-cts-5.1_r1' of https://android.googlesource.com/platform/external/doclava
+1404aa6862aa099fee03fabc8e0b9dc51a20a6e2	not-for-merge	tag 'android-cts-verifier-4.0.3_r1' of https://android.googlesource.com/platform/external/doclava
+1373afa9382784ff00d00959b15cd5f939b3e637	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/doclava
+8ec6d0c5e74026696678a1670fec19b2b73f9013	not-for-merge	tag 'android-l-preview_r2' of https://android.googlesource.com/platform/external/doclava
+75443f887797d7110e5d166d37fba9bf24488706	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/doclava
+9ffd6bce93c2b099200661e79848a02d8bd85569	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/doclava
+d74fcf08e1967bae74e17dc1ff425980e2ad0b59	not-for-merge	tag 'android-sdk-4.4.2_r1' of https://android.googlesource.com/platform/external/doclava
+bf9f5538006e8e280be7912060e8298a94e0dfea	not-for-merge	tag 'android-sdk-4.4.2_r1.0.1' of https://android.googlesource.com/platform/external/doclava
+e6030157bb360f287f834d6428316317b087cffb	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/doclava
+a7661be0940e6b2c9fb0531d26060318eb4a7434	not-for-merge	tag 'android-sdk-adt_r20' of https://android.googlesource.com/platform/external/doclava
+bbb64229cd608a3c0e45e3865a8cd16ef14f8ee0	not-for-merge	tag 'android-sdk-support_r11' of https://android.googlesource.com/platform/external/doclava
+1346ed38deb5708ca4e01deda0ca1ac562aa4882	not-for-merge	tag 'android-tsl-2.0' of https://android.googlesource.com/platform/external/doclava
+95d3322d047e983f8781c6f15b3ece9780f46211	not-for-merge	tag 'android-wear-5.0.0_r1' of https://android.googlesource.com/platform/external/doclava

@@ -1,0 +1,143 @@
+4b6dc1ec58105d17dc8c2f550124cc0621dc93b7		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/webrtc
+4b6dc1ec58105d17dc8c2f550124cc0621dc93b7		branch 'ics-mr0' of https://android.googlesource.com/platform/external/webrtc
+4b6dc1ec58105d17dc8c2f550124cc0621dc93b7		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/webrtc
+4b6dc1ec58105d17dc8c2f550124cc0621dc93b7		branch 'ics-mr1' of https://android.googlesource.com/platform/external/webrtc
+4b6dc1ec58105d17dc8c2f550124cc0621dc93b7		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/webrtc
+4b6dc1ec58105d17dc8c2f550124cc0621dc93b7		branch 'ics-plus-aosp' of https://android.googlesource.com/platform/external/webrtc
+ef0a049f46480de9b1875ce415bcec6808dafa1f		branch 'idea133' of https://android.googlesource.com/platform/external/webrtc
+d62aeac391d16d4953a12120c0ff614ccde02a30		branch 'idea133-weekly-release' of https://android.googlesource.com/platform/external/webrtc
+5870e071aabfbde0d570142acf440ab4dca97e04		branch 'jb-dev' of https://android.googlesource.com/platform/external/webrtc
+5870e071aabfbde0d570142acf440ab4dca97e04		branch 'jb-mr0-release' of https://android.googlesource.com/platform/external/webrtc
+cf20dbf9d2547baa8a0fb631f282109e7a58a6cc		branch 'jb-mr1-dev' of https://android.googlesource.com/platform/external/webrtc
+cf20dbf9d2547baa8a0fb631f282109e7a58a6cc		branch 'jb-mr1-dev-plus-aosp' of https://android.googlesource.com/platform/external/webrtc
+cf20dbf9d2547baa8a0fb631f282109e7a58a6cc		branch 'jb-mr1-release' of https://android.googlesource.com/platform/external/webrtc
+cf20dbf9d2547baa8a0fb631f282109e7a58a6cc		branch 'jb-mr1.1-dev' of https://android.googlesource.com/platform/external/webrtc
+cf20dbf9d2547baa8a0fb631f282109e7a58a6cc		branch 'jb-mr1.1-dev-plus-aosp' of https://android.googlesource.com/platform/external/webrtc
+cf20dbf9d2547baa8a0fb631f282109e7a58a6cc		branch 'jb-mr1.1-release' of https://android.googlesource.com/platform/external/webrtc
+446452f84e9cc4c75d8e80f6f05e24793397a19d		branch 'jb-mr2-dev' of https://android.googlesource.com/platform/external/webrtc
+446452f84e9cc4c75d8e80f6f05e24793397a19d		branch 'jb-mr2-release' of https://android.googlesource.com/platform/external/webrtc
+446452f84e9cc4c75d8e80f6f05e24793397a19d		branch 'jb-mr2.0-release' of https://android.googlesource.com/platform/external/webrtc
+446452f84e9cc4c75d8e80f6f05e24793397a19d		branch 'jb-mr2.0.0-release' of https://android.googlesource.com/platform/external/webrtc
+5870e071aabfbde0d570142acf440ab4dca97e04		branch 'jb-release' of https://android.googlesource.com/platform/external/webrtc
+446452f84e9cc4c75d8e80f6f05e24793397a19d		branch 'kitkat-cts-dev' of https://android.googlesource.com/platform/external/webrtc
+446452f84e9cc4c75d8e80f6f05e24793397a19d		branch 'kitkat-dev' of https://android.googlesource.com/platform/external/webrtc
+446452f84e9cc4c75d8e80f6f05e24793397a19d		branch 'kitkat-mr1-release' of https://android.googlesource.com/platform/external/webrtc
+446452f84e9cc4c75d8e80f6f05e24793397a19d		branch 'kitkat-mr1.1-release' of https://android.googlesource.com/platform/external/webrtc
+446452f84e9cc4c75d8e80f6f05e24793397a19d		branch 'kitkat-mr2-release' of https://android.googlesource.com/platform/external/webrtc
+446452f84e9cc4c75d8e80f6f05e24793397a19d		branch 'kitkat-mr2.1-release' of https://android.googlesource.com/platform/external/webrtc
+446452f84e9cc4c75d8e80f6f05e24793397a19d		branch 'kitkat-mr2.2-release' of https://android.googlesource.com/platform/external/webrtc
+446452f84e9cc4c75d8e80f6f05e24793397a19d		branch 'kitkat-release' of https://android.googlesource.com/platform/external/webrtc
+446452f84e9cc4c75d8e80f6f05e24793397a19d		branch 'kitkat-wear' of https://android.googlesource.com/platform/external/webrtc
+8fd3f61c995481e581d45719458ddc237fe35f83		branch 'l-preview' of https://android.googlesource.com/platform/external/webrtc
+96907bb2db8383d06970a5d23163bfcbc50f8089		branch 'lollipop-dev' of https://android.googlesource.com/platform/external/webrtc
+96907bb2db8383d06970a5d23163bfcbc50f8089		branch 'lollipop-mr1-dev' of https://android.googlesource.com/platform/external/webrtc
+96907bb2db8383d06970a5d23163bfcbc50f8089		branch 'lollipop-mr1-release' of https://android.googlesource.com/platform/external/webrtc
+96907bb2db8383d06970a5d23163bfcbc50f8089		branch 'lollipop-release' of https://android.googlesource.com/platform/external/webrtc
+a8b6bbfff655d53ed7b1ce794708123c296e21cc		branch 'lollipop-wear-release' of https://android.googlesource.com/platform/external/webrtc
+c7d448429fa264787d231d20bb1d8e2e273e852b		branch 'master' of https://android.googlesource.com/platform/external/webrtc
+c7d448429fa264787d231d20bb1d8e2e273e852b		branch 'master-soong' of https://android.googlesource.com/platform/external/webrtc
+4b6dc1ec58105d17dc8c2f550124cc0621dc93b7		branch 'tools_r20' of https://android.googlesource.com/platform/external/webrtc
+cf20dbf9d2547baa8a0fb631f282109e7a58a6cc		branch 'tools_r21' of https://android.googlesource.com/platform/external/webrtc
+cf20dbf9d2547baa8a0fb631f282109e7a58a6cc		branch 'tools_r22' of https://android.googlesource.com/platform/external/webrtc
+446452f84e9cc4c75d8e80f6f05e24793397a19d		branch 'tools_r22.2' of https://android.googlesource.com/platform/external/webrtc
+58c14b1e16e2758886d1291371c0e2f40bc3e01f	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/webrtc
+6a7c2520135cf1931bc33d13ee8ebea58252e560	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/webrtc
+c943cba166851412ed16f6dc796a74fdd8d79048	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/webrtc
+a140d9d41a45f6ec64865d00d60fc3d1d2b6e73e	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/webrtc
+257f1ed0765377f7b69a17646cb93c758df61cf4	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/webrtc
+562b70fbe58148f562cd2971ad6bc2a9a3f670d2	not-for-merge	tag 'android-4.0.3_r1.1' of https://android.googlesource.com/platform/external/webrtc
+1b5426431c64eba29b737c5f8d8a01642215caf8	not-for-merge	tag 'android-4.0.4_r1' of https://android.googlesource.com/platform/external/webrtc
+5a8fb80d296e3182801a53d0c1c239e93068e925	not-for-merge	tag 'android-4.0.4_r1.1' of https://android.googlesource.com/platform/external/webrtc
+32386e636e0e9bf10101bad68de6e21fb99ea8d3	not-for-merge	tag 'android-4.0.4_r1.2' of https://android.googlesource.com/platform/external/webrtc
+2b68eee6dbef9a78e98a8f152bc2568dacda43d8	not-for-merge	tag 'android-4.0.4_r2' of https://android.googlesource.com/platform/external/webrtc
+117f1940fa0f4529783bdefe5bf3ac255e707ace	not-for-merge	tag 'android-4.0.4_r2.1' of https://android.googlesource.com/platform/external/webrtc
+55025fb0f4c54ce62340292402ac61f30e8bfca5	not-for-merge	tag 'android-4.1.1_r1' of https://android.googlesource.com/platform/external/webrtc
+bf75a0af7fecbc91a7a32a41dcbce1d7705b858f	not-for-merge	tag 'android-4.1.1_r1.1' of https://android.googlesource.com/platform/external/webrtc
+b63b454a78bb27ac59111ff9cb8cb3cd11e8552d	not-for-merge	tag 'android-4.1.1_r2' of https://android.googlesource.com/platform/external/webrtc
+92fd43bcd129462e45d4fe3ea317d616cb159357	not-for-merge	tag 'android-4.1.1_r3' of https://android.googlesource.com/platform/external/webrtc
+46ba90edcfa94223ace903063e07db202030d27e	not-for-merge	tag 'android-4.1.1_r4' of https://android.googlesource.com/platform/external/webrtc
+d953982fadf1dcd2512627f2fd91f7682688c754	not-for-merge	tag 'android-4.1.1_r5' of https://android.googlesource.com/platform/external/webrtc
+22b30426143956fa7bc1af71d9d99aced5e84a39	not-for-merge	tag 'android-4.1.1_r6' of https://android.googlesource.com/platform/external/webrtc
+6b3b16c4df253b473600434c5eef24982e14a854	not-for-merge	tag 'android-4.1.1_r6.1' of https://android.googlesource.com/platform/external/webrtc
+b24b0aaa8286dd085d9c6d3b89969d65a86bacf3	not-for-merge	tag 'android-4.1.2_r1' of https://android.googlesource.com/platform/external/webrtc
+38a27f3d669d6c2cc21de2921f374075db6ca94e	not-for-merge	tag 'android-4.1.2_r2' of https://android.googlesource.com/platform/external/webrtc
+9d674357d7c8861ec5d944036ba533ae48a84c8f	not-for-merge	tag 'android-4.1.2_r2.1' of https://android.googlesource.com/platform/external/webrtc
+f1912f36faf0e929645392fe56b88ab30695bc68	not-for-merge	tag 'android-4.2.1_r1' of https://android.googlesource.com/platform/external/webrtc
+d68ac9f950e30b0c492615243c1b1f3c2b26004e	not-for-merge	tag 'android-4.2.1_r1.1' of https://android.googlesource.com/platform/external/webrtc
+944c961e602d4e11667f5a52473673cce1d891a6	not-for-merge	tag 'android-4.2.1_r1.2' of https://android.googlesource.com/platform/external/webrtc
+2667044af91b26c4c6fd8c3e755bd7932f187de7	not-for-merge	tag 'android-4.2.2_r1' of https://android.googlesource.com/platform/external/webrtc
+424156cac10424284e677dfaf68e45af51dc227d	not-for-merge	tag 'android-4.2.2_r1.1' of https://android.googlesource.com/platform/external/webrtc
+adea875b932f8a0bb06f7ef6ffdd8d1f3dcaae48	not-for-merge	tag 'android-4.2.2_r1.2' of https://android.googlesource.com/platform/external/webrtc
+934e79812d2173fb0c49df97fd1519e9f79edab3	not-for-merge	tag 'android-4.2_r1' of https://android.googlesource.com/platform/external/webrtc
+82773cb725baabc15883871f487d9c812118c8e4	not-for-merge	tag 'android-4.3.1_r1' of https://android.googlesource.com/platform/external/webrtc
+2ead66805d3e2c801c475ef5c0c0208fe955b386	not-for-merge	tag 'android-4.3_r0.9' of https://android.googlesource.com/platform/external/webrtc
+476ee39a34bd600690be578c6e15eef042441864	not-for-merge	tag 'android-4.3_r0.9.1' of https://android.googlesource.com/platform/external/webrtc
+784a52a6f3b6291d635b7c6296ec4dc9958e6d7b	not-for-merge	tag 'android-4.3_r1' of https://android.googlesource.com/platform/external/webrtc
+e0d386bb1292d1419ed20278a9163ce32961945d	not-for-merge	tag 'android-4.3_r1.1' of https://android.googlesource.com/platform/external/webrtc
+2a74fa7d9fb80b8d1bfdbd017f18eed42cdf7375	not-for-merge	tag 'android-4.3_r2' of https://android.googlesource.com/platform/external/webrtc
+1a1433203ddf6395516e065ada1dcdfc8bd5c654	not-for-merge	tag 'android-4.3_r2.1' of https://android.googlesource.com/platform/external/webrtc
+f21697e1c7b813704653f8bd899dc7a8d153e69f	not-for-merge	tag 'android-4.3_r2.2' of https://android.googlesource.com/platform/external/webrtc
+188df071c30e1eed7eb45318230990b4ee2537ff	not-for-merge	tag 'android-4.3_r2.3' of https://android.googlesource.com/platform/external/webrtc
+60fecfeb9258a33f98c6e98e27429304411fb6b6	not-for-merge	tag 'android-4.3_r3' of https://android.googlesource.com/platform/external/webrtc
+935f76fb89a32074f8bc5f0b298cff5009f0a1c5	not-for-merge	tag 'android-4.3_r3.1' of https://android.googlesource.com/platform/external/webrtc
+8bb1e3a57c036f23a0278bd810703d654ca664e0	not-for-merge	tag 'android-4.4.1_r1' of https://android.googlesource.com/platform/external/webrtc
+3731e5033b8ca52e082eb0188a3d309fdb5ed507	not-for-merge	tag 'android-4.4.1_r1.0.1' of https://android.googlesource.com/platform/external/webrtc
+d329bff545502138fc328853bd8ee81cbb65f9db	not-for-merge	tag 'android-4.4.2_r1' of https://android.googlesource.com/platform/external/webrtc
+7301062f529152481c4999ef44adf71b06442fee	not-for-merge	tag 'android-4.4.2_r1.0.1' of https://android.googlesource.com/platform/external/webrtc
+b901063d4f075c18ec4761ecfda34b2e0a02aebc	not-for-merge	tag 'android-4.4.2_r2' of https://android.googlesource.com/platform/external/webrtc
+680c4012c1a1efd02d6b405d57378ad5e1f30921	not-for-merge	tag 'android-4.4.2_r2.0.1' of https://android.googlesource.com/platform/external/webrtc
+5e23593d01f16263e374f90fae5fa3637b353f8a	not-for-merge	tag 'android-4.4.3_r1' of https://android.googlesource.com/platform/external/webrtc
+3e175c1f310b67124bf8f0c37a095bac1f968227	not-for-merge	tag 'android-4.4.3_r1.0.1' of https://android.googlesource.com/platform/external/webrtc
+d5d52fe0376a41f6a53f55f4873468d55c63b449	not-for-merge	tag 'android-4.4.3_r1.1' of https://android.googlesource.com/platform/external/webrtc
+5fbf441aa55d8029391ef8a7eafca1a534569de9	not-for-merge	tag 'android-4.4.3_r1.1.0.1' of https://android.googlesource.com/platform/external/webrtc
+efae79eb9618034291967ce639881d48a65e126a	not-for-merge	tag 'android-4.4.4_r1' of https://android.googlesource.com/platform/external/webrtc
+5127db475747fea227c2f5846d290a4f92c6d9e4	not-for-merge	tag 'android-4.4.4_r1.0.1' of https://android.googlesource.com/platform/external/webrtc
+d4d54e6466f6c3d4ea41db3887eb5b285f2f92c6	not-for-merge	tag 'android-4.4.4_r2' of https://android.googlesource.com/platform/external/webrtc
+f9bbf0425421351a371f84c724085bcba0bf6c72	not-for-merge	tag 'android-4.4.4_r2.0.1' of https://android.googlesource.com/platform/external/webrtc
+7b388f8479ed43adb56547f90ef242a36877eec5	not-for-merge	tag 'android-4.4_r0.7' of https://android.googlesource.com/platform/external/webrtc
+059691fad4feef1c99c94b27f085d9d32e1f9922	not-for-merge	tag 'android-4.4_r0.8' of https://android.googlesource.com/platform/external/webrtc
+3f6beee979b16eb6bd53dd9253f9dc5b7665cdbc	not-for-merge	tag 'android-4.4_r0.9' of https://android.googlesource.com/platform/external/webrtc
+581f1dbf38c8966c58c7fe53fdaaf575754ce259	not-for-merge	tag 'android-4.4_r1' of https://android.googlesource.com/platform/external/webrtc
+73297b17c91c3f1f68086ea4606358b5066ed345	not-for-merge	tag 'android-4.4_r1.0.1' of https://android.googlesource.com/platform/external/webrtc
+99da06d277d4fbca39bfd8131806e799bd10c751	not-for-merge	tag 'android-4.4_r1.1' of https://android.googlesource.com/platform/external/webrtc
+8997b41fed3843810f9c40369f6e62fcb5cf7d4c	not-for-merge	tag 'android-4.4_r1.1.0.1' of https://android.googlesource.com/platform/external/webrtc
+3661cac6574e4cdf85452f1fc371c18ad8ccd492	not-for-merge	tag 'android-4.4_r1.2' of https://android.googlesource.com/platform/external/webrtc
+90b0b7489288c50fc620406ce789be4dd8906605	not-for-merge	tag 'android-4.4_r1.2.0.1' of https://android.googlesource.com/platform/external/webrtc
+8ab6573f4c66399b07b023bc3ba2f2324208ce29	not-for-merge	tag 'android-4.4w_r1' of https://android.googlesource.com/platform/external/webrtc
+67c8f1c10a3bd5ebcb3e3cac5bdafc242c964730	not-for-merge	tag 'android-5.0.0_r1' of https://android.googlesource.com/platform/external/webrtc
+89ff82e416d3191ebd8782f0f5b0ecac57997346	not-for-merge	tag 'android-5.0.0_r2' of https://android.googlesource.com/platform/external/webrtc
+97a080b8e3cb8c54e240c9eb42cd388c9456a8db	not-for-merge	tag 'android-5.0.0_r3' of https://android.googlesource.com/platform/external/webrtc
+a408e44921b284e9dadcd99c08eb6cc796ce1783	not-for-merge	tag 'android-5.0.0_r4' of https://android.googlesource.com/platform/external/webrtc
+6cb568cb49868d5b1b2117a7002cc073daf75ec2	not-for-merge	tag 'android-5.0.0_r5' of https://android.googlesource.com/platform/external/webrtc
+99012735071993c09902f70c9c6e1a23183c5de9	not-for-merge	tag 'android-5.0.0_r5.1' of https://android.googlesource.com/platform/external/webrtc
+701d8ae1fe80514e8be0bb8e481e309bed8baf92	not-for-merge	tag 'android-5.0.0_r6' of https://android.googlesource.com/platform/external/webrtc
+26f6c3984b16651d9bb7bdb9fbd26ff17399a778	not-for-merge	tag 'android-5.0.0_r7' of https://android.googlesource.com/platform/external/webrtc
+181d5ba3c10efe19608a9f36d8cfa876d5d95887	not-for-merge	tag 'android-5.0.1_r1' of https://android.googlesource.com/platform/external/webrtc
+f8ec930d9a45cd08b60a5725c47e695af3db22f9	not-for-merge	tag 'android-5.0.2_r1' of https://android.googlesource.com/platform/external/webrtc
+81f5f18b0c04a37e2fdbdfd66cf4fb0cfd10dcbd	not-for-merge	tag 'android-5.0.2_r3' of https://android.googlesource.com/platform/external/webrtc
+de40077759a01a02a3e21b30ea0755f2d6fc4e09	not-for-merge	tag 'android-5.1.0_r1' of https://android.googlesource.com/platform/external/webrtc
+c37ead4b4afecd175afd77ead1bfd428b98c0be4	not-for-merge	tag 'android-5.1.0_r3' of https://android.googlesource.com/platform/external/webrtc
+6e38bfa267a548b597f62065a5352fb51b959a3c	not-for-merge	tag 'android-5.1.0_r5' of https://android.googlesource.com/platform/external/webrtc
+48abb7e4208b0698c22fefd91087a4ff7b99e298	not-for-merge	tag 'android-5.1.1_r1' of https://android.googlesource.com/platform/external/webrtc
+3e557f3e4fa4e58239bcf773100dca4a1699ce07	not-for-merge	tag 'android-5.1.1_r2' of https://android.googlesource.com/platform/external/webrtc
+d6f4fb2b95c78a4a610c85ab5456c44271aad12a	not-for-merge	tag 'android-cts-4.0.3_r1' of https://android.googlesource.com/platform/external/webrtc
+25100679c7057191d024eb24b28454e23b4c3195	not-for-merge	tag 'android-cts-4.0.3_r2' of https://android.googlesource.com/platform/external/webrtc
+64279a0a59971f0a6273fa17e7d06af4e7aef937	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/webrtc
+3a15c0b68493064e350bf8cc404c8b9d34e6007e	not-for-merge	tag 'android-cts-4.1_r1' of https://android.googlesource.com/platform/external/webrtc
+fdcaae78f81b41528a8dce781e0aaff6eb6729fc	not-for-merge	tag 'android-cts-4.1_r2' of https://android.googlesource.com/platform/external/webrtc
+5196c560635d8796bd152080644a4d7090b4ebf8	not-for-merge	tag 'android-cts-4.1_r4' of https://android.googlesource.com/platform/external/webrtc
+fe9904ea5dde866a17b20850f5efb62623aad531	not-for-merge	tag 'android-cts-4.2_r1' of https://android.googlesource.com/platform/external/webrtc
+023b8f65d5962b5b383eecbf0d26c83b9564e75b	not-for-merge	tag 'android-cts-4.2_r2' of https://android.googlesource.com/platform/external/webrtc
+8fa1bc678f418f84f08307ed2b00af3180301c28	not-for-merge	tag 'android-cts-4.4_r1' of https://android.googlesource.com/platform/external/webrtc
+ba6ed7289ee4070ce8777b902834942d6bd7bf44	not-for-merge	tag 'android-cts-5.1_r1' of https://android.googlesource.com/platform/external/webrtc
+2b3a99b56e551d572d9342ef34064b9c3feaf778	not-for-merge	tag 'android-cts-verifier-4.0.3_r1' of https://android.googlesource.com/platform/external/webrtc
+95b9fba29ddf67c21b85e51ac77dce54d4030c11	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/webrtc
+cfe8b404c8cd7df4c1d117860e1d7ba46cb50c6b	not-for-merge	tag 'android-l-preview_r2' of https://android.googlesource.com/platform/external/webrtc
+56bbf09690af54a9fdab6582d784e0c68faf915e	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/webrtc
+c0be71721e1bda0528c04a7962f798a4af73b6a3	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/webrtc
+ab0168f13387b6bfeb2e8ea035f3ddf016a60d05	not-for-merge	tag 'android-sdk-4.4.2_r1' of https://android.googlesource.com/platform/external/webrtc
+42fc0d2eac201f733bac5a6a401f7a74a816c363	not-for-merge	tag 'android-sdk-4.4.2_r1.0.1' of https://android.googlesource.com/platform/external/webrtc
+07809895c951bb2380e1854c66f8dd14ab86ccca	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/webrtc
+a61b2597f89c1098e451428bf0b796ffa4c8ab65	not-for-merge	tag 'android-sdk-adt_r20' of https://android.googlesource.com/platform/external/webrtc
+09ae630804c8a0c8bca55df804a360200c90d5ac	not-for-merge	tag 'android-sdk-support_r11' of https://android.googlesource.com/platform/external/webrtc
+754b4d9f20ef9f5a51e338d88f1092fe25cf5b91	not-for-merge	tag 'android-wear-5.0.0_r1' of https://android.googlesource.com/platform/external/webrtc

@@ -1,0 +1,31 @@
+26e93f6af47f7bd3a9beb5c102a5f45e19bfa38a		branch 'idea133' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+26e93f6af47f7bd3a9beb5c102a5f45e19bfa38a		branch 'idea133-weekly-release' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+26e93f6af47f7bd3a9beb5c102a5f45e19bfa38a		branch 'kitkat-wear' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+26e93f6af47f7bd3a9beb5c102a5f45e19bfa38a		branch 'l-preview' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+26e93f6af47f7bd3a9beb5c102a5f45e19bfa38a		branch 'lollipop-dev' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+26e93f6af47f7bd3a9beb5c102a5f45e19bfa38a		branch 'lollipop-mr1-dev' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+26e93f6af47f7bd3a9beb5c102a5f45e19bfa38a		branch 'lollipop-mr1-release' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+26e93f6af47f7bd3a9beb5c102a5f45e19bfa38a		branch 'lollipop-release' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+26e93f6af47f7bd3a9beb5c102a5f45e19bfa38a		branch 'lollipop-wear-release' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+26e93f6af47f7bd3a9beb5c102a5f45e19bfa38a		branch 'master' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+26e93f6af47f7bd3a9beb5c102a5f45e19bfa38a		branch 'master-soong' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+11d7741d9e1fe2533c6897c1c3fc9c391ee658ac	not-for-merge	tag 'android-4.4w_r1' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+e5fc68f03c7b8c02a5851c632d9f4a4d87bd5865	not-for-merge	tag 'android-5.0.0_r1' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+cd1cd7a6c6ffeaaa4b9f857264df25dc8b40a269	not-for-merge	tag 'android-5.0.0_r2' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+71ca3cd3c91cf0fd39582e088d9bcf521c58cdbf	not-for-merge	tag 'android-5.0.0_r3' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+84f8fc08557ec7860104a194843c944558a01cc8	not-for-merge	tag 'android-5.0.0_r4' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+e6f0caa55f1b31bba1dd224a7c0341405826b327	not-for-merge	tag 'android-5.0.0_r5' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+57196adc247fde7beccf2dd3fb62af4d42456317	not-for-merge	tag 'android-5.0.0_r5.1' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+354496e8eddd28c743d8e02c02eeab02958367e6	not-for-merge	tag 'android-5.0.0_r6' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+33a70995795c1858febe0b539995709d6f99210f	not-for-merge	tag 'android-5.0.0_r7' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+bb4c8370498deacba6891b943e505201f21fb670	not-for-merge	tag 'android-5.0.1_r1' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+4c64f0aa068e1d0ff9e1236093ec03282c9034b4	not-for-merge	tag 'android-5.0.2_r1' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+f26593124f1f73a8f4099b412836ef2a77027ff3	not-for-merge	tag 'android-5.0.2_r3' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+8af5ff6f5dced9eb5a8127459df6c75d24342204	not-for-merge	tag 'android-5.1.0_r1' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+270e8b25a53f409fc0dd41622b3c9a638c721975	not-for-merge	tag 'android-5.1.0_r3' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+1df5d96640d0ba4fcda1e636a9fd3583d6e0595e	not-for-merge	tag 'android-5.1.0_r5' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+0fd3d3e2e4aa49b4e939bd7718d8dcfd969d22b0	not-for-merge	tag 'android-5.1.1_r1' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+eb8c54cca57ee11323eb7d56fc90b6f267402311	not-for-merge	tag 'android-5.1.1_r2' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+892a028d5db5b47b92caf55c0f117eb764eb45cb	not-for-merge	tag 'android-cts-5.1_r1' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+5d6d04a6ca450ff9dfd47f2b5a2908287326cdae	not-for-merge	tag 'android-l-preview_r2' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+f81e5c8788945e4fdbd0830cd103b39907aa06f4	not-for-merge	tag 'android-wear-5.0.0_r1' of https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8

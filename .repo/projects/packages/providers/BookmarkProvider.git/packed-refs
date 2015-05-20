@@ -1,0 +1,3 @@
+# pack-refs with: peeled fully-peeled 
+23fa1758e81057af1be92fdf86f8a5ec714e75fd refs/remotes/aosp/master
+2ed4f50286b888c7c366923f35dd0f8e893d255e refs/remotes/aosp/master-soong

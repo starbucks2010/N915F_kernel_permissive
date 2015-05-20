@@ -1,0 +1,133 @@
+351958316957352685f15674ee5bd71726dc993e		branch 'ics-mr1' of https://android.googlesource.com/platform/external/libyuv
+351958316957352685f15674ee5bd71726dc993e		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/libyuv
+351958316957352685f15674ee5bd71726dc993e		branch 'ics-plus-aosp' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'idea133' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'idea133-weekly-release' of https://android.googlesource.com/platform/external/libyuv
+351958316957352685f15674ee5bd71726dc993e		branch 'jb-dev' of https://android.googlesource.com/platform/external/libyuv
+351958316957352685f15674ee5bd71726dc993e		branch 'jb-mr0-release' of https://android.googlesource.com/platform/external/libyuv
+a88a10a6ed9f9801852929bac34bdf10510116f4		branch 'jb-mr1-dev' of https://android.googlesource.com/platform/external/libyuv
+a88a10a6ed9f9801852929bac34bdf10510116f4		branch 'jb-mr1-dev-plus-aosp' of https://android.googlesource.com/platform/external/libyuv
+a88a10a6ed9f9801852929bac34bdf10510116f4		branch 'jb-mr1-release' of https://android.googlesource.com/platform/external/libyuv
+a88a10a6ed9f9801852929bac34bdf10510116f4		branch 'jb-mr1.1-dev' of https://android.googlesource.com/platform/external/libyuv
+b55f69c3fdd4a53d439bba9e8bd047846e1f4783		branch 'jb-mr1.1-dev-plus-aosp' of https://android.googlesource.com/platform/external/libyuv
+a88a10a6ed9f9801852929bac34bdf10510116f4		branch 'jb-mr1.1-release' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'jb-mr2-dev' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'jb-mr2-release' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'jb-mr2.0-release' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'jb-mr2.0.0-release' of https://android.googlesource.com/platform/external/libyuv
+351958316957352685f15674ee5bd71726dc993e		branch 'jb-release' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'kitkat-cts-dev' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'kitkat-dev' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'kitkat-mr1-release' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'kitkat-mr1.1-release' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'kitkat-mr2-release' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'kitkat-mr2.1-release' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'kitkat-mr2.2-release' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'kitkat-release' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'kitkat-wear' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'l-preview' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'lollipop-dev' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'lollipop-mr1-dev' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'lollipop-mr1-release' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'lollipop-release' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'lollipop-wear-release' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'master' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'master-soong' of https://android.googlesource.com/platform/external/libyuv
+351958316957352685f15674ee5bd71726dc993e		branch 'tools_r20' of https://android.googlesource.com/platform/external/libyuv
+f102f0f69a0f47c3bbf8298f8acd23a6a8ef5fb3		branch 'tools_r21' of https://android.googlesource.com/platform/external/libyuv
+b55f69c3fdd4a53d439bba9e8bd047846e1f4783		branch 'tools_r22' of https://android.googlesource.com/platform/external/libyuv
+482a582884351288fb701532359652970b1ba7c0		branch 'tools_r22.2' of https://android.googlesource.com/platform/external/libyuv
+faad980255ea04d0b554b6d29469ddd8ccb8c9c2	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/libyuv
+bd81c4103840f9a9dff851dfe6d18c6c50f9e39d	not-for-merge	tag 'android-4.0.3_r1.1' of https://android.googlesource.com/platform/external/libyuv
+9a9d384b87aecff7f4b348fcd2c175ab42ad4cd2	not-for-merge	tag 'android-4.0.4_r1' of https://android.googlesource.com/platform/external/libyuv
+dc31100b5a05b6812c31f948a26781997d14a914	not-for-merge	tag 'android-4.0.4_r1.1' of https://android.googlesource.com/platform/external/libyuv
+babcdfa3967d7c7e9e0b9377ec4212d7cf4f1366	not-for-merge	tag 'android-4.0.4_r1.2' of https://android.googlesource.com/platform/external/libyuv
+bd6c3ad93d438bcb34d17c2d728eae6862e81e3c	not-for-merge	tag 'android-4.0.4_r2' of https://android.googlesource.com/platform/external/libyuv
+88e91f7aa60378abf8fd3094ce26684c2e36636e	not-for-merge	tag 'android-4.0.4_r2.1' of https://android.googlesource.com/platform/external/libyuv
+ad836ec0f69c3dd365035da6d32e28fcda630033	not-for-merge	tag 'android-4.1.1_r1' of https://android.googlesource.com/platform/external/libyuv
+9d8c3f3ee7994ddb8beac33982c22e7effb035e1	not-for-merge	tag 'android-4.1.1_r1.1' of https://android.googlesource.com/platform/external/libyuv
+0c1c3f907454d1da6c3af752e6323a8113b29834	not-for-merge	tag 'android-4.1.1_r2' of https://android.googlesource.com/platform/external/libyuv
+c9fa556d4c0acfe1de9a4dc69a6ebc68e7fb658b	not-for-merge	tag 'android-4.1.1_r3' of https://android.googlesource.com/platform/external/libyuv
+8ebe0cca28cdbb749f7c9fb05d29281ae46874d7	not-for-merge	tag 'android-4.1.1_r4' of https://android.googlesource.com/platform/external/libyuv
+8989ef759a94ea5410c822073cd55b902d064a77	not-for-merge	tag 'android-4.1.1_r5' of https://android.googlesource.com/platform/external/libyuv
+ecf660551abffc247f80b17bd8d880c097f575ac	not-for-merge	tag 'android-4.1.1_r6' of https://android.googlesource.com/platform/external/libyuv
+87e67a31f99c10c7629b702aa8b4ce3f1dbae4ee	not-for-merge	tag 'android-4.1.1_r6.1' of https://android.googlesource.com/platform/external/libyuv
+8e8dcc5cbb62287b2f73eca27e62c02339b91dd0	not-for-merge	tag 'android-4.1.2_r1' of https://android.googlesource.com/platform/external/libyuv
+d16ec88b4ec11eb5ae69e513df3024e9e6f57d7b	not-for-merge	tag 'android-4.1.2_r2' of https://android.googlesource.com/platform/external/libyuv
+3a5fa31c62b9792e15f3a095da0890827686929f	not-for-merge	tag 'android-4.1.2_r2.1' of https://android.googlesource.com/platform/external/libyuv
+55c77073fc7735349a1626a4848f54b3d3054151	not-for-merge	tag 'android-4.2.1_r1' of https://android.googlesource.com/platform/external/libyuv
+d661f35fb35ce0314065b5ecb840f6425418d006	not-for-merge	tag 'android-4.2.1_r1.1' of https://android.googlesource.com/platform/external/libyuv
+a328e0aa27440dcba01d0da5db99e9210e7ead71	not-for-merge	tag 'android-4.2.1_r1.2' of https://android.googlesource.com/platform/external/libyuv
+764e1f98421e89215c0943394763694f8e12056e	not-for-merge	tag 'android-4.2.2_r1' of https://android.googlesource.com/platform/external/libyuv
+4944a5c8f4b8fc412cab1f7274b25f10359e1429	not-for-merge	tag 'android-4.2.2_r1.1' of https://android.googlesource.com/platform/external/libyuv
+5cba4504642d28b2516962440e0b3d6ed572e54d	not-for-merge	tag 'android-4.2.2_r1.2' of https://android.googlesource.com/platform/external/libyuv
+e67d3b36968c848d3226a36d3199426c7cb2ab51	not-for-merge	tag 'android-4.2_r1' of https://android.googlesource.com/platform/external/libyuv
+d9988dd4d98ba29feff136898277dc09cd3ec806	not-for-merge	tag 'android-4.3.1_r1' of https://android.googlesource.com/platform/external/libyuv
+1a7cfeb64bba67a6920c81f5a8e1289a97becc04	not-for-merge	tag 'android-4.3_r0.9' of https://android.googlesource.com/platform/external/libyuv
+57140e9d3c0b2684e079b5018911e47af01924fe	not-for-merge	tag 'android-4.3_r0.9.1' of https://android.googlesource.com/platform/external/libyuv
+f1c9ac5e321b153a26e3b1160ca2a23717aa950b	not-for-merge	tag 'android-4.3_r1' of https://android.googlesource.com/platform/external/libyuv
+6c70d56f907f1c521f68b894bfce01a5a9d2a48b	not-for-merge	tag 'android-4.3_r1.1' of https://android.googlesource.com/platform/external/libyuv
+8eaddd526823b50915ccdf612641135d5c3ac98b	not-for-merge	tag 'android-4.3_r2' of https://android.googlesource.com/platform/external/libyuv
+a2eae7537da3e0c316345a5afa4d229d1ea37081	not-for-merge	tag 'android-4.3_r2.1' of https://android.googlesource.com/platform/external/libyuv
+a22eb057cfd7bddb269f38abefe392354ea5820c	not-for-merge	tag 'android-4.3_r2.2' of https://android.googlesource.com/platform/external/libyuv
+b78e6d009acd7b8944d47313574e1b80fc9b0a4a	not-for-merge	tag 'android-4.3_r2.3' of https://android.googlesource.com/platform/external/libyuv
+446082a083c6cff89953b49d2c7a4a420bcf7fb6	not-for-merge	tag 'android-4.3_r3' of https://android.googlesource.com/platform/external/libyuv
+0f838288474904739c435be0f4ab57a389c9b019	not-for-merge	tag 'android-4.3_r3.1' of https://android.googlesource.com/platform/external/libyuv
+f5f7fabf6dc0e882261648bfb97270837d0adfbe	not-for-merge	tag 'android-4.4.1_r1' of https://android.googlesource.com/platform/external/libyuv
+4794838dadbb16395bd44c2a2afb93d5edfc48fa	not-for-merge	tag 'android-4.4.1_r1.0.1' of https://android.googlesource.com/platform/external/libyuv
+85611c0ab28e17497d485cc2e204252a0ad223ba	not-for-merge	tag 'android-4.4.2_r1' of https://android.googlesource.com/platform/external/libyuv
+f822c2b6a19ebfa83e31be3f8b5335fd7293a245	not-for-merge	tag 'android-4.4.2_r1.0.1' of https://android.googlesource.com/platform/external/libyuv
+8196b6ac98e6e7e32f5865d98a420a09e23f9cf1	not-for-merge	tag 'android-4.4.2_r2' of https://android.googlesource.com/platform/external/libyuv
+a51947bf20bbe86b4171a54bf1c21d5629e60d40	not-for-merge	tag 'android-4.4.2_r2.0.1' of https://android.googlesource.com/platform/external/libyuv
+f2171d40bc6e5235514433a9c891fba145881004	not-for-merge	tag 'android-4.4.3_r1' of https://android.googlesource.com/platform/external/libyuv
+4637cf8d4abf56e984393d76f1f4c1d32e698c27	not-for-merge	tag 'android-4.4.3_r1.0.1' of https://android.googlesource.com/platform/external/libyuv
+34187a0955ca3977590b80a08476b5bbb1f5d2b5	not-for-merge	tag 'android-4.4.3_r1.1' of https://android.googlesource.com/platform/external/libyuv
+5745be3bcac9cb35f0876fe966eccdc14f978db3	not-for-merge	tag 'android-4.4.3_r1.1.0.1' of https://android.googlesource.com/platform/external/libyuv
+56538c00a995c5a011404d1ab1d9a8e4db0ed6d0	not-for-merge	tag 'android-4.4.4_r1' of https://android.googlesource.com/platform/external/libyuv
+66c48db52d534b751c0d42227cead79837c8ba98	not-for-merge	tag 'android-4.4.4_r1.0.1' of https://android.googlesource.com/platform/external/libyuv
+e815f363ef38bcdcfdd8bf19997bb384ba79585b	not-for-merge	tag 'android-4.4.4_r2' of https://android.googlesource.com/platform/external/libyuv
+473046cbc80e9bbbd1541ea38744cbc3de826836	not-for-merge	tag 'android-4.4.4_r2.0.1' of https://android.googlesource.com/platform/external/libyuv
+416eb0ac0a1b782a2f5f72cf276b267398508f0e	not-for-merge	tag 'android-4.4_r0.7' of https://android.googlesource.com/platform/external/libyuv
+a9536ae149338c4fa9a2b4ae6e42ec54613e761b	not-for-merge	tag 'android-4.4_r0.8' of https://android.googlesource.com/platform/external/libyuv
+07de660f85271dabb9828636c2162ea957016e78	not-for-merge	tag 'android-4.4_r0.9' of https://android.googlesource.com/platform/external/libyuv
+8f2db4bb98673c4f57416e593251e10d91e402a1	not-for-merge	tag 'android-4.4_r1' of https://android.googlesource.com/platform/external/libyuv
+0a29167de7da78ad93cfa9330ea529aa92101d15	not-for-merge	tag 'android-4.4_r1.0.1' of https://android.googlesource.com/platform/external/libyuv
+7f46fe84a93f78f37a93ec24efe68a5eadc03518	not-for-merge	tag 'android-4.4_r1.1' of https://android.googlesource.com/platform/external/libyuv
+fffe2d5326311f2515d3aba5580e6e38ed69d171	not-for-merge	tag 'android-4.4_r1.1.0.1' of https://android.googlesource.com/platform/external/libyuv
+9be0bd8506e012d4cfb0581ec926156845327c1a	not-for-merge	tag 'android-4.4_r1.2' of https://android.googlesource.com/platform/external/libyuv
+6cfc299776f19dd8d814afbce24e414e4645c6b2	not-for-merge	tag 'android-4.4_r1.2.0.1' of https://android.googlesource.com/platform/external/libyuv
+5b73e183ddecfd9dd6f95bb8ccd4f6c1a2977cad	not-for-merge	tag 'android-4.4w_r1' of https://android.googlesource.com/platform/external/libyuv
+441bb9971361a0a31a6ab7d82162a643246158ca	not-for-merge	tag 'android-5.0.0_r1' of https://android.googlesource.com/platform/external/libyuv
+8f9c671b0151e520e6150a9c1bb6813e6098f620	not-for-merge	tag 'android-5.0.0_r2' of https://android.googlesource.com/platform/external/libyuv
+861f8fcf07e15362b6bd668ea634f8e49951eb5b	not-for-merge	tag 'android-5.0.0_r3' of https://android.googlesource.com/platform/external/libyuv
+667b4fc5b706269721a05d3e09fd562788c0703a	not-for-merge	tag 'android-5.0.0_r4' of https://android.googlesource.com/platform/external/libyuv
+04d884abdc6c06dc2069f3a24e5180af62692ad4	not-for-merge	tag 'android-5.0.0_r5' of https://android.googlesource.com/platform/external/libyuv
+ae54efa394fade587ede8eb524d178711faefd80	not-for-merge	tag 'android-5.0.0_r5.1' of https://android.googlesource.com/platform/external/libyuv
+02f490e766399dd6d06670b18f8da7f030af873d	not-for-merge	tag 'android-5.0.0_r6' of https://android.googlesource.com/platform/external/libyuv
+d3d6d28e6c0afbd8e94bf34b163204154029b321	not-for-merge	tag 'android-5.0.0_r7' of https://android.googlesource.com/platform/external/libyuv
+73781b91c46fdd14616012924737bab810e344a9	not-for-merge	tag 'android-5.0.1_r1' of https://android.googlesource.com/platform/external/libyuv
+60df482b3b75fa74e54d1e9cd99e6ca56395cf10	not-for-merge	tag 'android-5.0.2_r1' of https://android.googlesource.com/platform/external/libyuv
+8b996a89f037929d13f3b3ac8cbd29fba5746adc	not-for-merge	tag 'android-5.0.2_r3' of https://android.googlesource.com/platform/external/libyuv
+0a3a5636bec0bec1d0a1e15145d6f902aae50ce2	not-for-merge	tag 'android-5.1.0_r1' of https://android.googlesource.com/platform/external/libyuv
+c2c53541e3124e7bc8230e535c25b3731657d963	not-for-merge	tag 'android-5.1.0_r3' of https://android.googlesource.com/platform/external/libyuv
+6e3d4c45710acbc3dd4f7a3e53fc3924ba7cb6dc	not-for-merge	tag 'android-5.1.0_r5' of https://android.googlesource.com/platform/external/libyuv
+c244a2452744e2b18eb82b1e394b60ff6d174eb9	not-for-merge	tag 'android-5.1.1_r1' of https://android.googlesource.com/platform/external/libyuv
+9ea077e5c422a42c795449b9df7ea70c41c5e216	not-for-merge	tag 'android-5.1.1_r2' of https://android.googlesource.com/platform/external/libyuv
+ed8e38a4b52d5cdc9e778887b66c34b4400d1f6c	not-for-merge	tag 'android-cts-4.0.3_r1' of https://android.googlesource.com/platform/external/libyuv
+5b1d0f8f717db06af4718a41fdfa603d2d4ee52c	not-for-merge	tag 'android-cts-4.0.3_r2' of https://android.googlesource.com/platform/external/libyuv
+12934ab37cca27e75e2372614ec7a21455360f0c	not-for-merge	tag 'android-cts-4.1_r1' of https://android.googlesource.com/platform/external/libyuv
+5d79bbd7f0ad6cc6d02e7b79a26cafcf428644f6	not-for-merge	tag 'android-cts-4.1_r2' of https://android.googlesource.com/platform/external/libyuv
+7c2dcf4539105f0a06a6aaa6b0210a7833cb51f5	not-for-merge	tag 'android-cts-4.1_r4' of https://android.googlesource.com/platform/external/libyuv
+9919e56ed0840e3e572685f980cae97ae0cb986f	not-for-merge	tag 'android-cts-4.2_r1' of https://android.googlesource.com/platform/external/libyuv
+05b003b72e7ad505a7bf5c6c7cce8e1d745ea4a1	not-for-merge	tag 'android-cts-4.2_r2' of https://android.googlesource.com/platform/external/libyuv
+d0139fb8d3d8d1f48e77ec6d19b1075d8da502ba	not-for-merge	tag 'android-cts-4.4_r1' of https://android.googlesource.com/platform/external/libyuv
+25880830c0e64b351b7aba5eac04edb392f57bc3	not-for-merge	tag 'android-cts-5.1_r1' of https://android.googlesource.com/platform/external/libyuv
+06424ea1dfc7744d98fdfa3407697cd8b81324e6	not-for-merge	tag 'android-cts-verifier-4.0.3_r1' of https://android.googlesource.com/platform/external/libyuv
+6312cd706159b296da6b139499adb00110ba0c8f	not-for-merge	tag 'android-l-preview_r2' of https://android.googlesource.com/platform/external/libyuv
+f99318b721b3711b804691b766e9793d7685f053	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/libyuv
+c6d3f5986e24a1b0557a45d8dae0d0bea3604011	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/libyuv
+9e492b473fcca84549ef9db1dba30a3ca45ba450	not-for-merge	tag 'android-sdk-4.4.2_r1' of https://android.googlesource.com/platform/external/libyuv
+2bc5813c612fec5f8318f485a5ecdbaaeda7fe80	not-for-merge	tag 'android-sdk-4.4.2_r1.0.1' of https://android.googlesource.com/platform/external/libyuv
+04f2bd46564a71bc816a32ec701eddf0730ce84e	not-for-merge	tag 'android-sdk-adt_r20' of https://android.googlesource.com/platform/external/libyuv
+7d8649c9c982b71f7646f9e570f977a940dd874e	not-for-merge	tag 'android-sdk-support_r11' of https://android.googlesource.com/platform/external/libyuv
+403fad4ce1c0e30e3ab34fedece7073c907e72c2	not-for-merge	tag 'android-wear-5.0.0_r1' of https://android.googlesource.com/platform/external/libyuv

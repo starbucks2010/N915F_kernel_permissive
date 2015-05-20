@@ -1,0 +1,116 @@
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'idea133' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'idea133-weekly-release' of https://android.googlesource.com/platform/external/regex-re2
+2ee91b4af4353b9e6a9d591c32fedfc58fd4ef35		branch 'jb-dev' of https://android.googlesource.com/platform/external/regex-re2
+2ee91b4af4353b9e6a9d591c32fedfc58fd4ef35		branch 'jb-mr0-release' of https://android.googlesource.com/platform/external/regex-re2
+2ee91b4af4353b9e6a9d591c32fedfc58fd4ef35		branch 'jb-mr1-dev' of https://android.googlesource.com/platform/external/regex-re2
+2ee91b4af4353b9e6a9d591c32fedfc58fd4ef35		branch 'jb-mr1-dev-plus-aosp' of https://android.googlesource.com/platform/external/regex-re2
+2ee91b4af4353b9e6a9d591c32fedfc58fd4ef35		branch 'jb-mr1-release' of https://android.googlesource.com/platform/external/regex-re2
+2ee91b4af4353b9e6a9d591c32fedfc58fd4ef35		branch 'jb-mr1.1-dev' of https://android.googlesource.com/platform/external/regex-re2
+2ee91b4af4353b9e6a9d591c32fedfc58fd4ef35		branch 'jb-mr1.1-dev-plus-aosp' of https://android.googlesource.com/platform/external/regex-re2
+2ee91b4af4353b9e6a9d591c32fedfc58fd4ef35		branch 'jb-mr1.1-release' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'jb-mr2-dev' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'jb-mr2-release' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'jb-mr2.0-release' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'jb-mr2.0.0-release' of https://android.googlesource.com/platform/external/regex-re2
+2ee91b4af4353b9e6a9d591c32fedfc58fd4ef35		branch 'jb-release' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'kitkat-cts-dev' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'kitkat-dev' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'kitkat-mr1-release' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'kitkat-mr1.1-release' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'kitkat-mr2-release' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'kitkat-mr2.1-release' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'kitkat-mr2.2-release' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'kitkat-release' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'kitkat-wear' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'l-preview' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'lollipop-dev' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'lollipop-mr1-dev' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'lollipop-mr1-release' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'lollipop-release' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'lollipop-wear-release' of https://android.googlesource.com/platform/external/regex-re2
+9a16eac809c3bbb746f055b38d4e0d5c4f228c73		branch 'master' of https://android.googlesource.com/platform/external/regex-re2
+9a16eac809c3bbb746f055b38d4e0d5c4f228c73		branch 'master-soong' of https://android.googlesource.com/platform/external/regex-re2
+2ee91b4af4353b9e6a9d591c32fedfc58fd4ef35		branch 'tools_r21' of https://android.googlesource.com/platform/external/regex-re2
+2ee91b4af4353b9e6a9d591c32fedfc58fd4ef35		branch 'tools_r22' of https://android.googlesource.com/platform/external/regex-re2
+0d4c52358a1af421705c54bd8a9fdd8a30558a2e		branch 'tools_r22.2' of https://android.googlesource.com/platform/external/regex-re2
+39d39ca98a09b9629acb6039f7d5681db1f7fc0a	not-for-merge	tag 'android-4.1.1_r1' of https://android.googlesource.com/platform/external/regex-re2
+1413db36aea249cef73f3db6e290b8e865a6f4f0	not-for-merge	tag 'android-4.1.1_r1.1' of https://android.googlesource.com/platform/external/regex-re2
+4b7d2e9f0359666d7c6e5badb0be71b199e8f983	not-for-merge	tag 'android-4.1.1_r2' of https://android.googlesource.com/platform/external/regex-re2
+374457f5dae5275e32276ad812cb436a460b295c	not-for-merge	tag 'android-4.1.1_r3' of https://android.googlesource.com/platform/external/regex-re2
+1ba517c5140f32dd0b7eb3e46a408ff9bd73839c	not-for-merge	tag 'android-4.1.1_r4' of https://android.googlesource.com/platform/external/regex-re2
+404d26d8e7c8288216def89f82b9b5d995f59a14	not-for-merge	tag 'android-4.1.1_r5' of https://android.googlesource.com/platform/external/regex-re2
+6d5bbc44b9086f186a416b3f0039bb923242a962	not-for-merge	tag 'android-4.1.1_r6' of https://android.googlesource.com/platform/external/regex-re2
+cd3c1f0b548d19d8508e8aaec0e657b014c8a060	not-for-merge	tag 'android-4.1.1_r6.1' of https://android.googlesource.com/platform/external/regex-re2
+17ae998b48d3ac65e85f05a5cf440c6c386019b9	not-for-merge	tag 'android-4.1.2_r1' of https://android.googlesource.com/platform/external/regex-re2
+76cf6f29ece1f071cf8258cc0af147cc758bf101	not-for-merge	tag 'android-4.1.2_r2' of https://android.googlesource.com/platform/external/regex-re2
+56b445d57066e48310bdf70b8355f11567e24e3c	not-for-merge	tag 'android-4.1.2_r2.1' of https://android.googlesource.com/platform/external/regex-re2
+805551ac2d6af08761adc75d01aeddeba533b2f8	not-for-merge	tag 'android-4.2.1_r1' of https://android.googlesource.com/platform/external/regex-re2
+900b7058dc3e88abc65442bd0052a67801af5b3f	not-for-merge	tag 'android-4.2.1_r1.1' of https://android.googlesource.com/platform/external/regex-re2
+f73aabcc59c73dceed20dc11691f939df0baa394	not-for-merge	tag 'android-4.2.1_r1.2' of https://android.googlesource.com/platform/external/regex-re2
+806a4772ec100e2af1a3021221107c6aa645f967	not-for-merge	tag 'android-4.2.2_r1' of https://android.googlesource.com/platform/external/regex-re2
+1b32af31c0d5ceb1575d8ab2cf8d6387b1e147b6	not-for-merge	tag 'android-4.2.2_r1.1' of https://android.googlesource.com/platform/external/regex-re2
+0e878f3a4ed5f7de82604e7175ef6a59b616eabc	not-for-merge	tag 'android-4.2.2_r1.2' of https://android.googlesource.com/platform/external/regex-re2
+4520927cc27fca6da57ffa060fa69d832cdd5f4d	not-for-merge	tag 'android-4.2_r1' of https://android.googlesource.com/platform/external/regex-re2
+f664563f278b31e46cb7c190a15696f9feab904c	not-for-merge	tag 'android-4.3.1_r1' of https://android.googlesource.com/platform/external/regex-re2
+cac6eb34fd1aaef151e576f0ff2c3aab596636b6	not-for-merge	tag 'android-4.3_r0.9' of https://android.googlesource.com/platform/external/regex-re2
+875909f890f1fcae365ae24ad9675203ab361097	not-for-merge	tag 'android-4.3_r0.9.1' of https://android.googlesource.com/platform/external/regex-re2
+6d09feecddd5cc0715347b5c140399f16fcfac7c	not-for-merge	tag 'android-4.3_r1' of https://android.googlesource.com/platform/external/regex-re2
+0acfa046a9bcc33b01efd5fa7c101c1fc8073a1d	not-for-merge	tag 'android-4.3_r1.1' of https://android.googlesource.com/platform/external/regex-re2
+828e43cc1f5b708b785e640b307868d7721eb146	not-for-merge	tag 'android-4.3_r2' of https://android.googlesource.com/platform/external/regex-re2
+b3522254bf58860f0f1c391732c7040f8ee2eda6	not-for-merge	tag 'android-4.3_r2.1' of https://android.googlesource.com/platform/external/regex-re2
+4297d8eb3b49fd80d9c52e7acf85f58ff1d78518	not-for-merge	tag 'android-4.3_r2.2' of https://android.googlesource.com/platform/external/regex-re2
+490ee2add3e74d7cf87ae6150e726892f731657c	not-for-merge	tag 'android-4.3_r2.3' of https://android.googlesource.com/platform/external/regex-re2
+6e60efd8dc75721640ef41bb268ec4108d42c066	not-for-merge	tag 'android-4.3_r3' of https://android.googlesource.com/platform/external/regex-re2
+3a36551b2ebfdb8ae8c41b5417cbfc88696d21bf	not-for-merge	tag 'android-4.3_r3.1' of https://android.googlesource.com/platform/external/regex-re2
+1930673f40254063f7bdb8092dc5cb7a70e87294	not-for-merge	tag 'android-4.4.1_r1' of https://android.googlesource.com/platform/external/regex-re2
+e24f45574e6ad35281c951035bf17823e861d063	not-for-merge	tag 'android-4.4.1_r1.0.1' of https://android.googlesource.com/platform/external/regex-re2
+d5451cf2fda088b3012c92f81ba62ecf5daba7b9	not-for-merge	tag 'android-4.4.2_r1' of https://android.googlesource.com/platform/external/regex-re2
+cccd867791dee69c9cbaa5e9cdcb3adb9545c126	not-for-merge	tag 'android-4.4.2_r1.0.1' of https://android.googlesource.com/platform/external/regex-re2
+7c29a6329ddd3cd623e268bfc4d09ac6d083b592	not-for-merge	tag 'android-4.4.2_r2' of https://android.googlesource.com/platform/external/regex-re2
+3b2a250de7bfaa37fdd7deeb55495dceb3d34cc2	not-for-merge	tag 'android-4.4.2_r2.0.1' of https://android.googlesource.com/platform/external/regex-re2
+66efb595f90fba194684608490dcd6f8e429c11e	not-for-merge	tag 'android-4.4.3_r1' of https://android.googlesource.com/platform/external/regex-re2
+42cf86a4c71b6502eaaf2ee2b2d3244fee2645b5	not-for-merge	tag 'android-4.4.3_r1.0.1' of https://android.googlesource.com/platform/external/regex-re2
+ec27d1971efe4ae1f8a071bca0cd213c4dff2bd6	not-for-merge	tag 'android-4.4.3_r1.1' of https://android.googlesource.com/platform/external/regex-re2
+f0a004a7236e59a5ea66fd6a221b251d0959e4bd	not-for-merge	tag 'android-4.4.3_r1.1.0.1' of https://android.googlesource.com/platform/external/regex-re2
+b885351d84f51735927e2f35db57ac3ed576750d	not-for-merge	tag 'android-4.4.4_r1' of https://android.googlesource.com/platform/external/regex-re2
+3e835a2f458a9fc81b4b477d93254ec0d58c10cc	not-for-merge	tag 'android-4.4.4_r1.0.1' of https://android.googlesource.com/platform/external/regex-re2
+f231fbfdbf6b0a3b0506916cda7d397453339f3a	not-for-merge	tag 'android-4.4.4_r2' of https://android.googlesource.com/platform/external/regex-re2
+7df807eaef9cd25b7018d8cf815a31eb2d15376f	not-for-merge	tag 'android-4.4.4_r2.0.1' of https://android.googlesource.com/platform/external/regex-re2
+eca98ae006b1d4f43a32b8cd138406b24adc67dd	not-for-merge	tag 'android-4.4_r0.7' of https://android.googlesource.com/platform/external/regex-re2
+6e4d97f8c18267ff09a4411212762afe7036cb2d	not-for-merge	tag 'android-4.4_r0.8' of https://android.googlesource.com/platform/external/regex-re2
+5513c64e2fe3603675ef142184217ba31ca877a5	not-for-merge	tag 'android-4.4_r0.9' of https://android.googlesource.com/platform/external/regex-re2
+efb3646cfe5e0e83d0ca95436a37c958023c6882	not-for-merge	tag 'android-4.4_r1' of https://android.googlesource.com/platform/external/regex-re2
+100877a143a460a09ef3a7822fb0b8039442dc51	not-for-merge	tag 'android-4.4_r1.0.1' of https://android.googlesource.com/platform/external/regex-re2
+ad88baf02ae880c39ffd3702fca6c5011ea6e0ae	not-for-merge	tag 'android-4.4_r1.1' of https://android.googlesource.com/platform/external/regex-re2
+785ed9389e6e709f608db29d54c48dd8a7003e05	not-for-merge	tag 'android-4.4_r1.1.0.1' of https://android.googlesource.com/platform/external/regex-re2
+023db06ed533703c943d901679b0d8e3880b410d	not-for-merge	tag 'android-4.4_r1.2' of https://android.googlesource.com/platform/external/regex-re2
+bae4de2b2c7a331b7505a5290262a178647c7c24	not-for-merge	tag 'android-4.4_r1.2.0.1' of https://android.googlesource.com/platform/external/regex-re2
+c8deea2d18d4725ffb67b1ca6ec06619991e6d70	not-for-merge	tag 'android-4.4w_r1' of https://android.googlesource.com/platform/external/regex-re2
+b6acec6232e4dd5511dd5abac7350afa2741085a	not-for-merge	tag 'android-5.0.0_r1' of https://android.googlesource.com/platform/external/regex-re2
+7a6647b3b285d03eb72c301f375f05fe2652c831	not-for-merge	tag 'android-5.0.0_r2' of https://android.googlesource.com/platform/external/regex-re2
+e3b1d083b187bee74884a38f25d19cf10981e1e1	not-for-merge	tag 'android-5.0.0_r3' of https://android.googlesource.com/platform/external/regex-re2
+b868cb4e2dfb14f418ee7d523114ed3c5015bbd7	not-for-merge	tag 'android-5.0.0_r4' of https://android.googlesource.com/platform/external/regex-re2
+bac202fccbd2b9fdd3ae32d511a15110fe609bf9	not-for-merge	tag 'android-5.0.0_r5' of https://android.googlesource.com/platform/external/regex-re2
+aac8202a9e99a5f35ab7a3fbbc2e248ba4cb8614	not-for-merge	tag 'android-5.0.0_r5.1' of https://android.googlesource.com/platform/external/regex-re2
+32879e633ec5e70694a6b946d83bc11d4b43d31d	not-for-merge	tag 'android-5.0.0_r6' of https://android.googlesource.com/platform/external/regex-re2
+947f23b8c44fab31644f67c71afb36a2e6d78190	not-for-merge	tag 'android-5.0.0_r7' of https://android.googlesource.com/platform/external/regex-re2
+c1c46a691cb2fb0c8ebe4442e8c18b32d8ac83ab	not-for-merge	tag 'android-5.0.1_r1' of https://android.googlesource.com/platform/external/regex-re2
+f68785ea00b9c1131ec039f28003a39d4771a808	not-for-merge	tag 'android-5.0.2_r1' of https://android.googlesource.com/platform/external/regex-re2
+9335f3926a0ee823082a262f14ef2849071598c9	not-for-merge	tag 'android-5.0.2_r3' of https://android.googlesource.com/platform/external/regex-re2
+196cfe2e03a9a7997a4d37970459ce133f04f7cd	not-for-merge	tag 'android-5.1.0_r1' of https://android.googlesource.com/platform/external/regex-re2
+11a3fce2a93abbaa3948ffed3f994fc4d612a3f3	not-for-merge	tag 'android-5.1.0_r3' of https://android.googlesource.com/platform/external/regex-re2
+462227f5143295da648108797bf407a32d18e04a	not-for-merge	tag 'android-5.1.0_r5' of https://android.googlesource.com/platform/external/regex-re2
+2c5580b960a301fac1ad315d4f49792c36893a5e	not-for-merge	tag 'android-5.1.1_r1' of https://android.googlesource.com/platform/external/regex-re2
+a669ff1a4ea3e31ab2cdc31ae8c4150d94559125	not-for-merge	tag 'android-5.1.1_r2' of https://android.googlesource.com/platform/external/regex-re2
+883db4bd7a6d828b9fee9e6538402eed2595af0d	not-for-merge	tag 'android-cts-4.1_r1' of https://android.googlesource.com/platform/external/regex-re2
+abec50457386f2cc1dcce501e68c1baf4ff087fa	not-for-merge	tag 'android-cts-4.1_r2' of https://android.googlesource.com/platform/external/regex-re2
+206f32436d585627b115fa37dce245af3f681f07	not-for-merge	tag 'android-cts-4.1_r4' of https://android.googlesource.com/platform/external/regex-re2
+ce78bcb561483c5eff8e5c565b57cca6deb9ca2d	not-for-merge	tag 'android-cts-4.2_r1' of https://android.googlesource.com/platform/external/regex-re2
+7b0b8efccb39c4766293655885909fc489c7771a	not-for-merge	tag 'android-cts-4.2_r2' of https://android.googlesource.com/platform/external/regex-re2
+878b4c0ecf9438832b90462404c8a40779572732	not-for-merge	tag 'android-cts-4.4_r1' of https://android.googlesource.com/platform/external/regex-re2
+44a1f33f857eb51894faa6a78ee8e2157733e6a6	not-for-merge	tag 'android-cts-5.1_r1' of https://android.googlesource.com/platform/external/regex-re2
+050c106a932e567aa96ef139a448850bef48395e	not-for-merge	tag 'android-l-preview_r2' of https://android.googlesource.com/platform/external/regex-re2
+571ce1970ea275bf2dd1edf14ee95b571f71c516	not-for-merge	tag 'android-sdk-4.4.2_r1' of https://android.googlesource.com/platform/external/regex-re2
+e30851ec3dc75fec60b8ff7b5d9ae3b57516efe7	not-for-merge	tag 'android-sdk-4.4.2_r1.0.1' of https://android.googlesource.com/platform/external/regex-re2
+d31845b6b78e8c35cb55f67f43fa81ba14a34558	not-for-merge	tag 'android-sdk-support_r11' of https://android.googlesource.com/platform/external/regex-re2
+e2c6f6901893ef41811c80e7ef0094a6201c36e4	not-for-merge	tag 'android-wear-5.0.0_r1' of https://android.googlesource.com/platform/external/regex-re2

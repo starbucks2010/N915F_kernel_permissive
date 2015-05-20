@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 0322cb690f0e0830cfbe50fadbbb35fdd4354fa9 andrei <andrei@N915F-selnx-perm.(none)> 1432030026 +0300	fetch --progress origin --tags +refs/heads/*:refs/remotes/origin/* +refs/heads/master:refs/remotes/origin/master: storing head

@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 26e93f6af47f7bd3a9beb5c102a5f45e19bfa38a andrei <andrei@N915F-selnx-perm.(none)> 1432030121 +0300	fetch --progress /home/andrei/edge/kernel/.repo/projects/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head

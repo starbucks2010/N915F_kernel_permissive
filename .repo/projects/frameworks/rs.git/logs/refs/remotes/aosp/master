@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 3830c20b499380578bd604cc151d8ed760a2fb4e andrei <andrei@N915F-selnx-perm.(none)> 1432030130 +0300	fetch --progress /home/andrei/edge/kernel/.repo/projects/frameworks/rs.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+3830c20b499380578bd604cc151d8ed760a2fb4e 902077a7b2db5b34560289e28fed0fab36ef4e6c andrei <andrei@N915F-selnx-perm.(none)> 1432030131 +0300	fetch --progress aosp --tags +refs/heads/*:refs/remotes/aosp/* +refs/heads/master:refs/remotes/aosp/master: fast-forward

@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 f7df5f6e4d77fa02a0b31bdfa1badaf678db9df6 andrei <andrei@N915F-selnx-perm.(none)> 1432030095 +0300	fetch --progress /home/andrei/edge/kernel/.repo/projects/external/ceres-solver.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head

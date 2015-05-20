@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 5589ee9219d8b9c4a5af87de2346425a6faf74cb andrei <andrei@N915F-selnx-perm.(none)> 1432030130 +0300	fetch --progress /home/andrei/edge/kernel/.repo/projects/external/doclava.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head

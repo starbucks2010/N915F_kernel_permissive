@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 b0934b67b95cc27e2358c2aa4db5f7c1067c8f9b andrei <andrei@N915F-selnx-perm.(none)> 1432030130 +0300	fetch --progress /home/andrei/edge/kernel/.repo/projects/frameworks/rs.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head

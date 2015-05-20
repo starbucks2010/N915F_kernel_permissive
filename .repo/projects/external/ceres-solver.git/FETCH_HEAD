@@ -1,0 +1,81 @@
+399f7d09e0c45af54b77b4ab9508d6f23759b927		branch 'idea133' of https://android.googlesource.com/platform/external/ceres-solver
+399f7d09e0c45af54b77b4ab9508d6f23759b927		branch 'idea133-weekly-release' of https://android.googlesource.com/platform/external/ceres-solver
+0ae28bd5885b5daa526898fcf7c323dc2c3e1963		branch 'jb-mr2-dev' of https://android.googlesource.com/platform/external/ceres-solver
+0ae28bd5885b5daa526898fcf7c323dc2c3e1963		branch 'jb-mr2-release' of https://android.googlesource.com/platform/external/ceres-solver
+0ae28bd5885b5daa526898fcf7c323dc2c3e1963		branch 'jb-mr2.0-release' of https://android.googlesource.com/platform/external/ceres-solver
+0ae28bd5885b5daa526898fcf7c323dc2c3e1963		branch 'jb-mr2.0.0-release' of https://android.googlesource.com/platform/external/ceres-solver
+399f7d09e0c45af54b77b4ab9508d6f23759b927		branch 'kitkat-cts-dev' of https://android.googlesource.com/platform/external/ceres-solver
+399f7d09e0c45af54b77b4ab9508d6f23759b927		branch 'kitkat-dev' of https://android.googlesource.com/platform/external/ceres-solver
+399f7d09e0c45af54b77b4ab9508d6f23759b927		branch 'kitkat-mr1-release' of https://android.googlesource.com/platform/external/ceres-solver
+399f7d09e0c45af54b77b4ab9508d6f23759b927		branch 'kitkat-mr1.1-release' of https://android.googlesource.com/platform/external/ceres-solver
+399f7d09e0c45af54b77b4ab9508d6f23759b927		branch 'kitkat-mr2-release' of https://android.googlesource.com/platform/external/ceres-solver
+399f7d09e0c45af54b77b4ab9508d6f23759b927		branch 'kitkat-mr2.1-release' of https://android.googlesource.com/platform/external/ceres-solver
+399f7d09e0c45af54b77b4ab9508d6f23759b927		branch 'kitkat-mr2.2-release' of https://android.googlesource.com/platform/external/ceres-solver
+399f7d09e0c45af54b77b4ab9508d6f23759b927		branch 'kitkat-release' of https://android.googlesource.com/platform/external/ceres-solver
+399f7d09e0c45af54b77b4ab9508d6f23759b927		branch 'kitkat-wear' of https://android.googlesource.com/platform/external/ceres-solver
+399f7d09e0c45af54b77b4ab9508d6f23759b927		branch 'l-preview' of https://android.googlesource.com/platform/external/ceres-solver
+79397c21138f54fcff6ec067b44b847f1f7e0e98		branch 'lollipop-dev' of https://android.googlesource.com/platform/external/ceres-solver
+79397c21138f54fcff6ec067b44b847f1f7e0e98		branch 'lollipop-mr1-dev' of https://android.googlesource.com/platform/external/ceres-solver
+79397c21138f54fcff6ec067b44b847f1f7e0e98		branch 'lollipop-mr1-release' of https://android.googlesource.com/platform/external/ceres-solver
+79397c21138f54fcff6ec067b44b847f1f7e0e98		branch 'lollipop-release' of https://android.googlesource.com/platform/external/ceres-solver
+79397c21138f54fcff6ec067b44b847f1f7e0e98		branch 'lollipop-wear-release' of https://android.googlesource.com/platform/external/ceres-solver
+f7df5f6e4d77fa02a0b31bdfa1badaf678db9df6		branch 'master' of https://android.googlesource.com/platform/external/ceres-solver
+f7df5f6e4d77fa02a0b31bdfa1badaf678db9df6		branch 'master-soong' of https://android.googlesource.com/platform/external/ceres-solver
+0ae28bd5885b5daa526898fcf7c323dc2c3e1963		branch 'tools_r22.2' of https://android.googlesource.com/platform/external/ceres-solver
+f0e58cef8ecc1825e5311c9add4613d602b87a18	not-for-merge	tag 'android-4.3.1_r1' of https://android.googlesource.com/platform/external/ceres-solver
+cc8a8e4665cce60956e06cb1b3c45d6685e886f5	not-for-merge	tag 'android-4.3_r0.9' of https://android.googlesource.com/platform/external/ceres-solver
+c75bd7a7b0d6589f1a403d2a4e5d553d6935f991	not-for-merge	tag 'android-4.3_r0.9.1' of https://android.googlesource.com/platform/external/ceres-solver
+7728b21a7f2bcf23eae83b04b9df79d3236fb947	not-for-merge	tag 'android-4.3_r1' of https://android.googlesource.com/platform/external/ceres-solver
+88179ccc6bd1ba532628b787e2400e951e4d46e0	not-for-merge	tag 'android-4.3_r1.1' of https://android.googlesource.com/platform/external/ceres-solver
+3d416de7ea125440d8527bc7fd003680b65764c1	not-for-merge	tag 'android-4.3_r2' of https://android.googlesource.com/platform/external/ceres-solver
+d9474961d140626c77cc2cc8a6fb422f76727891	not-for-merge	tag 'android-4.3_r2.1' of https://android.googlesource.com/platform/external/ceres-solver
+8ce63e17a49d09161d1789ef3ea5fab731fde4cd	not-for-merge	tag 'android-4.3_r2.2' of https://android.googlesource.com/platform/external/ceres-solver
+5e3bfbc44851c5a0a465534af53123bd6803d2c9	not-for-merge	tag 'android-4.3_r2.3' of https://android.googlesource.com/platform/external/ceres-solver
+256d4292adb45e45b97ca8b97f385bfff5fbbdc0	not-for-merge	tag 'android-4.3_r3' of https://android.googlesource.com/platform/external/ceres-solver
+fcfe33a1ca1c1631ba95b07ee42851f5cb0cbe0f	not-for-merge	tag 'android-4.3_r3.1' of https://android.googlesource.com/platform/external/ceres-solver
+bbfc1a8b4d47a61af413b5ac73e0cf0ff69219ac	not-for-merge	tag 'android-4.4.1_r1' of https://android.googlesource.com/platform/external/ceres-solver
+bdba3ff85753ef42603c4036d5fbb81d0491f156	not-for-merge	tag 'android-4.4.1_r1.0.1' of https://android.googlesource.com/platform/external/ceres-solver
+ca0ba242c521b85a968517e758f2798b160263bd	not-for-merge	tag 'android-4.4.2_r1' of https://android.googlesource.com/platform/external/ceres-solver
+ae45ec76c10ff453726ec9e87643db04fd73a2da	not-for-merge	tag 'android-4.4.2_r1.0.1' of https://android.googlesource.com/platform/external/ceres-solver
+3e71a60bccaace5f5eadcebc726f7012c054b8b1	not-for-merge	tag 'android-4.4.2_r2' of https://android.googlesource.com/platform/external/ceres-solver
+cc521c6bf8c867382464121bbcf8e65372952f2d	not-for-merge	tag 'android-4.4.2_r2.0.1' of https://android.googlesource.com/platform/external/ceres-solver
+c80b714e2804433f239d2ed5c3626b162c9def6e	not-for-merge	tag 'android-4.4.3_r1' of https://android.googlesource.com/platform/external/ceres-solver
+6f408fe6421211dc4163f048a1b3f632dad5e5d0	not-for-merge	tag 'android-4.4.3_r1.0.1' of https://android.googlesource.com/platform/external/ceres-solver
+be63af7fecca68b067f730a4c4cfc921412590f9	not-for-merge	tag 'android-4.4.3_r1.1' of https://android.googlesource.com/platform/external/ceres-solver
+1e13ee370ec30314e636d8311a5dfaced2fdd3b1	not-for-merge	tag 'android-4.4.3_r1.1.0.1' of https://android.googlesource.com/platform/external/ceres-solver
+6e0c5c5927eec9fe5271d73173931346d1a0f603	not-for-merge	tag 'android-4.4.4_r1' of https://android.googlesource.com/platform/external/ceres-solver
+0fb88d6429d41c6b01e45a0b457d974e68c6690f	not-for-merge	tag 'android-4.4.4_r1.0.1' of https://android.googlesource.com/platform/external/ceres-solver
+0be3eaeac0e8a591f27d57f5e6d21096fb118ee2	not-for-merge	tag 'android-4.4.4_r2' of https://android.googlesource.com/platform/external/ceres-solver
+701edde73b5e6913050b2610edab3f1dc61a9b0b	not-for-merge	tag 'android-4.4.4_r2.0.1' of https://android.googlesource.com/platform/external/ceres-solver
+d678f7775f10481fb98d54c55c1c3ed459788f0e	not-for-merge	tag 'android-4.4_r0.7' of https://android.googlesource.com/platform/external/ceres-solver
+2077f4b3299bdf138b6f1686909db1908484d7bc	not-for-merge	tag 'android-4.4_r0.8' of https://android.googlesource.com/platform/external/ceres-solver
+70e480af3d0e4a2908ec365cb846a5f5ad5a5376	not-for-merge	tag 'android-4.4_r0.9' of https://android.googlesource.com/platform/external/ceres-solver
+681c588d094a3ff58d7eb74135dd1d4f675a3b96	not-for-merge	tag 'android-4.4_r1' of https://android.googlesource.com/platform/external/ceres-solver
+8fde5905b02fc4923a713767185be0ec912feda5	not-for-merge	tag 'android-4.4_r1.0.1' of https://android.googlesource.com/platform/external/ceres-solver
+eac8a5f947ebd90975c12fed6106588ab9b73138	not-for-merge	tag 'android-4.4_r1.1' of https://android.googlesource.com/platform/external/ceres-solver
+e1f0ec7914be76dd3bd6f846868d653a14a897e9	not-for-merge	tag 'android-4.4_r1.1.0.1' of https://android.googlesource.com/platform/external/ceres-solver
+08ef4e93aec23e7a3121992f0ee89ea6c983c8cf	not-for-merge	tag 'android-4.4_r1.2' of https://android.googlesource.com/platform/external/ceres-solver
+026378b170c4f2d08367ea72c5628e9b3f31b54e	not-for-merge	tag 'android-4.4_r1.2.0.1' of https://android.googlesource.com/platform/external/ceres-solver
+70a893be43467950b7f9e52d14e4fd214c8a1ef1	not-for-merge	tag 'android-4.4w_r1' of https://android.googlesource.com/platform/external/ceres-solver
+ba8249dfb26dd248d6d69f2ff7eaf02b09eddc4c	not-for-merge	tag 'android-5.0.0_r1' of https://android.googlesource.com/platform/external/ceres-solver
+b148adc608fe75bccda17f2618de25e7bdc5c6e3	not-for-merge	tag 'android-5.0.0_r2' of https://android.googlesource.com/platform/external/ceres-solver
+7a624632e5439c147c01c85ad12cfd522f456cec	not-for-merge	tag 'android-5.0.0_r3' of https://android.googlesource.com/platform/external/ceres-solver
+e3b452f1e6c724d71b399a9ff3bb44078b1c9b3f	not-for-merge	tag 'android-5.0.0_r4' of https://android.googlesource.com/platform/external/ceres-solver
+926fdcb55b0a74de4a5df30416c88e6fe91030a4	not-for-merge	tag 'android-5.0.0_r5' of https://android.googlesource.com/platform/external/ceres-solver
+063ab09b623905fd28d6e30a90f67ba122f000c2	not-for-merge	tag 'android-5.0.0_r5.1' of https://android.googlesource.com/platform/external/ceres-solver
+2dc22c41d4973f632150ccf1bd706d77496b1d67	not-for-merge	tag 'android-5.0.0_r6' of https://android.googlesource.com/platform/external/ceres-solver
+41744938ae58031d37dddccc31387c48a4b77bb3	not-for-merge	tag 'android-5.0.0_r7' of https://android.googlesource.com/platform/external/ceres-solver
+1f2cff2f90ae5d32aa6c54c5a99adc8059474e29	not-for-merge	tag 'android-5.0.1_r1' of https://android.googlesource.com/platform/external/ceres-solver
+babc5e14dc2fc075d2e689c79249273ab10cdbde	not-for-merge	tag 'android-5.0.2_r1' of https://android.googlesource.com/platform/external/ceres-solver
+c68e82251f6b5029353f271313825f573b3d7f99	not-for-merge	tag 'android-5.0.2_r3' of https://android.googlesource.com/platform/external/ceres-solver
+26a7a8bb4a429e0e75e9b9874cbffac07c39351b	not-for-merge	tag 'android-5.1.0_r1' of https://android.googlesource.com/platform/external/ceres-solver
+05c9e391a0fcd810057c2f70ec487f064f67ad27	not-for-merge	tag 'android-5.1.0_r3' of https://android.googlesource.com/platform/external/ceres-solver
+215a256487e7a47ce106fa9c3041e50a646aba36	not-for-merge	tag 'android-5.1.0_r5' of https://android.googlesource.com/platform/external/ceres-solver
+a6cf4b15390e5bb469a90b6bc579574a0bb461dc	not-for-merge	tag 'android-5.1.1_r1' of https://android.googlesource.com/platform/external/ceres-solver
+ca39fe7d94bfb515cd754759ba9ef64e08c73b8b	not-for-merge	tag 'android-5.1.1_r2' of https://android.googlesource.com/platform/external/ceres-solver
+eb4a8a862ab07b039d1b3a7b49ef01970337b2e2	not-for-merge	tag 'android-cts-4.4_r1' of https://android.googlesource.com/platform/external/ceres-solver
+0ae49a60fa2bf7e75cebc180876f8b98055b037a	not-for-merge	tag 'android-cts-5.1_r1' of https://android.googlesource.com/platform/external/ceres-solver
+6cd93cb5cdb7df09105ae8590a64d406dd2e6b4c	not-for-merge	tag 'android-l-preview_r2' of https://android.googlesource.com/platform/external/ceres-solver
+0d5c586a40a162e7103f27af74e21331ace899fc	not-for-merge	tag 'android-sdk-4.4.2_r1' of https://android.googlesource.com/platform/external/ceres-solver
+1fddb1579e53e01ede50f16a085f061c159fa6e6	not-for-merge	tag 'android-sdk-4.4.2_r1.0.1' of https://android.googlesource.com/platform/external/ceres-solver
+26a789f5b47b1ffa7661429fea8920752b346b66	not-for-merge	tag 'android-wear-5.0.0_r1' of https://android.googlesource.com/platform/external/ceres-solver

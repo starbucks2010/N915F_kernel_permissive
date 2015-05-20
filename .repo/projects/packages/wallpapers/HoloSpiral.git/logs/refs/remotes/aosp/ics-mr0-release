@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 787a95a8c973facb890703159861bb332c2ae655 andrei <andrei@N915F-selnx-perm.(none)> 1432030088 +0300	fetch --progress aosp --tags +refs/heads/*:refs/remotes/aosp/* +refs/heads/master:refs/remotes/aosp/master: storing head

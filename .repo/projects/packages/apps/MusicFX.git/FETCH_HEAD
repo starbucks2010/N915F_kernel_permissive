@@ -1,0 +1,143 @@
+ef7887d2308e0655237aaaddd52494d918d0eeef		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+b199cff238541bb8ccc38aa15fe70e2978095613		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/MusicFX
+b199cff238541bb8ccc38aa15fe70e2978095613		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+b6436a644aa2e78dac41e4971b60d0b8ad95884e		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+b6436a644aa2e78dac41e4971b60d0b8ad95884e		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+b6436a644aa2e78dac41e4971b60d0b8ad95884e		branch 'ics-plus-aosp' of https://android.googlesource.com/platform/packages/apps/MusicFX
+aaa2f99caac6f088b23de55fe2eb1e8ee305b1fb		branch 'idea133' of https://android.googlesource.com/platform/packages/apps/MusicFX
+aaa2f99caac6f088b23de55fe2eb1e8ee305b1fb		branch 'idea133-weekly-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+d9fc04055aed9130f02627a73414ee12865a473d		branch 'jb-dev' of https://android.googlesource.com/platform/packages/apps/MusicFX
+d9fc04055aed9130f02627a73414ee12865a473d		branch 'jb-mr0-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+bc778ede573dc74646d42dfe96997f74b23ac61d		branch 'jb-mr1-dev' of https://android.googlesource.com/platform/packages/apps/MusicFX
+cb395324fe5862a8a4b82a967822aeaf83e0fabb		branch 'jb-mr1-dev-plus-aosp' of https://android.googlesource.com/platform/packages/apps/MusicFX
+bc778ede573dc74646d42dfe96997f74b23ac61d		branch 'jb-mr1-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+bc778ede573dc74646d42dfe96997f74b23ac61d		branch 'jb-mr1.1-dev' of https://android.googlesource.com/platform/packages/apps/MusicFX
+cb395324fe5862a8a4b82a967822aeaf83e0fabb		branch 'jb-mr1.1-dev-plus-aosp' of https://android.googlesource.com/platform/packages/apps/MusicFX
+bc778ede573dc74646d42dfe96997f74b23ac61d		branch 'jb-mr1.1-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+12410bc89583114ab86680169e1c073f0b26b321		branch 'jb-mr2-dev' of https://android.googlesource.com/platform/packages/apps/MusicFX
+12410bc89583114ab86680169e1c073f0b26b321		branch 'jb-mr2-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+12410bc89583114ab86680169e1c073f0b26b321		branch 'jb-mr2.0-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+12410bc89583114ab86680169e1c073f0b26b321		branch 'jb-mr2.0.0-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+d9fc04055aed9130f02627a73414ee12865a473d		branch 'jb-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+11bdc2102830382f2b71f43decfd8a8bca050617		branch 'kitkat-cts-dev' of https://android.googlesource.com/platform/packages/apps/MusicFX
+11bdc2102830382f2b71f43decfd8a8bca050617		branch 'kitkat-dev' of https://android.googlesource.com/platform/packages/apps/MusicFX
+11bdc2102830382f2b71f43decfd8a8bca050617		branch 'kitkat-mr1-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+11bdc2102830382f2b71f43decfd8a8bca050617		branch 'kitkat-mr1.1-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+11bdc2102830382f2b71f43decfd8a8bca050617		branch 'kitkat-mr2-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+11bdc2102830382f2b71f43decfd8a8bca050617		branch 'kitkat-mr2.1-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+11bdc2102830382f2b71f43decfd8a8bca050617		branch 'kitkat-mr2.2-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+11bdc2102830382f2b71f43decfd8a8bca050617		branch 'kitkat-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+11bdc2102830382f2b71f43decfd8a8bca050617		branch 'kitkat-wear' of https://android.googlesource.com/platform/packages/apps/MusicFX
+aaa2f99caac6f088b23de55fe2eb1e8ee305b1fb		branch 'l-preview' of https://android.googlesource.com/platform/packages/apps/MusicFX
+2fae369f34796623f7b2e3214898e92f4c145e56		branch 'lollipop-dev' of https://android.googlesource.com/platform/packages/apps/MusicFX
+3e7f6ebfd376eced7c2c193768b65e4eeebd1e79		branch 'lollipop-mr1-dev' of https://android.googlesource.com/platform/packages/apps/MusicFX
+3e7f6ebfd376eced7c2c193768b65e4eeebd1e79		branch 'lollipop-mr1-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+2fae369f34796623f7b2e3214898e92f4c145e56		branch 'lollipop-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+c2a07ce075e18f802dddc5f47f41818a1be318a7		branch 'lollipop-wear-release' of https://android.googlesource.com/platform/packages/apps/MusicFX
+2a09c6f2a0ca76b26be7234e9ad08c3a39bd7e5b		branch 'master' of https://android.googlesource.com/platform/packages/apps/MusicFX
+2a09c6f2a0ca76b26be7234e9ad08c3a39bd7e5b		branch 'master-soong' of https://android.googlesource.com/platform/packages/apps/MusicFX
+b6436a644aa2e78dac41e4971b60d0b8ad95884e		branch 'tools_r20' of https://android.googlesource.com/platform/packages/apps/MusicFX
+73f51a0fc5c20ee852367643527b46902f31e9bf		branch 'tools_r21' of https://android.googlesource.com/platform/packages/apps/MusicFX
+cb395324fe5862a8a4b82a967822aeaf83e0fabb		branch 'tools_r22' of https://android.googlesource.com/platform/packages/apps/MusicFX
+12410bc89583114ab86680169e1c073f0b26b321		branch 'tools_r22.2' of https://android.googlesource.com/platform/packages/apps/MusicFX
+8ee1e651ddeac932c4832ca2ed5abecf0f7e13bf	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+d7b0d505e9578d0536b1369f981ae24362188102	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+d89b076e1f321748a9552048b72a816a45a304f2	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/MusicFX
+de2174187d28dade585b99f78fa4711c2fba64fd	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+0bdd4db4fb9a2e31e72353a487471dc40a90b235	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+4e95d2971cd498cc1acf72e27e2996c501eac0ad	not-for-merge	tag 'android-4.0.3_r1.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+90df2e29e1a1d1414849d1479e4465989ccb98eb	not-for-merge	tag 'android-4.0.4_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+c9d2e248625bc44ee1ad62c2522550859a326d19	not-for-merge	tag 'android-4.0.4_r1.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+848d72540f4048d0a74cd6cb41eab6c9f2c51b3e	not-for-merge	tag 'android-4.0.4_r1.2' of https://android.googlesource.com/platform/packages/apps/MusicFX
+370c21a71ec16b4e83322f92a52d02e694f5edd7	not-for-merge	tag 'android-4.0.4_r2' of https://android.googlesource.com/platform/packages/apps/MusicFX
+b78daf32bbf81f983a9a01cf73863bcd08bd731a	not-for-merge	tag 'android-4.0.4_r2.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+9f4a5779d0776935b1189268d6b0a55e861bf3ac	not-for-merge	tag 'android-4.1.1_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+9f49d216309f8fa985c2240f87e7bb4d0275029a	not-for-merge	tag 'android-4.1.1_r1.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+97022df952dc85e1aa1d6d72e9ca8dc99c7d72b9	not-for-merge	tag 'android-4.1.1_r2' of https://android.googlesource.com/platform/packages/apps/MusicFX
+9c9b6391ae6ce3a7218ee2f6bf4b7b556b4b181c	not-for-merge	tag 'android-4.1.1_r3' of https://android.googlesource.com/platform/packages/apps/MusicFX
+31c0b998416f51e5fe51ee69a05eae50f4b0c0c1	not-for-merge	tag 'android-4.1.1_r4' of https://android.googlesource.com/platform/packages/apps/MusicFX
+7136dd777f2fc719b0028300e64d2041a0de2ebb	not-for-merge	tag 'android-4.1.1_r5' of https://android.googlesource.com/platform/packages/apps/MusicFX
+105c57d558d8e226ad38c2b9874e0532ee817d29	not-for-merge	tag 'android-4.1.1_r6' of https://android.googlesource.com/platform/packages/apps/MusicFX
+d7690652853976ea618bdc3e6a1b3cb5e67a97a8	not-for-merge	tag 'android-4.1.1_r6.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+1c7adcd0466bf3b95acb8181790fc1adad529799	not-for-merge	tag 'android-4.1.2_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+a08696cbc098a39bef480b46840e01261c7e0ce3	not-for-merge	tag 'android-4.1.2_r2' of https://android.googlesource.com/platform/packages/apps/MusicFX
+4a9bf8b5db1e865d7290cbcfdc8805ce3770c6a0	not-for-merge	tag 'android-4.1.2_r2.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+99b3ddb3de3645366b952b9fe0dea341301a4579	not-for-merge	tag 'android-4.2.1_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+f8a2f8bd1bae5d415e7c9bf0f65598610e5ecfb9	not-for-merge	tag 'android-4.2.1_r1.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+781e2c9b3c9fce6cb303f7842a4bcc148c56e89e	not-for-merge	tag 'android-4.2.1_r1.2' of https://android.googlesource.com/platform/packages/apps/MusicFX
+e44f230a963d402d5d462752dff231af0b560154	not-for-merge	tag 'android-4.2.2_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+bbfac98d613a14296ea34bee4ec88701e484e057	not-for-merge	tag 'android-4.2.2_r1.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+fe655863232a33a302017cff31f5a280c83cff94	not-for-merge	tag 'android-4.2.2_r1.2' of https://android.googlesource.com/platform/packages/apps/MusicFX
+7e2409eaa7951de196930180bc4ffe8b5b9439b0	not-for-merge	tag 'android-4.2_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+eaf580e63c788c9aa486dccf9df83f6a9ebdc394	not-for-merge	tag 'android-4.3.1_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+eed513d9c16602bfa571b6656d61687e97f7cd6b	not-for-merge	tag 'android-4.3_r0.9' of https://android.googlesource.com/platform/packages/apps/MusicFX
+c86cde224f9e7780623f34ca66c05b0eec3da7db	not-for-merge	tag 'android-4.3_r0.9.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+fbe9866b8a49b2333ff592cd8837515a9bb61363	not-for-merge	tag 'android-4.3_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+6fa70d34f5f93d6b4da35d5bd81a1d873a1aa5ed	not-for-merge	tag 'android-4.3_r1.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+99a058251afc77a23647e36e1638e9f0c7531f97	not-for-merge	tag 'android-4.3_r2' of https://android.googlesource.com/platform/packages/apps/MusicFX
+3cdec0cb98d2daaacbcb784e1b1347957091e359	not-for-merge	tag 'android-4.3_r2.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+cbe1f55d13380681fce01802b79be849d509ea4a	not-for-merge	tag 'android-4.3_r2.2' of https://android.googlesource.com/platform/packages/apps/MusicFX
+5d81214c2b41342348a76739ffb00e5d73bbb7fd	not-for-merge	tag 'android-4.3_r2.3' of https://android.googlesource.com/platform/packages/apps/MusicFX
+c3bc1ff280872e5a5e7e36337cd13efdff3e0345	not-for-merge	tag 'android-4.3_r3' of https://android.googlesource.com/platform/packages/apps/MusicFX
+deb2df0f2b3e9e2ad6945b5d4b23a93c96157e42	not-for-merge	tag 'android-4.3_r3.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+7b1b5d70002940b9de8e2caa34f516d4fcd5cf12	not-for-merge	tag 'android-4.4.1_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+e04f99df50f4963ace25a48ad459741b2347d99d	not-for-merge	tag 'android-4.4.1_r1.0.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+9a821972d62a56adc1d417b529fb2bbd0ac2ef9c	not-for-merge	tag 'android-4.4.2_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+4eb042efae240811acbd3b08380ad87c25df6408	not-for-merge	tag 'android-4.4.2_r1.0.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+04faad1969bef2138f1d136ea06df5e21d1600e1	not-for-merge	tag 'android-4.4.2_r2' of https://android.googlesource.com/platform/packages/apps/MusicFX
+ab10a6ed7e1e40b8aeb4695779d4321231914369	not-for-merge	tag 'android-4.4.2_r2.0.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+aad7759f789be39dde9aefbdccea7d494e13178b	not-for-merge	tag 'android-4.4.3_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+3af82d335b0f0bb71984640b92ef3104f8c70562	not-for-merge	tag 'android-4.4.3_r1.0.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+7254ca95c408dd5b57abbf9ebbf2661514399993	not-for-merge	tag 'android-4.4.3_r1.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+01f888d9ab2017f731de7ff930be67ef8b462f56	not-for-merge	tag 'android-4.4.3_r1.1.0.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+ede979040b91f5e335e0633821d7c7ae20a92c9d	not-for-merge	tag 'android-4.4.4_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+cc22290e7184df7e1bbb59b8b4b128a98370c774	not-for-merge	tag 'android-4.4.4_r1.0.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+638d3db396efb81b34f6f30b644147d119bb118f	not-for-merge	tag 'android-4.4.4_r2' of https://android.googlesource.com/platform/packages/apps/MusicFX
+7079254e0304494c17059c8237c66da59f5ccf95	not-for-merge	tag 'android-4.4.4_r2.0.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+5eb3b052ecf93a65e2aa73ad22145a1af8fad4c5	not-for-merge	tag 'android-4.4_r0.7' of https://android.googlesource.com/platform/packages/apps/MusicFX
+2f759ca860a326c23773ffb7625f73fddf4148f7	not-for-merge	tag 'android-4.4_r0.8' of https://android.googlesource.com/platform/packages/apps/MusicFX
+fc49d8fcbe6f5c4320f2c49c26b76f017e6eca22	not-for-merge	tag 'android-4.4_r0.9' of https://android.googlesource.com/platform/packages/apps/MusicFX
+2698016deee552532fe1080680d3f3d558df8ed2	not-for-merge	tag 'android-4.4_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+9d87e97cb7f9b9e810bb03811b2af9a59e42e68d	not-for-merge	tag 'android-4.4_r1.0.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+7fa10863e92de6fbf8ccb077a1b6e0e8aed9d8e1	not-for-merge	tag 'android-4.4_r1.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+35009283aaaa7504f9b173adc05c8b5aa1e4b5e2	not-for-merge	tag 'android-4.4_r1.1.0.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+9fdfaecf326de885d6e3282da0799fa647bf70c6	not-for-merge	tag 'android-4.4_r1.2' of https://android.googlesource.com/platform/packages/apps/MusicFX
+7ef972acc512074958fbc2f1599722535894b2c9	not-for-merge	tag 'android-4.4_r1.2.0.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+95908408d693b086c59d4b96722a62e402430ca8	not-for-merge	tag 'android-4.4w_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+0231bd317c505fc3394f733051b10fdb35bccfa5	not-for-merge	tag 'android-5.0.0_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+14623bff961c68854b1e842c159e3232bc1a5048	not-for-merge	tag 'android-5.0.0_r2' of https://android.googlesource.com/platform/packages/apps/MusicFX
+44a73bb592221821c3221e54321fe3fdc9c34160	not-for-merge	tag 'android-5.0.0_r3' of https://android.googlesource.com/platform/packages/apps/MusicFX
+edd88d93530c6fe971310bc4f2c945c915c68a0d	not-for-merge	tag 'android-5.0.0_r4' of https://android.googlesource.com/platform/packages/apps/MusicFX
+812677f7506ce49b2cc670d5b1b3ea5a9e77d2e8	not-for-merge	tag 'android-5.0.0_r5' of https://android.googlesource.com/platform/packages/apps/MusicFX
+d46b5d6353eeaf7d7bd4339fc7af6792d68459b4	not-for-merge	tag 'android-5.0.0_r5.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+ddcaac62d6fef7105081916803cc5b399eecb2a2	not-for-merge	tag 'android-5.0.0_r6' of https://android.googlesource.com/platform/packages/apps/MusicFX
+8cc083112f4a0d0987c75b21582119721a442356	not-for-merge	tag 'android-5.0.0_r7' of https://android.googlesource.com/platform/packages/apps/MusicFX
+339005c7920b483e8fe49a81140da1a813eb2680	not-for-merge	tag 'android-5.0.1_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+932c62afe3861adf3d041ff0ad4c2b5117197c71	not-for-merge	tag 'android-5.0.2_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+72a25f794cb762b5749b7bd3d6ffc79255564b69	not-for-merge	tag 'android-5.0.2_r3' of https://android.googlesource.com/platform/packages/apps/MusicFX
+f7dd0e67da234e34abe4afda117a7bede8f8cff7	not-for-merge	tag 'android-5.1.0_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+64d1f740adfc1a524c5e2aa8707b97c91301a007	not-for-merge	tag 'android-5.1.0_r3' of https://android.googlesource.com/platform/packages/apps/MusicFX
+7b4e1f8eb2611b8429e62225d25ae6d231a70fed	not-for-merge	tag 'android-5.1.0_r5' of https://android.googlesource.com/platform/packages/apps/MusicFX
+21f3b9f6ad99034cd97fc32571a2a2184df2d8b1	not-for-merge	tag 'android-5.1.1_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+40c58f70fc3a04b274438eead2f03efcfdd16232	not-for-merge	tag 'android-5.1.1_r2' of https://android.googlesource.com/platform/packages/apps/MusicFX
+01114ea7ca33b719223325ed9939af5305875ce5	not-for-merge	tag 'android-cts-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+ebe47027bcb95eda05caafb6c1a3f7e93893e24d	not-for-merge	tag 'android-cts-4.0.3_r2' of https://android.googlesource.com/platform/packages/apps/MusicFX
+6aa153bfa7681b2bb6edb30155a7b71565047e9d	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+89044fff0192c4c8bcd56aef6c2afe6fd6effc38	not-for-merge	tag 'android-cts-4.1_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+cf59803e5d6db631195c894b9ef326eac39d1c2d	not-for-merge	tag 'android-cts-4.1_r2' of https://android.googlesource.com/platform/packages/apps/MusicFX
+312938fd89b7a9d5e597afcbfbf821c6ed8b54cf	not-for-merge	tag 'android-cts-4.1_r4' of https://android.googlesource.com/platform/packages/apps/MusicFX
+1dab7414aad831117a4a462894c3ea51b2bc12a8	not-for-merge	tag 'android-cts-4.2_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+05a6d9b58b433f21431ef149ec89ee591fc208e1	not-for-merge	tag 'android-cts-4.2_r2' of https://android.googlesource.com/platform/packages/apps/MusicFX
+bcba80299275120691a1498e510d5ed67614c990	not-for-merge	tag 'android-cts-4.4_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+1b5427eb95af39c6417ad1cd0831cfdfd12f63ea	not-for-merge	tag 'android-cts-5.1_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+1b30ee1b84eba775163f40c2f56c64c90f982881	not-for-merge	tag 'android-cts-verifier-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+5860a7d2c52db3bca26775c812bc4b02541430e0	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+43fe1ca021852b4d5dae399d439733b948891aee	not-for-merge	tag 'android-l-preview_r2' of https://android.googlesource.com/platform/packages/apps/MusicFX
+34ccf15f0ed8b686e105b4271653fa3bb6faefca	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+7541bb41828d9c8868f2cf0e33c43a2376fe04a5	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+ec52bfd04fe67e7d068951fc9ffb4d0058ca27dd	not-for-merge	tag 'android-sdk-4.4.2_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+7bf6f487fec5d5137eaac0d08c1f65b04467aedc	not-for-merge	tag 'android-sdk-4.4.2_r1.0.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+a37ca429db60a16f792421ba7939cb7ac26c90d3	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/MusicFX
+d103a5ed81710394d2210efead01fbcff8ba825e	not-for-merge	tag 'android-sdk-adt_r20' of https://android.googlesource.com/platform/packages/apps/MusicFX
+bd6691c9677814a4bc18d57157e9bd735cf82d70	not-for-merge	tag 'android-sdk-support_r11' of https://android.googlesource.com/platform/packages/apps/MusicFX
+904cf28def9cda900a3eaa467fa3a2682df40133	not-for-merge	tag 'android-wear-5.0.0_r1' of https://android.googlesource.com/platform/packages/apps/MusicFX
